@@ -29,7 +29,6 @@
 <p>To set up the environment, run the following commands:</p>
 <pre> !pip install sacrebleu bert-score torchmetrics nltk rouge-score datasets transformers groq pandas tqdm matplotlib seaborn </pre>
 
-
 ## Download required NLTK datasets
 <pre>
 import nltk
@@ -135,7 +134,7 @@ for package in packages:
 <p>↑: The higher the better and ↓: The lower the better</p>
 
 ## Language Pairs
-<p>The project evaluates the following language pairs, taken from the <code>wmt19</code> dataset. For more information visit: <a href="https://huggingface.co/datasets/wmt/wmt19" target="_blank">wmt19 dataset on Hugging Face</a>.</p>.</p>
+<p>The project evaluates the following language pairs, taken from the <code>wmt19</code> dataset. For more information visit: <a href="https://huggingface.co/datasets/wmt/wmt19" target="_blank">wmt19 dataset on Hugging Face</a>.</p>
 
 <ul>
         <li>Czech-English (<code>cs-en</code>)</li>
