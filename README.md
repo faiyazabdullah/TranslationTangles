@@ -1,5 +1,4 @@
-# LLM4MT
-## From Context to Translation Quality: A Comprehensive Evaluation of State-of-the-Art Large Language Models for Machine Translation
+# LLM4MT: A Comprehensive Evaluation of State-of-the-Art Large Language Models for Machine Translation
 
 <p> This project evaluates multiple large language models (LLMs) across various language pairs using a range of popular evaluation metrics for machine translation (MT) tasks. We compare their performance for a robust understanding of their capabilities. </p>
 
