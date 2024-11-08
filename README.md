@@ -136,7 +136,8 @@ for package in packages:
 <p>↑: The higher the better and ↓: The lower the better</p>
 
 ## Language Pairs
-<p>The project evaluates the following language pairs, taken from the <code>wmt19</code> dataset:</p>
+<p>The project evaluates the following language pairs, taken from the <code>wmt19</code> dataset. For more information visit: <a href="https://huggingface.co/datasets/wmt/wmt19" target="_blank">wmt19 dataset on Hugging Face</a>.</p>.</p>
+
 <ul>
         <li>Czech-English (<code>cs-en</code>)</li>
         <li>German-English (<code>de-en</code>)</li>
