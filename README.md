@@ -31,9 +31,10 @@ nltk.download('omw-1.4')
 <pre>
 - LLM4MT.ipynb                  # Jupyter notebook with main code
 - README.md                     # Project README file
-- translations_*.csv            # Model translations output files
+- evaluation_results            # Directory containing all the evaluation results pair wise
+<!-- - translations_*.csv            # Model translations output files
 - mt_evaluation_results_*.csv   # Evaluation results files
-- mt_evaluation_heatmap_*.png   # Heatmap visualizations
+- mt_evaluation_heatmap_*.png   # Heatmap visualizations -->
 </pre>
 
 ## Usage
