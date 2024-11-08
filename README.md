@@ -137,12 +137,13 @@ for package in packages:
 <ul>
     <li><strong>BLEU</strong>: Measures n-gram overlap between the candidate and reference. <span>↑</span></li>
     <li><strong>chrF</strong>: Character n-gram F-score. <span>↑</span></li>
-    <li><strong>TER</strong>: Translation Edit Rate (lower is better). <span style="color:red;">(Lower is better)</span></li>
+    <li><strong>TER</strong>: Translation Edit Rate (lower is better). <span>↓</span></li>
     <li><strong>BERTScore</strong>: A semantic similarity metric using BERT embeddings. <span>↑</span></li>
-    <li><strong>Word Error Rate (WER)</strong>: The number of word-level errors. <span style="color:red;">(Lower is better)</span></li>
-    <li><strong>Character Error Rate (CER)</strong>: The number of character-level errors. <span style="color:red;">(Lower is better)</span></li>
+    <li><strong>Word Error Rate (WER)</strong>: The number of word-level errors. <span>↓</span></li>
+    <li><strong>Character Error Rate (CER)</strong>: The number of character-level errors. <span>↓</span></li>
     <li><strong>ROUGE</strong>: Measures overlapping n-grams (ROUGE-1, ROUGE-2, and ROUGE-L). <span>↑</span></li>
 </ul>
+<p>↑: The higher the better and ↓: The lower the better</p>
 
 ## Results and Visualization
 <p>Evaluation results are saved as <code>.csv</code> files and visualized using heatmaps. These heatmaps illustrate the relative performance of each model across the various evaluation metrics. Visualizations are saved in <code>.png</code> format and named according to the language pair.</p>
