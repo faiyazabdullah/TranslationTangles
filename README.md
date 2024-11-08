@@ -1,7 +1,7 @@
 # LLM4MT
 ## From Context to Translation Quality: A Comprehensive Evaluation of State-of-the-Art Large Language Models for Machine Translation
 
-<p> This project evaluates multiple machine translation (MT) models across various language pairs using a range of popular evaluation metrics. We use models from Google, Groq, Meta, and Mistral, comparing their performance on translation tasks for a robust understanding of their capabilities. </p>
+<p> This project evaluates multiple large language models (LLMs) across various language pairs using a range of popular evaluation metrics for machine translation (MT) tasks. We use models from Google, Groq, Meta, and Mistral, comparing their performance on translation tasks for a robust understanding of their capabilities. </p>
 
 
 ## Table of Contents
