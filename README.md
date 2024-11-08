@@ -146,6 +146,8 @@ for package in packages:
         <li>Lithuanian-English (<code>lt-en</code>)</li>
         <li>Russian-English (<code>ru-en</code>)</li>
         <li>Chinese-English (<code>zh-en</code>)</li>
+        <li>Estonian-English (<code>et-en</code>)</li>
+        <li>Turkish-English (<code>tr-en</code>)</li>
 </ul>
 
 ## Results and Visualization
