@@ -131,7 +131,7 @@ for package in packages:
     <li><strong>Character Error Rate (CER)</strong>: The number of character-level errors. <span>↓</span></li>
     <li><strong>ROUGE</strong>: Measures overlapping n-grams (ROUGE-1, ROUGE-2, and ROUGE-L). <span>↑</span></li>
 </ul>
-<p>↑: The higher the better and ↓: The lower the better</p>
+<p>↑: Higher the better and ↓: Lower the better</p>
 
 ## Language Pairs
 <p>The project evaluates the following language pairs, taken from the <code>wmt19</code> dataset. For more information visit: <a href="https://huggingface.co/datasets/wmt/wmt19" target="_blank">wmt19 dataset on Hugging Face</a>.</p>
