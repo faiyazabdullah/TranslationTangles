@@ -38,7 +38,7 @@ nltk.download('omw-1.4')
 
 ## Usage
 <ol>
-  <li><strong>Load and Evaluate Models</strong>: Run <code>main.py</code> or execute the cells in <code>evaluate_translation.ipynb</code>. The script will:
+  <li><strong>Load and Evaluate Models</strong>: Execute the cells in <code>LLM4MT.ipynb</code>. The script will:
     <ul>
       <li>Load translation datasets for specified language pairs.</li>
         <li>Translate each text in the dataset using multiple MT models via Groq API.</li>
