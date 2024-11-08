@@ -153,4 +153,4 @@ for package in packages:
 ## Results and Visualization
 <p>Evaluation results are saved as <code>.csv</code> files and visualized using heatmaps. These heatmaps illustrate the relative performance of each model across the various evaluation metrics. Visualizations are saved in <code>.png</code> format and named according to the language pair.</p>
 
-![mt_evaluation_heatmap](mt_evaluation_heatmap.pdf)
+![mt_evaluation_heatmap](mt_evaluation_heatmap.png)
