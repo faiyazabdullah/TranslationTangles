@@ -135,15 +135,13 @@ for package in packages:
 ## Language Pairs
 <p>The project evaluates the following language pairs, taken from the <code>wmt19</code> dataset:</p>
 <ul>
-        <li>Czech-English (<code>cs-en</code>)</li>
-        <li>German-English (<code>de-en</code>)</li>
-        <li>Finnish-English (<code>fi-en</code>)</li>
-        <li>French-German (<code>fr-de</code>)</li>
-        <li>Gujarati-English (<code>gu-en</code>)</li>
-        <li>Kazakh-English (<code>kk-en</code>)</li>
-        <li>Lithuanian-English (<code>lt-en</code>)</li>
-        <li>Russian-English (<code>ru-en</code>)</li>
-        <li>Chinese-English (<code>zh-en</code>)</li>
+    <li><strong>BLEU</strong>: Measures n-gram overlap between the candidate and reference. <span>↑</span></li>
+    <li><strong>chrF</strong>: Character n-gram F-score. <span>↑</span></li>
+    <li><strong>TER</strong>: Translation Edit Rate (lower is better). <span style="color:red;">(Lower is better)</span></li>
+    <li><strong>BERTScore</strong>: A semantic similarity metric using BERT embeddings. <span>↑</span></li>
+    <li><strong>Word Error Rate (WER)</strong>: The number of word-level errors. <span style="color:red;">(Lower is better)</span></li>
+    <li><strong>Character Error Rate (CER)</strong>: The number of character-level errors. <span style="color:red;">(Lower is better)</span></li>
+    <li><strong>ROUGE</strong>: Measures overlapping n-grams (ROUGE-1, ROUGE-2, and ROUGE-L). <span>↑</span></li>
 </ul>
 
 ## Results and Visualization
