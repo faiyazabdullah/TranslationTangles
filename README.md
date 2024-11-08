@@ -29,8 +29,7 @@ nltk.download('omw-1.4')
 
 ## Project Structure
 <pre>
-- evaluate_translation.ipynb    # Jupyter notebook with main code
-- main.py                       # Python script to run the evaluation
+- LLM4MT.ipynb                  # Jupyter notebook with main code
 - README.md                     # Project README file
 - translations_*.csv            # Model translations output files
 - mt_evaluation_results_*.csv   # Evaluation results files
