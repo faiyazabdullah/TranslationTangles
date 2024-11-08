@@ -20,7 +20,7 @@
 - README.md                     # Project README file
 - evaluation_results            # Directory containing all the evaluation results pair-wise
 - requirements.txt              # Text file with library requirements
-- mt_evaluation_heatmap.png     # Heatmap visualizations
+- mt_evaluation_heatmap.pdf     # Heatmap visualizations
 - mt_evaluation_results.csv     # Evaluation results files in .csv
 - mt_evaluation_results.xlsx    # Evaluation results files in .xlsx
 </pre>
@@ -153,4 +153,4 @@ for package in packages:
 ## Results and Visualization
 <p>Evaluation results are saved as <code>.csv</code> files and visualized using heatmaps. These heatmaps illustrate the relative performance of each model across the various evaluation metrics. Visualizations are saved in <code>.png</code> format and named according to the language pair.</p>
 
-![mt_evaluation_heatmap](mt_evaluation_heatmap.png)
+![mt_evaluation_heatmap](mt_evaluation_heatmap.pdf)
