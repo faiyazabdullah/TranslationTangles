@@ -33,9 +33,9 @@ nltk.download('omw-1.4')
 - README.md                     # Project README file
 - evaluation_results            # Directory containing all the evaluation results pair-wise
 - requirements.txt              # Text file with library requirements
-- mt_evaluation_heatmap.png   # Heatmap visualizations
-- mt_evaluation_results.csv   # Evaluation results files in .csv
-- mt_evaluation_results.xlsx   # Evaluation results files in .xlsx
+- mt_evaluation_heatmap.png     # Heatmap visualizations
+- mt_evaluation_results.csv     # Evaluation results files in .csv
+- mt_evaluation_results.xlsx    # Evaluation results files in .xlsx
 
 </pre>
 
