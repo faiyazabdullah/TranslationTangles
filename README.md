@@ -5,14 +5,25 @@
 
 ## Table of Contents
 <ul>
-  <li><a href="#installation"> Installation </a></li>
   <li><a href="#project-structure"> Project Structure </a></li>
+  <li><a href="#installation"> Installation </a></li>
   <li><a href="#usage"> Usage </a></li>
   <li><a href="#model-information"> Model Information </a></li>
   <li><a href="#evaluation-metrics"> Evaluation Metrics </a></li>
   <li><a href="#language-pairs"> Language Pairs </a></li>
   <li><a href="#results-and-visualization"> Results and Visualization </a></li>
 </ul>
+
+## Project Structure
+<pre>
+- LLM4MT.ipynb                  # Jupyter notebook with main code
+- README.md                     # Project README file
+- evaluation_results            # Directory containing all the evaluation results pair-wise
+- requirements.txt              # Text file with library requirements
+- mt_evaluation_heatmap.png     # Heatmap visualizations
+- mt_evaluation_results.csv     # Evaluation results files in .csv
+- mt_evaluation_results.xlsx    # Evaluation results files in .xlsx
+</pre>
 
 ## Installation
 <p>To set up the environment, run the following commands:</p>
@@ -24,18 +35,6 @@
 import nltk
 nltk.download('wordnet')
 nltk.download('omw-1.4')
-</pre>
-
-## Project Structure
-<pre>
-- LLM4MT.ipynb                  # Jupyter notebook with main code
-- README.md                     # Project README file
-- evaluation_results            # Directory containing all the evaluation results pair-wise
-- requirements.txt              # Text file with library requirements
-- mt_evaluation_heatmap.png     # Heatmap visualizations
-- mt_evaluation_results.csv     # Evaluation results files in .csv
-- mt_evaluation_results.xlsx    # Evaluation results files in .xlsx
-
 </pre>
 
 ## Usage
