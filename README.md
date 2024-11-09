@@ -149,7 +149,6 @@ for package in packages:
         <li>Estonian-English (<code>et-en</code>)</li>
         <li>Turkish-English (<code>tr-en</code>)</li>
         <li>Bangla-English (<code>bn-en</code>)</li>
-        <li>English-Bangla (<code>en-bn</code>)</li>
 </ul>
 
 ## Results and Visualization
