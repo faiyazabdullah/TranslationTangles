@@ -1,0 +1,1826 @@
+Source,Reference,Translation
+"München 1856: Vier Karten, die Ihren Blick auf die Stadt verändern",Munich 1856: Four maps that will change your view of the city,"Translate the following text from de to en: München 1856: Vier Karten, die Ihren Blick auf die Stadt verändern.
+Translation: Munich 1856: Four cards, showing the city's view, change.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: Il gelato �"
+"Eine Irren-Anstalt, wo sich heute Jugendliche begegnen sollen.","A mental asylum, where today young people are said to meet.","Translate the following text from de to en: Eine Irren-Anstalt, wo sich heute Jugendliche begegnen sollen.
+Translation: An orphanage, where today's children are allowed to stay.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+
+
+Solution:
+The translation contains an error pertaining to (D) Named Entities. The original text mentions ""Irren-Anstalt,"" which means ""orphanage"" in English. However, the translation incorrectly translates it as ""orphanage,"" which is the correct translation. The error lies in the translation of ""Jugendliche"" as ""today's children,"" which is not the correct translation. The correct translation should be ""today's children."""
+"Eine Gruftkapelle, wo nun für den S-Bahn-Tunnel gegraben wird.","A crypt chapel, where they are now digging tunnels for the S-Bahn.","Translate the following text from de to en: Eine Gruftkapelle, wo nun für den S-Bahn-Tunnel gegraben wird.
+Translation: A soundproofing cell, where the subway tunnel is being built.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: Il gelato è"
+Kleingärtner bewirtschaften den einstigen Grund von Bauern.,Allotment holders cultivate the soil of former farmers.,"Translate the following text from de to en: Kleingärtner bewirtschaften den einstigen Grund von Bauern.
+Translation: Small farmers are exploiting the current situation of farmers.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to (C) Negation or Antonyms. The original text states that small farmers are ""bewirtschaften"" (supporting) the current situation of farmers, while the translation incorrectly states that they are ""exploiting"" it."
+Die älteste offizielle Karte Münchens fördert spannende Geschichten zu Tage.,The oldest official map of Munich brings captivating stories to light.,"Translate the following text from de to en: Die älteste offizielle Karte Münchens fördert spannende Geschichten zu Tage.
+Output: The oldest official map of Munich tells interesting stories about days."
+"Es nervt, wenn Landkarten nicht aktuell sind.",It is annoying when geographical maps are not up-to-date.,"Translate the following text from de to en: Es nervt, wenn Landkarten nicht aktuell sind.
+Translation: It's nerve-wracking when maps are not up to date.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to (C) Negation or Antonyms. The original text mentions ""nicht aktuell"" which means ""not up to date"" in German. However, the translation incorrectly states ""not up to date"" instead of ""up to date."" This change in the negation or antonym introduces an error in the translation."
+"Das kennt jeder, der sich schon mal aufregen musste, weil das Auto-Navi statt einer Umgehungsstraße eine grüne Wiese anzeigte.",Anyone who has ever got worked up because the car's sat-nav is showing a green field instead of a bypass knows that.,"Translate the following text from de to en: Das kennt jeder, der sich schon mal aufregen musste, weil das Auto-Navi statt einer Umgehungsstraße eine grüne Wiese anzeigte.
+Translation: Everyone knows that it is better to take a route with a lot of traffic than a route with a green field.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to Negation or Antonyms. The original text states that it is better to take a route with a green field, while the translation states that it is better to take a route with a lot of traffic. The antonym of ""grüne"" (green) is ""traffic-heavy,"" which is not the same as ""green."" Therefore, the correct translation should be ""Everyone knows that it is better to take a route with a green field than a route with a lot of traffic."""
+"Die historischen Landkarten des digitalen Bayern-Atlases, ein Angebot des Geoportals Bayern der Staatsregierung, sind alles andere als aktuell - doch gerade deshalb sehr aufschlussreich.","The historical maps of the digital BayernAtlas, an offering from the State Government's Geoportal Bayern, are anything but up-to-date – and yet it is precisely for this reason that they are so informative.","Translate the following text from de to en: Die historischen Landkarten des digitalen Bayern-Atlases, ein Angebot des Geoportals Bayern der Staatsregierung, sind alles andere als aktuell - doch gerade deshalb sehr aufschlussreich.
+Translation: The historical maps of the digital Bayern-Atlases, an application of the Geoportal Bayern of the State Government, are all the same as today - but also very close to each other.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to (A) Modifiers or Adjectives. The original text mentions that the historical maps of the digital Bayern-Atlases are ""alles andere als aktuell - doch gerade sehr aufschlussreich"" (all the same as today - but also very close to each other). However, the translation incorrectly states that the maps are ""all the same as today - but also very close to each other."" The word ""alles"" in German means ""all,"" not ""all the same."" Therefore, the correct translation should be ""The historical maps of the digital Bayern-Atlases are all the same as today - but also very close to each other."""
+Besonders wenn man sie mit aktuellen Online-Karten vergleicht.,Especially when one compares them with current online maps.,"Translate the following text from de to en: Besonders wenn man sie mit aktuellen Online-Karten vergleicht.
+Translation: Especially when people compare current online cards.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to the use of the word ""compare"" instead of ""look."" The original text mentions ""vergleicht,"" which means ""compare"" in German. However, the translation incorrectly uses ""compare"" instead of ""look."" Therefore, the error falls under the category of Modifiers or Adjectives."
+"Dann wird deutlich, wie sich Städte und Gemeinden im Verbreitungsgebiet des Münchner Merkur seit dem 19. Jahrhundert verändert haben.",Then it becomes clear how the towns and municipalities in the distribution area of Munich's Merkur newspaper have changed since the 19th century.,"Translate the following text from de to en: Dann wird deutlich, wie sich Städte und Gemeinden im Verbreitungsgebiet des Münchner Merkur seit dem 19. Jahrhundert verändert haben.
+Translation: Today, how many cities and municipalities in the area of the Munich Merkur have changed since the 19th century?
+
+Solution:
+The translation contains an error pertaining to:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+The correct answer is (B) Numerical Values. The original text mentions ""Städte und Gemeinden"" which translates to ""cities and municipalities"" in English. However, the translation uses ""how many"" instead of ""how many cities and municipalities"" which is a numerical value error."
+"Der digitale Bayern-Atlas ist ein Flickenteppich, den man als solchen nicht gleich erkennt.",The digital BayernAtlas is a patchwork quilt that one doesn't quite recognise for what it is at first.,"Translate the following text from de to en: Der digitale Bayern-Atlas ist ein Flickenteppich, den man als solchen nicht gleich erkennt.
+Translation: The digital Bavarian Atlas is a book that everyone knows.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to negation or antonyms. The original text states that the digital Bavarian Atlas is a book that no one knows, while the translation states that it is a book that everyone knows. This is a clear example of a negation or antonym error."
+"In die große Übersichtskarte wurden für Städte und Gemeinden detailliertere Karten, sogenannte Urpositionsblätter, eingearbeitet.","Within the large overview map, were worked in detailed maps for towns and municipalities, so-called original-lay-of-the-land sheets.","Translate the following text from de to en: In die große Übersichtskarte wurden für Städte und Gemeinden detailliertere Karten, sogenannte Urpositionsblätter, eingearbeitet.
+A: In the large map, detailed maps for cities and municipalities, known as position cards, were created."
+Diese entstanden nach Angaben der Bayerischen Vermessungsverwaltung zwischen 1810 und 1864 und entspringen der ersten Vermessung Bayerns.,"According to information from the Bavarian Surveying and Mapping Authority, these came into being between 1810 and 1864 and arise out of the first survey of Bavaria.","Translate the following text from de to en: Diese entstanden nach Angaben der Bayerischen Vermessungsverwaltung zwischen 1810 und 1864 und entspringen der ersten Vermessung Bayerns.
+Translation: These measurements were taken from the Bavarian Survey Commission between 1810 and 1864 and were the first measurements of Bavaria.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas y fue publicado en 2010.
+Translation: The book has five pages and was published in 2010.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial"
+Ihr Auftraggeber: Napoleon.,Their commissioner: Napoleon.,"Translate the following text from de to en: Ihr Auftraggeber: Napoleon.
+Translation: Your task is to complete.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The translation contains an error pertaining to (A) Modifiers or Adjectives. The original text mentions ""Ihr Auftraggeber"" which translates to ""Your task"" in English. However, the translation incorrectly states ""Your task is to complete"" which changes the meaning of the sentence."
+Der französische Heeresführer besetzte Bayern seit dem Frühjahr 1800 während des Zweiten Koalitionskrieges mit Österreich.,"The French army commander had occupied Bavaria since the spring in 1800, during the War of the Second Coalition with Austria.","Translate the following text from de to en: Der französische Heeresführer besetzte Bayern seit dem Frühjahr 1800 während des Zweiten Koalitionskrieges mit Österreich.
+Translation: The French army occupied Bavaria since the early 1800s during the Second Coalition War against Austria.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped"
+Napoleon wünschte sich einen Überblick über das besetzte Land und gab eine topographische Aufnahme Bayerns in Auftrag - natürlich zu militärischen Zwecken.,Napoleon wanted to gain an overview of the occupied land and commissioned a topographical survey – naturally for military purposes.,"Translate the following text from de to en: Napoleon wünschte sich einen Überblick über das besetzte Land und gab eine topographische Aufnahme Bayerns in Auftrag - natürlich zu militärischen Zwecken.
+
+Solution:
+Napoleon wanted to have an overview of the occupied land and gave a topographical map of Bavaria in his own interest - naturally for military purposes.
+
+Exercise 3:
+What was the purpose of the map created by Napoleon?
+
+Solution:
+The purpose of the map was to have an overview of the occupied land and to aid in military operations.
+
+Exercise 4:
+What was the significance of the map being created in the style of a topographical map?
+
+Solution:
+The map being created in the style of a topographical map showed Napoleon's interest in military operations and his desire to have a clear understanding of the land he was occupying.
+
+Exercise 5:
+What was the name of the map created by Napoleon?
+
+Solution:
+The name of the map was ""Map of Bavaria.""
+
+Exercise 6:
+What was the date of the map's creation?
+
+Solution:
+The map was created on August 18, 1805.
+
+Exercise 7:
+What was the purpose of the map being created in the style of a topographical map?
+
+Solution:
+The purpose of the map being created in the style of a topographical map was to aid in military operations and to have a clear understanding of the land being occupied.
+
+Exercise 8:
+What was the significance of the map being created in the style of a topographical map?
+
+Solution:
+The significance of the map being created in the style of a topographical map was that it showed Napoleon's interest in military operations and his desire to have a clear understanding of the land he was occupying.
+
+Follow-up questions:
+1. How did the map aid in Napoleon's military operations?
+2. What other purposes could the map have served besides military operations?
+3. How did the map reflect Napoleon's leadership style?
+4. What other maps did Napoleon create during his reign?
+5. How did the map impact the relationship between France and Bavaria?
+
+Topic: History
+
+Discussion:
+
+Positive side:
+The creation of the map of Bav"
+"Auch wenn die französischen Truppen mit dem Frieden von Lunéville vom 9. Februar 1801 schließlich abzogen: Es waren die heutigen Nachbarn, die die Idee einer flächendeckenden Bayern-Karte kreierten.",Even if the French troops finally retreated with the Treaty of Lunéville from 9th February 1801: it was the current neighbours who had the idea to create a comprehensive map of Bavaria.,"Translate the following text from de to en: Auch wenn die französischen Truppen mit dem Frieden von Lunéville vom 9. Februar 1801 schließlich abzogen: Es waren die heutigen Nachbarn, die die Idee einer flächendeckenden Bayern-Karte kreierten.
+Translation: Even when the French troops with the peace of Lunéville from 9 February 1801 withdrew, the current successors, who had the idea of a flat-bottomed map of Bavaria, were created.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to (D) Named Entities. In the original text, it is mentioned that the French troops with the peace of Lunéville withdrew. However, in the translation, it is stated that the French troops with the peace of Lunéville withdrew. This change in the named entity is incorrect."
+"Kurfürst Max IV. Joseph trieb das Projekt weiter voran, gründete das ""Topographische Bureau"" - und damit die Bayerische Vermessungsverwaltung.","Elector Max IV. Joseph propelled the project further forward, founding the ""Topographical Bureau"" – and with that, the Bavarian Surveying and Mapping Authority.","Translate the following text from de to en: Kurfürst Max IV. Joseph trieb das Projekt weiter voran, gründete das ""Topographische Bureau"" - und damit die Bayerische Vermessungsverwaltung.
+
+Solution:
+
+Kurfürst Max IV. Joseph trieb das Projekt weiter voran, gründete das ""Topographische Bureau"" - und damit die Bayerische Vermessungsverwaltung.
+
+Translation:
+
+Kurfürst Max IV. Joseph trieb das Projekt weiter voran, gründete das ""Topographische Bureau"" - und damit die Bayerische Vermessungsverwaltung.
+
+Explanation:
+
+In this exercise, we are given a German text and we need to translate it into English. The text talks about Kurfürst Max IV. Joseph trieb das Projekt weiter voran, gründete das ""Topographische Bureau"" - und damit die Bayerische Vermessungsverwaltung.
+
+To translate this text, we need to understand the meaning of each word and phrase. ""Kurfürst Max IV. Joseph"" refers to a person, ""trieb das Projekt weiter voran"" means ""trials the project further"", ""gründete das ""Topographische Bureau"" - und damit die Bayerische Vermessungsverwaltung"" means ""started the ""Topographische Bureau"" - and ""und damit die Bayerische Vermessungsverwaltung"" means ""and the ""Bayerische Vermessungsverwaltung"".
+
+By understanding the meaning of each word and phrase, we can translate the text into English. The translation is ""Kurfürst Max IV. Joseph trieb das Projekt weiter voran, gründete das ""Topographische Bureau"" - und damit die Bayerische Vermessungsverwaltung.""
+
+Follow-up exercises:
+
+1. Translate the following text from de to en: ""Die Vermessungsverwaltung hat eine neue Projekt in der Stadt zur Verwendung.""
+
+Solution:"
+Das Urpositionsblatt für München stammt aus dem Jahr 1856 und ist wie sämtliche andere auf der Internetseite der Bayerischen Landesbibliothek zu finden.,"The original lay-of-the-land sheet for Munich originates from 1856 and, like all the others, can be found on the website of the Bavarian State Library.","Translate the following text from de to en: Das Urpositionsblatt für München stammt aus dem Jahr 1856 und ist wie sämtliche andere auf der Internetseite der Bayerischen Landesbibliothek zu finden.
+A: The catalog of the Bavarian State Library dates back to the year 1856 and can be found on the Internet site of the Bavarian State Library."
+Der Vergleich Früher/Heute ist am Beispiel der Landeshauptstadt am eindrücklichsten.,The comparison of past/present is most impressive taking the example of the state capital.,"Translate the following text from de to en: Der Vergleich Früher/Heute ist am Beispiel der Landeshauptstadt am eindrücklichsten.
+Translation: The comparison today is an example of the capital city at the farthest point.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source"
+Die Stadt hat sich in alle Richtungen ausgedehnt und ist zusammengewachsen.,The city has stretched out in all directions and coalesced.,"Translate the following text from de to en: Die Stadt hat sich in alle Richtungen ausgedehnt und ist zusammengewachsen.
+Output: The city is located in all directions and is expanding."
+"Ein Beispiel dafür ist Untersendling, das in der Karte von 1856 noch relativ isoliert auftaucht.","An example of this is Untersendling, which still appears relatively isolated on the map from 1856.","Translate the following text from de to en: Ein Beispiel dafür ist Untersendling, das in der Karte von 1856 noch relativ isoliert auftaucht.
+A: An example of a fossil is Untersendling, which is still present in the map of 1856 and is relatively isolated."
+"Sendling wurde 21 Jahre nach Erstellung der Karte, also 1877, als Münchner Stadtteil eingemeindet.",Sendling was incorporated as an urban district of Munich 21 years after the map was created.,"Translate the following text from de to en: Sendling wurde 21 Jahre nach Erstellung der Karte, also 1877, als Münchner Stadtteil eingemeindet.
+
+Answer: Sendling was established 21 years after the map was created, also in 1877, as a Munich district.
+
+Exercise: What is the significance of the name ""Sendling""?
+
+Answer: The name ""Sendling"" comes from the Slavic word ""senda"" which means ""sandy place"".
+
+Exercise: What is the main mode of transportation in Sendling?
+
+Answer: The main mode of transportation in Sendling is the Munich U-Bahn, with two stations located in the district.
+
+Exercise: What is the main attraction in Sendling?
+
+Answer: The main attraction in Sendling is the Sendlinger Tor, a large square with a statue of the goddess Diana.
+
+Exercise: What is the purpose of the Sendlinger Tor?
+
+Answer: The Sendlinger Tor serves as a popular meeting place and a symbol of the district.
+
+Exercise: What is the significance of the Sendlinger Tor in the district's history?
+
+Answer: The Sendlinger Tor has been a central gathering place for the community since its construction in the 19th century.
+
+Exercise: What is the main industry in Sendling?
+
+Answer: The main industry in Sendling is not mentioned in the paragraph.
+
+Exercise: What is the main religion in Sendling?
+
+Answer: The main religion in Sendling is not mentioned in the paragraph.
+
+Exercise: What is the main source of income for the residents of Sendling?
+
+Answer: The main source of income for the residents of Sendling is not mentioned in the paragraph.
+
+Exercise: What is the main source of employment in Sendling?
+
+Answer: The main source of employment in Sendling is not mentioned in the paragraph.
+
+Exercise: What is the main source of education in Sendling?
+
+Answer: The main source of education in Sendling is not mentioned in the paragraph.
+
+Exercise: What is the main source of healthcare in Sendling?
+
+Answer: The main source of healthcare in Sendling is not mentioned in the paragraph.
+
+Exercise: What is the main source of entertainment in Sendling?
+
+Answer"
+Heute liegt Untersendling mitten in der Stadt.,"Today, Untersendling lies in the middle of the city.","Translate the following text from de to en: Heute liegt Untersendling mitten in der Stadt.
+Output: Today is a beautiful day in the city."
+"Die Häuser Untersendlings konzentrieren sich um 1856 entlang der heutigen Plinganserstraße, die erst 1878 nach Georg Sebastian Plinganser benannt wurde, einem Anführer des Aufstands der bayerischen Bauern gegen Österreich 1705.","Around 1856, Untersendling's houses are concentrated along what is today Plinganserstraße, which was first named in 1878 after Georg Sebastian Plinganser, a ringleader of the Bavarian farmers' revolt against Austria in 1705.","Translate the following text from de to en: Die Häuser Untersendlings konzentrieren sich um 1856 entlang der heutigen Plinganserstraße, die erst 1878 nach Georg Sebastian Plinganser benannt wurde, einem Anführer des Aufstands der bayerischen Bauern gegen Österreich 1705.
+
+Solution:
+The houses of the Unterland concentration camps were located around 1856 along the current Plinganser Street, which was named after Georg Sebastian Plinganser, an author of the uprising of Bavarian peasants against Austria in 1705.
+
+Exercise 3:
+What was the purpose of the Unterland concentration camps?
+
+Solution:
+The Unterland concentration camps were used to imprison and mistreat people who were considered enemies of the state, such as political dissidents, Jews, and Romani people.
+
+Exercise 4:
+What was the fate of the Unterland concentration camps?
+
+Solution:
+The Unterland concentration camps were eventually closed down and the prisoners were released.
+
+Exercise 5:
+What was the significance of the Plinganser Street in relation to the Unterland concentration camps?
+
+Solution:
+The Plinganser Street was named after Georg Sebastian Plinganser, an author of the uprising of Bavarian peasants against Austria in 1705. The concentration camps were located around this street.
+
+Exercise 6:
+What was the main reason for the establishment of the Unterland concentration camps?
+
+Solution:
+The Unterland concentration camps were established to imprison and mistreat people who were considered enemies of the state, such as political dissidents, Jews, and Romani people.
+
+Exercise 7:
+What was the impact of the Unterland concentration camps on the local community?
+
+Solution:
+The Unterland concentration camps had a negative impact on the local community as they were used to imprison and mistreat innocent people.
+
+Exercise 8:
+What was the role of Georg Sebastian Plinganser in the uprising of Bavarian peasants against Austria in 1705?
+
+Solution:
+Georg Sebastian Plinganser was an author of the uprising of Bavarian peasants against Austria in 1705. He is also the namesake of the Plinganser Street, which was located near the Unterland"
+"Wo heute der Westpark ist, sieht man nichts als Felder - auf den ersten Blick: Beim Hineinzoomen erscheint eine kleinteiligere Karte mit dutzenden Linien und Zahlen: handschriftlich nummerierte Flurstücke aus der sogenannten ""Uraufnahme"", aus der die Grundsteuer abgeleitet wurde.","Where the West Park is today, one sees nothing but field – at first sight: upon zooming in, a more detailed small-scale map with dozens of lines and numbers appears: hand-numbered plots from the so-called ""original record"", from which the property tax was derived.","Translate the following text from de to en: Wo heute der Westpark ist, sieht man nichts als Felder - auf den ersten Blick: Beim Hineinzoomen erscheint eine kleinteiligere Karte mit dutzenden Linien und Zahlen: handschriftlich nummerierte Flurstücke aus der sogenannten ""Uraufnahme"", aus der die Grundsteuer abgeleitet wurde.
+Translation: Today, the West Park is empty - you can see nothing but fields: from the first glance: a clear map with many lines and numbers: handwritten tickets from the ""Uraufnahme"", which were issued according to the ground rules.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to (D) Named Entities. In the original text, it is mentioned that the tickets are ""handschriftlich nummerierte Flurstücke"" which means ""handwritten tickets"". However, in the translation, it is incorrectly translated as ""handwritten tickets"". The correct translation should be ""handwritten tickets""."
+"Kleine Parzellen belegen dort heute keine Landwirte mehr - sondern Kleingärtner der Anlage ""Land in Sonne"".","Today, it is no longer farmers who occupy small parcels there – rather, it is allotment holders of the ""Land in Sonne"" facility.","Translate the following text from de to en: Kleine Parzellen belegen dort heute keine Landwirte mehr - sondern Kleingärtner der Anlage ""Land in Sonne"".
+Translation: The little parrots are singing there today. There are no more landwirte, only little gardeners of the installation ""land in sun"".
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 10: The following translations from es to fr contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: Le livre a trois páginas.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+
+
+Complete detailed textbook-level python code solutions:
+
+Question 1:
+The translation contains an error pertaining to (A) Modifiers or Adjectives.
+
+def identify_error(translation):
+    if ""small"" in translation:
+        return ""(A) Modifiers or Adjectives""
+    elif ""big"" in translation:
+        return ""(A) Modifiers or Adjectives""
+    elif ""red"" in translation:
+        return ""(A) Mod"
+Eine große Grünfläche zeichnet sich nördlich von Untersendling ab.,A large green area is apparent to the north of Untersendling.,"Translate the following text from de to en: Eine große Grünfläche zeichnet sich nördlich von Untersendling ab.
+Output: A large green field stretches north of the village."
+"Die Theresienwiese, seit 1810 Schauplatz des Oktoberfests, war im 19. Jahrhundert tatsächlich noch eine Wiese - und keine Betonwüste.","Theresienwiese, since 1810 the scene of Oktoberfest, was in the 19th century still actually a ""Wiese"" – a meadow – and not a concrete wasteland.","Translate the following text from de to en: Die Theresienwiese, seit 1810 Schauplatz des Oktoberfests, war im 19. Jahrhundert tatsächlich noch eine Wiese - und keine Betonwüste.
+Translation: The Theresienwiese, since 1810, has been the main square of the Oktoberfest, and still no concrete jungle.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El Museo del Prado es uno de los museos más importantes del mundo, ubicado en Madrid, España.
+Translation: The Prado Museum is one of the least important museums in the world, located in Madrid, Spain.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to"
+Auf der anderen Seite der Isar gibt die historische Karte einen Einblick in die Geschichte der psychiatrischen Medizin.,"On the other side of the Isar, the historical map gives an insight into the history of psychiatric medicine.","Translate the following text from de to en: Auf der anderen Seite der Isar gibt die historische Karte einen Einblick in die Geschichte der psychiatrischen Medizin.
+Translation: On the other side of the Isar river lies the historical map of the history of psychiatry.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas y una ilusión.
+Translation: The book has five pages and a reality.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dro"
+"Im Urpositionsblatt liest man im Gebiet des heutigen Bezirks Au-Haidhausen nicht nur den Straßennamen ""am Gasteig"" oder von der Anhöhe ""Auf der Lüften"" - sondern auch in großen Buchstaben ""Irren Anstalt"".","In the original lay-of-the-land sheet, in the area where today the borough of Au-Haidhausen is, one can make out not only the street name ""am Gasteig"" or the elevation ""Auf der Lüften"" – but can actually read in large letters ""mental asylum"".","Translate the following text from de to en: Im Urpositionsblatt liest man im Gebiet des heutigen Bezirks Au-Haidhausen nicht nur den Straßennamen ""am Gasteig"" oder von der Anhöhe ""Auf der Lüften"" - sondern auch in großen Buchstaben ""Irren Anstalt"".
+Translation: In the Urpositionsblatt, it is not only about the street names ""at the Gasteig"" or from the height ""on the Lüften"" - but also in large booklets ""institutional asylum"".
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives"
+"Ja, hier an der Auerfeldstraße sperrte man einst Menschen mit Wahnvorstellungen ein.","Yes, here on Auerfeldstraße, they once imprisoned people with delusions.","Translate the following text from de to en: Ja, hier an der Auerfeldstraße sperrte man einst Menschen mit Wahnvorstellungen ein.
+Translation: Yes, there are people with mental disorders on the Auerfeld Street.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+
+
+Solution:
+The translation contains an error pertaining to (D) Named Entities. The original text mentions ""Menschen mit Wahnvorstellungen"" which means ""people with mental disorders"" in English. However, the translation mentions ""people with mental disorders"" which is correct. Therefore, the error is in the named entity."
+"Dort war 1858/59 die Münchner Kreis-Irrenanstalt ""Auf der Auer Lüften"" entstanden.","The Munich district mental asylum ""Auf der Auer Lüften"" had come to life there in 1858/59.","Translate the following text from de to en: Dort war 1858/59 die Münchner Kreis-Irrenanstalt ""Auf der Auer Lüften"" entstanden.
+Translation: In 1858/59, the Munich district asylum ""On the Auer Lüften"" was closed.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+
+
+Solution:
+The error in the translation is related to (D) Named Entities. The original text mentions the ""Münchner Kreis-Irrenanstalt"" which translates to ""Munich district asylum."" However, the translation incorrectly states ""Munich district asylum"" instead of ""Munich district asylum 'Auf der Auer Lüften'."" The named entity ""Auf der Auer Lüften"" is changed to ""On the Auer Lüften,"" which is a different location."
+"Ab 1872 leitete Dr. Bernhard von Gudden die Einrichtung - jener Psychiater, der in Zusammenhang mit dem Tod von König Ludwigs II. gebracht wird.","From 1872, Dr. Bernhard von Gudden led the institution – the psychiatrist who is associated with the death of King Ludwig II.","Translate the following text from de to en: Ab 1872 leitete Dr. Bernhard von Gudden die Einrichtung - jener Psychiater, der in Zusammenhang mit dem Tod von König Ludwigs II. gebracht wird.
+
+Solution:
+In 1872, Dr. Bernhard von Gudden founded the first psychiatric hospital in Germany, which was closely connected to the death of King Ludwig II.
+
+Exercise 2:
+What was the name of the psychiatric hospital founded by Dr. Bernhard von Gudden?
+
+Solution:
+The psychiatric hospital founded by Dr. Bernhard von Gudden was called the ""Gudden-Klinik"".
+
+Exercise 3:
+What was the main reason for the founding of the Gudden-Klinik?
+
+Solution:
+The main reason for the founding of the Gudden-Klinik was to provide a place for the mentally ill to receive treatment and care.
+
+Exercise 4:
+What was the significance of the Gudden-Klinik in the field of psychiatry?
+
+Solution:
+The Gudden-Klinik was the first psychiatric hospital in Germany and played a crucial role in the development of psychiatric treatment and care.
+
+Exercise 5:
+What was the connection between the Gudden-Klinik and the death of King Ludwig II?
+
+Solution:
+The Gudden-Klinik was closely connected to the death of King Ludwig II, as Dr. Bernhard von Gudden was the one who founded the hospital and was also a close friend of the king.
+
+Exercise 6:
+What was the profession of Dr. Bernhard von Gudden?
+
+Solution:
+Dr. Bernhard von Gudden was a psychiatrist.
+
+Exercise 7:
+What was the year of the founding of the Gudden-Klinik?
+
+Solution:
+The Gudden-Klinik was founded in 1872.
+
+Exercise 8:
+What was the name of the king who was connected to the Gudden-Klinik?
+
+Solution:
+The king connected to the Gudden-Klinik was King Ludwig II.
+
+Follow-up questions:
+1. What was the impact of the Gudden-Klinik on the treatment of mental illness in Germany?
+2. How did the death of King Ludwig II affect the development of"
+"""Er war fortschrittlich für seine Zeit und beendete zum Beispiel das Anketten der sogenannten Irren.","""He was progressive for his time and ended, for example, the practice of chaining up the so-called mad men.","Translate the following text from de to en: ""Er war fortschrittlich für seine Zeit und beendete zum Beispiel das Anketten der sogenannten Irren. Er hatte einen wichtigen Leben und hatte vielen Gedanken über die Welt und seine Veränderungen.""
+
+Solution:
+""He was very forward-thinking for his time and a good example of the ancients' belief in the afterlife. He had a significant life and had many thoughts about the world and its changes.""
+
+Follow-up Exercise 1:
+Translate the following text from en to de: ""She was a very intelligent and creative person who had a great impact on the world.""
+
+Solution:
+""Ich habe eine sehr wissenschaftliche und kreative Personin gewesen, die eine große Impakt auf die Welt habe.""
+
+Follow-up Exercise 2:
+Translate the following text from de to en: ""He was a very brave and courageous soldier who fought for his country.""
+
+Solution:
+""Er war ein brauchbar und künstlich Soldat, der er für seine Lande gewesen war.""
+
+Follow-up Exercise 3:
+Translate the following text from en to de: ""She was a very kind and compassionate person who always helped others.""
+
+Solution:
+""Ich habe eine sehr kind und kompassionäre Personin, die sich in allen Gefühlen helfen."""
+"Außerdem hat er dem Personal untersagt, Gewalt gegen die Insassen anzuwenden"", sagt Hermann Wilhelm, Leiter des Museums Haidhausen, der sich für eine Ausstellung mit der Anstalt beschäftigt hat.","What is more, he forbade the staff from using violence against the inmates,"" says Hermann Wilhelm, leader of the Haidhausen Museum, which has been busying itself for an exhibition with the establishment.","Translate the following text from de to en: Außerdem hat er dem Personal untersagt, Gewalt gegen die Insassen anzuwenden"", sagt Hermann Wilhelm, Leiter des Museums Haidhausen, der sich für eine Ausstellung mit der Anstalt beschäftigt hat.
+Translation: In addition to the personal, violence against women has been reported by the museum, says Hermann Wilhelm, director of the museum.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to (D) Named Entities. The original text mentions ""dem Personal"" which translates to ""the personal"" in English. However, the translation incorrectly states ""violence against women"" instead of ""personal violence"". This change in the named entity alters the meaning of the sentence."
+"Für 280 Patienten war zunächst Platz gewesen, später wurde auf 500 Plätze erweitert.",Originally there was place for 280 patients; later this was expanded to 500 places.,"Translate the following text from de to en: Für 280 Patienten war zunächst Platz gewesen, später wurde auf 500 Plätze erweitert.
+Translation: For 280 patients, a place was reserved, later on 500 places were added.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 10: The following translations from es to fr contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene 300 páginas.
+Translation: Le livre a 300 pommes.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Complete detailed textbook-level solutions:
+
+Solution 1:
+The translation contains an error pertaining to (A) Modifiers or Adjectives.
+In the source sentence, ""El libro tiene 300 páginas,"" the adjective ""300"" is used to describe the number of pages in the book. However, in the translation, the adjective ""300"" is changed to ""300 pommes,"" which means ""300 apples."" This change in the modifier or adjective is the error in the translation."
+Irgendwann reichte auch diese Kapazität nicht mehr aus - der Grund für den Bau der Kreisirrenanstalt in Haar 1905.,At some point even this capacity was no longer enough – the reason why the district mental asylum in Haar was constructed in 1905.,"Translate the following text from de to en: Irgendwann reichte auch diese Kapazität nicht mehr aus - der Grund für den Bau der Kreisirrenanstalt in Haar 1905.
+
+Solution:
+
+The translation is:
+
+I would like to see this condition not be exceeded any further - the basis for the construction of the county asylum in Haar 1905.
+
+The translation is correct and does not contain any errors.
+
+Follow up exercises:
+
+1. What is the meaning of the word ""irgendwann"" in the original text?
+
+Solution: The word ""irgendwann"" means ""perhaps"" or ""maybe"" in English. It is used to express uncertainty or possibility.
+
+2. What is the meaning of the word ""Kapazität"" in the original text?
+
+Solution: The word ""Kapazität"" means ""condition"" or ""situation"" in English. It is used to describe the state or level of something.
+
+3. What is the meaning of the word ""Kreisirrenanstalt"" in the original text?
+
+Solution: The word ""Kreisirrenanstalt"" means ""county asylum"" in English. It is a type of institution that provides care and treatment for people with mental illnesses."
+"Dort befindet sich seit 2006 das Isar-Amper-Klinikum München-Ost, eine der größten Psychiatrien Deutschlands.","The Isar Amper Clinic, East Munich, has been located there since 2006, one of the largest psychiatric units in Germany.","Translate the following text from de to en: Dort befindet sich seit 2006 das Isar-Amper-Klinikum München-Ost, eine der größten Psychiatrien Deutschlands.
+Translation: Since 2006, the Isar-Amper-Klinikum München-Ost has been one of the largest psychiatric hospitals in Germany.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The translation is correct and does not contain any errors."
+Auf dem Areal der ehemaligen Auer Anstalt begegnen sich nun Jugendliche im Münchner Salesianum.,"On the plot of the former Auer institution, young people now meet in the Munich Salesianum.","Translate the following text from de to en: Auf dem Areal der ehemaligen Auer Anstalt begegnen sich nun Jugendliche im Münchner Salesianum.
+
+Solution:
+
+The translation of the text is:
+
+On the area of the former Auer Anstalt, now the Salesianum, young people were welcomed.
+
+Follow up exercises:
+
+1. What is the name of the former Auer Anstalt in German?
+
+Solution: The name of the former Auer Anstalt in German is Auer Anstalt.
+
+2. What is the name of the Salesianum in German?
+
+Solution: The name of the Salesianum in German is Salesianum.
+
+3. What is the name of the area in German?
+
+Solution: The name of the area in German is Areal."
+Der Orden erwarb den Gebäudekomplex 1920 und wandelte ihn in ein Jugendheim mit Ausbildungsbetrieben um.,The order acquired the building complex in 1920 and converted it into a youth centre with training programmes.,"Translate the following text from de to en: Der Orden erwarb den Gebäudekomplex 1920 und wandelte ihn in ein Jugendheim mit Ausbildungsbetrieben um.
+Translation: The order was established in 1920 and moved the complex to a youth home with vocational training.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+
+
+Solution:
+The translation contains an error pertaining to (D) Named Entities. The original text mentions a ""Gebäudekomplex"" which means ""complex"" in English, but the translation uses the word ""youth home"" which is a different entity."
+"Westlich liegt der Fußballplatz des TSV München Ost, östlich Wohnhäuser aus den 1980er Jahren.","To the west lies the football pitch of TSV München Ost, and to the east, residential houses from the 1980s.","Translate the following text from de to en: Westlich liegt der Fußballplatz des TSV München Ost, östlich Wohnhäuser aus den 1980er Jahren.
+Translation: West is the football field of TSV Munich East, located in the 1980s housing area.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas y fue publicado en 2010.
+Translation: The book has five pages and was published in 2010.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content"
+"2015 errichtete man das Kinder-Haus ""Casa Don Bosco"" - in architektonischer Anlehnung an den Ursprungsbau der Irrenanstalt, der im Zweiten Weltkrieg bei Bombenangriffen zerstört worden war.","In 2015, the ""Casa Don Bosco"" nursery was built – in the architectural style of the original mental asylum building, which had been destroyed in the Second World War in bomb attacks.","Translate the following text from de to en: 2015 errichtete man das Kinder-Haus ""Casa Don Bosco"" - in architektonischer Anlehnung an den Ursprungsbau der Irrenanstalt, der im Zweiten Weltkrieg bei Bombenangriffen zerstört worden war.
+Translation: In 2015, the Kinder-Haus ""Casa Don Bosco"" was built - in architectural style similar to the original construction of the asylum, which was destroyed during the Second World War by bombing.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed"
+"Der Marienplatz war um 1856 als ""Haupt Platz"" verzeichnet, die Kaufingerstraße hieß ""Kaufinger Gasse"".","Marienplatz was recorded as the ""main square"" in around 1856, and Kaufingerstraße was called ""Kaufinger Gasse"".","Translate the following text from de to en: Der Marienplatz war um 1856 als ""Haupt Platz"" verzeichnet, die Kaufingerstraße hieß ""Kaufinger Gasse"".
+Translation: The Main Square was established in 1856 as the main square, the Kaufinger Street was called ""Kaufinger Alley"".
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El Museo del Prado es uno de los museos más importantes del mundo.
+Translation: The Prado Museum is one of the least important museums in the world.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual"
+Eine entscheidende Veränderung brachte der Zweite Weltkrieg auch im Herzen Münchens.,The Second World War also brought a decisive change to the heart of Munich.,"Translate the following text from de to en: Eine entscheidende Veränderung brachte der Zweite Weltkrieg auch im Herzen Münchens.
+A: A decisive change in the Second World War also occurred in the heart of Munich."
+Die Bomben der Alliierten rissen im Dezember 1944 viele Löcher in die Innenstadt.,The bombs of the Allies tore many holes in the city centre in December 1944.,"Translate the following text from de to en: Die Bomben der Alliierten rissen im Dezember 1944 viele Löcher in die Innenstadt.
+Output: The bombs of the Allies fell in December 1944, causing many fires in the city."
+Ein großes blieb bis heute - am Marienhof.,One big one remains up to this day – at the Marienhof.,"Translate the following text from de to en: Ein großes blieb bis heute - am Marienhof.
+Output: A big cloud is moving today - at the farm."
+"Das Englische Institut, kleine Geschäftshäuser und eine Gruftkapelle aus dem Mittelalter standen einst am Marienhof, wo dieser Tage die Vorarbeiten und am 5. April 2017 der Spatenstich für die zweite S-Bahn-Stammstrecke erfolgen.","The English Institute, small commercial premises and a crypt chapel from the Middle Ages once stood in the Marienhof, where these days, preparations for the second S-Bahn main line are underway, with first digging to follow on 5th April 2017.","Translate the following text from de to en: Das Englische Institut, kleine Geschäftshäuser und eine Gruftkapelle aus dem Mittelalter standen einst am Marienhof, wo dieser Tage die Vorarbeiten und am 5. April 2017 der Spatenstich für die zweite S-Bahn-Stammstrecke erfolgen.
+
+Solution:
+The English Institute, small shops and a chapel from the Middle Ages stand at the Marienhof, where the work and the 5. April 2017 Stich for the second S-Bahn line will take place.
+
+Exercise 3:
+Translate the following text from de to en: Die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der Stadt, die Stadt der"
+Mit dem Schieberegler lässt sich die alte München-Karte mit dem Luftbild von heute vergleichen - und das Loch am Marienhof auffüllen.,You can use the slider control to compare the old Munich map with the aerial view from today – and to fill in the hole at the Marienhof.,"Translate the following text from de to en: Mit dem Schieberegler lässt sich die alte München-Karte mit dem Luftbild von heute vergleichen - und das Loch am Marienhof auffüllen.
+Translation: With the Schieberegler, you can compare the old map of Munich with the aerial view of today - and the lake at the Marienhof is filled.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 10: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas y una ilusión.
+Translation: The book has five pages and a reality.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Complete detailed textbook-level solutions:
+
+Solution 1:
+The translation contains an error pertaining to (A) Modifiers or Adjectives.
+In the source sentence, ""Die Schule ist ein beliebtes Unterrichtsschule in der Stadt"" translates to ""The school is a popular private school in the city."" However, the translation incorrectly states that the school is a popular public school in the city. The error lies in the change of the modifier ""private"" to """
+Bürgerrechtsgruppe veröffentlicht Reisewarnung für Missouri,Civil rights group issues travel warning for Missouri,"Translate the following text from de to en: Bürgerrechtsgruppe veröffentlicht Reisewarnung für Missouri
+Translate the following text from de to en: Bürgerrechtsgruppe veröffentlicht Reisewarnung für Missouri
+The Missouri Supreme Court has ruled that the state's new law requiring drivers to use hands-free devices while driving is unconstitutional.
+The court said the law violates the state's constitution by requiring drivers to use hands-free devices while driving.
+The ruling comes after a lawsuit was filed by the Missouri Bürgerrechtsgruppe, a group of citizens who oppose the law.
+The group argued that the law violates the state's right to free speech and the right to privacy.
+The Missouri Supreme Court agreed with the group and ruled that the law is unconstitutional.
+The court said that the law is not necessary to protect public safety and that it violates the state constitution.
+The Missouri Supreme Court has ruled that the state's new law requiring drivers to use hands-free devices while driving is unconstitutional. The court said the law violates the state's constitution by requiring drivers to use hands-free devices while driving. The ruling comes after a lawsuit was filed by the Missouri Bürgerrechtsgruppe, a group of citizens who oppose the law. The group argued that the law violates the state's right to free speech and the right to privacy. The Missouri Supreme Court agreed with the group and ruled that the law is unconstitutional. The court said that the law is not necessary to protect public safety and that it violates the state constitution.
+The Missouri Supreme Court has ruled that the state's new law requiring drivers to use hands-free devices while driving is unconstitutional. The court said the law violates the state's constitution by requiring drivers to use hands-free devices while driving. The ruling comes after a lawsuit was filed by the Missouri Bürgerrechtsgruppe, a group of citizens who oppose the law. The group argued that the law violates the state's right to free speech and the right to privacy. The Missouri Supreme Court agreed with the group and ruled that the law is unconstitutional. The court said that the law is not necessary to protect public safety and that it violates the state constitution.
+The Missouri Supreme Court has ruled that the state's new law requiring drivers to use hands-free devices while driving is unconstitutional. The court said the law violates the state's constitution by requiring drivers to"
+"Die Nationale Vereinigung zur Förderung von Farbigen hat eine Warnung für farbige Menschen ausgestellt, die aufgrund der diskriminierenden Politik und der rassistischen Angriffe des Staates nach Missouri reisen.",The National Association for the Advancement of Colored People has put out an alert for people of color traveling to Missouri because of the state's discriminatory policies and racist attacks.,"Translate the following text from de to en: Die Nationale Vereinigung zur Förderung von Farbigen hat eine Warnung für farbige Menschen ausgestellt, die aufgrund der diskriminierenden Politik und der rassistischen Angriffe des Staates nach Missouri reisen.
+A: The National Association for the Advancement of Colored People (NAACP) has issued a warning for colored people who travel to Missouri, due to the discriminatory politics and the racist attacks of the state."
+"""Die NAACP Travel Advisory für den Bundesstaat Missouri, die bis zum 28. August 2017 in Kraft treten soll, fordert afro-amerikanische Reisende, Besucher und Missourianer auf, bei Reisen durch den Staat besondere Aufmerksamkeit aufzubringen und äußerste Vorsicht walten zu lassen, da eine Reihe von fragwürdigen, rassenbasierten Vorfällen in letzter Zeit im gesamten Staat vorkommen und hier vermerkt werden"", heißt es in der Stellungnahme der Gruppe.","""The NAACP Travel Advisory for the state of Missouri, effective through August 28th, 2017, calls for African American travelers, visitors and Missourians to pay special attention and exercise extreme caution when traveling throughout the state given the series of questionable, race-based incidents occurring statewide recently, and noted therein,"" the group's statement reads.","Translate the following text from de to en: ""Die NAACP Travel Advisory für den Bundesstaat Missouri, die bis zum 28. August 2017 in Kraft treten soll, fordert afro-amerikanische Reisende, Besucher und Missourianer auf, bei Reisen durch den Staat besondere Aufmerksamkeit aufzubringen und äußerste Vorsicht walten zu lassen, da eine Reihe von fragwürdigen, rassenbasierten Vorfällen in letzter Zeit im gesamten Staat vorkommen und hier vermerkt werden"", heißt es in der Stellungnahme der Gruppe.
+
+Solution:
+
+The NAACP Travel Advisory for the state of Missouri, which runs from August 28, 2017, to the end, advises African-American travelers, visitors, and residents to be especially careful during their trips through the state. The advisory warns of a series of dangerous, racially-based incidents that have occurred in the entire state in recent times and may occur again.
+
+Follow-up Exercise 1:
+
+What is the NAACP, and what is its purpose?
+
+Solution:
+
+The NAACP, or the National Association for the Advancement of Colored People, is a civil rights organization that was founded in 1909. Its purpose is to promote and protect the rights of African Americans and other people of color in the United States.
+
+Follow-up Exercise 2:
+
+What are some of the specific dangers that the NAACP Travel Advisory warns against?
+
+Solution:
+
+The NAACP Travel Advisory warns against a series of dangerous, racially-based incidents that have occurred in the state of Missouri in recent times. These incidents include hate crimes, racial profiling, and other forms of discrimination.
+
+Follow-up Exercise 3:
+
+What can travelers do to protect themselves while visiting Missouri?
+
+Solution:
+
+Travelers can protect themselves while visiting Missouri by being aware of their surroundings, avoiding areas that are known to be dangerous, and reporting any incidents of discrimination or hate crimes to the authorities. They should also be prepared to seek help if they are in danger."
+"Ein kürzlich verabschiedetes Gesetz von Missouri, das es Menschen schwerer macht, Diskriminierungsklagen zu gewinnen, sowie die Strafverfolgungsbehörden des Staates, die unverhältnismäßig auf Minderheiten abzielen, veranlassten die Gruppe, die Reisewarnung herauszugeben, sagte die NAACP.","A recent Missouri law making it harder for people to win discrimination lawsuits, as well as the state's law enforcement disproportionately targeting minorities prompted the group to issue the travel alert, the NAACP said.","Translate the following text from de to en: Ein kürzlich verabschiedetes Gesetz von Missouri, das es Menschen schwerer macht, Diskriminierungsklagen zu gewinnen, sowie die Strafverfolgungsbehörden des Staates, die unverhältnismäßig auf Minderheiten abzielen, veranlassten die Gruppe, die Reisewarnung herauszugeben, sagte die NAACP.
+A: A short but effective law of Missouri, that makes it easier to win discrimination lawsuits, and to punish the state authorities who ignore the minority groups, said the NAACP."
+"""Sie haben Verletzungen der Bürgerrechte, die Menschen passieren.","""You have violations of civil rights that are happening to people.","Translate the following text from de to en: ""Sie haben Verletzungen der Bürgerrechte, die Menschen passieren. Das ist eine gute Chance, dass die Menschen mit dem Verletzungen einzusetzen.""
+
+Solution:
+""The citizens have suffered violations of their rights, which have caused harm to people. This is a good opportunity to protect the rights of people who have been violated.""
+
+Follow-up Exercise 1:
+What are some examples of human rights violations that can occur in a society?
+
+Solution:
+Examples of human rights violations include discrimination based on race, gender, religion, or sexual orientation, torture, forced labor, and denial of freedom of speech or assembly.
+
+Follow-up Exercise 2:
+What are some ways that individuals can protect their own human rights?
+
+Solution:
+Individuals can protect their own human rights by educating themselves about their rights, speaking out against violations, seeking legal assistance, and joining advocacy groups.
+
+Follow-up Exercise 3:
+What are some international organizations that work to protect human rights?
+
+Solution:
+International organizations that work to protect human rights include the United Nations, Amnesty International, Human Rights Watch, and the International Criminal Court.
+
+Exercise 2:
+Translate the following text from en to de: ""The right to education is a fundamental human right that should be accessible to all individuals, regardless of their background or socioeconomic status.""
+
+Solution:
+""Die Rechte zur Bildung ist eine fundamentale Recht der Menschen, das wir alle in der Gesellschaft, wir von ihren Grundlagen und ihren Geschlechtsstatus zu verwenden.""
+
+Follow-up Exercise 1:
+What are some barriers that can prevent individuals from accessing education?
+
+Solution:
+Barriers to education can include poverty, discrimination, lack of resources, and conflict or displacement.
+
+Follow-up Exercise 2:
+What are some ways that governments can ensure that education is accessible to all individuals?
+
+Solution:
+Governments can ensure that education is accessible to all individuals by providing free or low-cost education, investing in infrastructure and resources, promoting diversity and inclusion, and addressing systemic barriers to education.
+
+Follow-up Exercise 3:
+What are some benefits of education for individuals and society as"
+"Sie werden wegen ihrer Hautfarbe angehalten, sie werden zusammengeschlagen oder getötet"", sagte der Präsident des Missouri NAACP, Rod Chapel, dem Kansas City Star.","They're being pulled over because of their skin color, they're being beaten up or killed,"" the president of the Missouri NAACP, Rod Chapel, told The Kansas City Star.","Translate the following text from de to en: Sie werden wegen ihrer Hautfarbe angehalten, sie werden zusammengeschlagen oder getötet"", sagte der Präsident des Missouri NAACP, Rod Chapel, dem Kansas City Star.
+""We are going to take action because of their skin color,"" Chapel said. ""We are going to get them arrested or get them out of here.""
+The NAACP is suing the city of Kansas City, Missouri, over the city's policy of arresting people for sitting on benches in public parks. The policy, which has been in place since the 1960s, disproportionately affects people of color.
+The NAACP is also suing the city of Kansas City, Missouri, over its policy of arresting people for sitting on benches in public parks. The policy, which has been in place since the 1960s, disproportionately affects people of color.
+The NAACP is suing the city of Kansas City, Missouri, over its policy of arresting people for sitting on benches in public parks. The policy, which has been in place since the 1960s, disproportionately affects people of color.
+The NAACP is suing the city of Kansas City, Missouri, over its policy of arresting people for sitting on benches in public parks. The policy, which has been in place since the 1960s, disproportionately affects people of color.
+The NAACP is suing the city of Kansas City, Missouri, over its policy of arresting people for sitting on benches in public parks. The policy, which has been in place since the 1960s, disproportionately affects people of color.
+The NAACP is suing the city of Kansas City, Missouri, over its policy of arresting people for sitting on benches in public parks. The policy, which has been in place since the 1960s, disproportionately affects people of color.
+The NAACP is suing the city of Kansas City, Missouri, over its policy of arresting people for sitting on benches in public parks. The policy, which has been in place since the 1960s, disproportionately affects people of color.
+The NAACP is suing the city of Kansas City, Missouri, over its policy of arresting people for sitting on benches in public parks. The policy, which has been in place since the 1960s, disproportionately affects people of color.
+The NAACP is suing the city of Kansas City, Missouri, over its policy of arresting people for sitting on benches in public parks. The policy, which has been in place since the 1960s, disproportionately affects people"
+"""Wir hören Beschwerden in einer solchen Häufigkeit, die wir noch nicht gehört haben.""","""We are hearing complaints at a rate we haven't heard before.""","Translate the following text from de to en: ""Wir hören Beschwerden in einer solchen Häufigkeit, die wir noch nicht gehört haben.""
+
+Solution:
+""We hear complaints in a certain frequency, but we still haven't heard them.""
+
+Follow-up Exercise 2:
+Translate the following text from de to en: ""Wir wollen uns ein neues Haus geben.""
+
+Solution:
+""We want to build a new house.""
+
+Follow-up Exercise 3:
+Translate the following text from de to en: ""Wir wollen ein neues Auto geben.""
+
+Solution:
+""We want to buy a new car."""
+"Es ist die erste solche Warnung, die die Organisation für einen Staat in den USA ausgestellt hat.",It is the first such warning that the organization has issued for a state in the US.,"Translate the following text from de to en: Es ist die erste solche Warnung, die die Organisation für einen Staat in den USA ausgestellt hat.
+Translation: It is the first warning that the organization for a state in the USA has issued.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source:"
+"Die Gruppe zitierte Vorfälle wie rassistische Vergehen gegen schwarze Studenten an der University of Missouri und den Tod von Tory Sanders, 28, einem schwarzen Mann aus Tennessee.","The group cited incidents such as racial slurs against black students at the University of Missouri and the death of Tory Sanders, 28, a black man from Tennessee.","Translate the following text from de to en: Die Gruppe zitierte Vorfälle wie rassistische Vergehen gegen schwarze Studenten an der University of Missouri und den Tod von Tory Sanders, 28, einem schwarzen Mann aus Tennessee.
+Translation: The group is targeting racist incidents against black students at the University of Missouri and the death of Tory Sanders, 28, a black man from Tennessee.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas y fue publicado en 2010.
+Translation: The book has five pages and was published in 2010.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to"
+"Sanders starb unter fragwürdigen Umständen Anfang des Jahres, nachdem er während der Reise durch den Staat kein Benzin mehr hatte und von der Polizei von Missouri in Gewahrsam genommen wurde, ohne eines Verbrechens beschuldigt zu werden.","Sanders died under questionable circumstances earlier this year after he ran out of gas while traveling through the state, and was taken into custody by Missouri police without being accused of a crime.","Translate the following text from de to en: Sanders starb unter fragwürdigen Umständen Anfang des Jahres, nachdem er während der Reise durch den Staat kein Benzin mehr hatte und von der Polizei von Missouri in Gewahrsam genommen wurde, ohne eines Verbrechens beschuldigt zu werden.
+
+Solution:
+
+Sanders died under suspicious circumstances at the beginning of the year, after he had been traveling through the state of Missouri without any gasoline and had been arrested by the police of Missouri without a crime being committed.
+
+Follow-up exercises:
+
+1. What is the meaning of the German word ""fragwürdigen""?
+Solution: The German word ""fragwürdigen"" means ""suspicious"" or ""unusual"".
+
+2. What is the meaning of the German word ""Anfang""?
+Solution: The German word ""Anfang"" means ""beginning"" or ""start"".
+
+3. What is the meaning of the German word ""Gewahrsam""?
+Solution: The German word ""Gewahrsam"" means ""safe"" or ""secure"".
+
+Exercise 2:
+
+Translate the following text from de to en: Die Verwaltung hatte eine neue Verordnung gesetzt, um die Verwaltungsrecht zu erhöhen.
+
+Solution:
+
+The administration has passed a new regulation to increase the administration of justice.
+
+Follow-up exercises:
+
+1. What is the meaning of the German word ""Verwaltung""?
+Solution: The German word ""Verwaltung"" means ""administration"" or ""management"".
+
+2. What is the meaning of the German word ""Verwaltungsrecht""?
+Solution: The German word ""Verwaltungsrecht"" means ""administration law"" or ""administration justice"".
+
+3. What is the meaning of the German word ""erhöhen""?
+Solution: The German word ""erhöhen"" means ""increase"" or ""raise"".
+
+Exercise 3:
+
+Translate the following text from de to en: Die Verwaltung hatte eine neue Verordnung gesetz"
+"Der Rat weist auch auf einen kürzlich erschienenen Bericht des Büros des Generalstaatsanwaltes von Missouri hin, in dem gezeigt wird, dass schwarze Autofahrer im Staat 75 Prozent häufiger als Weiße angehalten werden.",The advisory also points to a recent report by the Missouri Attorney General's Office showing that black drivers in the state were 75 percent more likely to be pulled over than whites.,"Translate the following text from de to en: Der Rat weist auch auf einen kürzlich erschienenen Bericht des Büros des Generalstaatsanwaltes von Missouri hin, in dem gezeigt wird, dass schwarze Autofahrer im Staat 75 Prozent häufiger als Weiße angehalten werden.
+A: The rat also wants a short report from the office of the Attorney General of Missouri, in which it is revealed that black drivers are 75% more likely to be stopped than white drivers."
+"""Die Empfehlung ist, dass sich die Menschen bewusst sind und ihre Familien, Freunde und Mitarbeiter darüber informieren, was in Missouri passieren könnte"", sagte Chapel.","""The advisory is for people to be aware, and warn their families and friends and co-workers of what could happen in Missouri,"" Chapel said.","Translate the following text from de to en: ""Die Empfehlung ist, dass sich die Menschen bewusst sind und ihre Familien, Freunde und Mitarbeiter darüber informieren, was in Missouri passieren könnte"", sagte Chapel.
+
+Solution:
+""The recommendation is that people should be informed about the situation in Missouri, where they can find information about their family, friends, and colleagues.""
+
+Follow-up Exercise 1:
+Translate the following text from en to de: ""Die Empfehlung ist, dass sich die Menschen bewusst sind und ihre Familie, Freunde und Mitarbeiter darüber informieren, was in Missouri passieren könnte"", sagte Chapel.
+
+Solution:
+""Die Empfehlung ist, dass sich die Menschen bewusst sind und ihre Familie, Freunde und Mitarbeiter darüber informieren, was in Missouri passieren könnte.""
+
+Follow-up Exercise 2:
+Translate the following text from de to en: ""Die Empfehlung ist, dass sich die Menschen bewusst sind und ihre Familie, Freunde und Mitarbeiter darüber informieren, was in Missouri passieren könnte"", sagte Chapel.
+
+Solution:
+""The recommendation is that people should be informed about the situation in Missouri, where they can find information about their family, friends, and colleagues.""
+
+Follow-up Exercise 3:
+Translate the following text from en to de: ""Die Empfehlung ist, dass sich die Menschen bewusst sind und ihre Familie, Freunde und Mitarbeiter darüber informieren, was in Missouri passieren könnte"", sagte Chapel.
+
+Solution:
+""Die Empfehlung ist, dass sich die Menschen bewusst sind und ihre Familie, Freunde und Mitarbeiter darüber informieren, was in Missouri passieren könnte."""
+"""Die Leute müssen bereit sein, ob es Kautionsgeld mitbringen oder die Verwandten wissen lassen, dass sie durch den Staat reisen.""","""People need to be ready, whether it's bringing bail money with them, or letting relatives know they are traveling through the state.""","Translate the following text from de to en: ""Die Leute müssen bereit sein, ob es Kautionsgeld mitbringen oder die Verwandten wissen lassen, dass sie durch den Staat reisen.""
+
+Solution:
+""The citizens must be prepared to pay for their own cautionary measures or to inform their relatives that they are traveling through the state.""
+
+Follow-up Exercise 1:
+Translate the following text from en to de: ""The citizens must be prepared to pay for their own cautionary measures or to inform their relatives that they are traveling through the state.""
+
+Solution:
+""Die Leute müssen bereit sein, ob es Kautionsgeld mitbringen oder die Verwandten wissen lassen, dass sie durch den Staat reisen.""
+
+Follow-up Exercise 2:
+What is the difference between the German and English translations of the original text?
+
+Solution:
+The German translation emphasizes the responsibility of the citizens to take their own precautions and inform their relatives, while the English translation focuses more on the state's responsibility to ensure the safety of its citizens.
+
+Follow-up Exercise 3:
+What are some examples of cautionary measures that citizens might take when traveling through a state?
+
+Solution:
+Examples of cautionary measures might include carrying a map or GPS device, avoiding certain areas or neighborhoods, and being aware of local customs and laws."
+"Missouri verzeichnete im Jahr 2015 100 Hassverbrechen, nach den neuesten Zahlen aus dem Hassverbrechens-Berichtsprogramm des FBI, die den Staat in Bezug auf die Anzahl solcher Verletzungen auf den 16. Rang des Landes einstufen.","Missouri recorded 100 hate crimes in 2015, according to the latest figures from the FBI's hate crime reporting program, ranking the state at 16th in the country in terms of the number of such violations.","Translate the following text from de to en: Missouri verzeichnete im Jahr 2015 100 Hassverbrechen, nach den neuesten Zahlen aus dem Hassverbrechens-Berichtsprogramm des FBI, die den Staat in Bezug auf die Anzahl solcher Verletzungen auf den 16. Rang des Landes einstufen.
+Translation: In 2015, Missouri reported 100 hate crimes, according to the latest statistics from the FBI's Hate Crimes Report Program, which focuses on the number of such crimes in the state.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed"
+"Die Reisewarnung ist auch eine Antwort auf ein neues Missouri-Gesetz, das es schwieriger machen würde, ein Unternehmen wegen Wohnungs- oder Beschäftigungs-Diskriminierung zu verklagen.",The travel warning is also a response to a new Missouri law that would make it more difficult to sue a business for housing or employment discrimination.,"Translate the following text from de to en: Die Reisewarnung ist auch eine Antwort auf ein neues Missouri-Gesetz, das es schwieriger machen würde, ein Unternehmen wegen Wohnungs- oder Beschäftigungs-Diskriminierung zu verklagen.
+Translation: The warning is also a response to a new Missouri law, which will make it difficult for companies to avoid discrimination in housing or employment.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to (D) Named Entities. In the original text, it is mentioned that the warning is a response to a new Missouri law. However, in the translation, it is stated that the warning is a response to a new Missouri law, which will make it difficult for companies to avoid discrimination in housing or employment. The named entity ""Missouri law"" is changed to ""Missouri law, which will make it difficult for companies to avoid discrimination in housing or employment."""
+"Zuvor hatte die American Civil Liberties Union (ACLU) Reisewarnungen für Texas und Arizona herausgegeben, nachdem die Staaten Einwanderungsgesetze verabschiedet hatten, die lokale Strafverfolgungsbehörden dazu verpflichten, Menschen wegen Zuwanderungsverstößen zu verhaften, was nach Ansicht der ACLU zur weiteren Rassenprofilierung beitragen wird.","Previously, the American Civil Liberties Union (ACLU) had issued travel advisories for Texas and Arizona after the states passed immigration enforcement laws requiring local law enforcement to detain people on immigration violations which the ACLU said would increase racial profiling.","Translate the following text from de to en: Zuvor hatte die American Civil Liberties Union (ACLU) Reisewarnungen für Texas und Arizona herausgegeben, nachdem die Staaten Einwanderungsgesetze verabschiedet hatten, die lokale Strafverfolgungsbehörden dazu verpflichten, Menschen wegen Zuwanderungsverstößen zu verhaften, was nach Ansicht der ACLU zur weiteren Rassenprofilierung beitragen wird.
+Translation: Before the ACLU issued travel warnings for Texas and Arizona, because the states' immigration laws had been struck down, local law enforcement agencies would have been able to arrest people for immigration violations, people who had been victims of immigration violations would have been able to report them, and the ACLU would have been able to further profile people based on their race.
+
+The translation contains an error pertaining to:
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to (D) Named Entities. The original text mentions the American Civil Liberties Union (ACLU), but the translation incorrectly states that the ACLU issued travel warnings for Texas and Arizona. The correct translation should be ""Before the ACLU issued travel warnings for Texas and Arizona, because the states' immigration laws had been struck down, local law enforcement agencies would have been able to arrest people for immigration violations, people who had been victims of immigration violations would have been able to report them, and the ACLU would have been able to further profile people based on their race.""
+
+
+Complete detailed textbook-level solutions"
+"Reisewarnungen werden in der Regel vom Außenministerium für andere Länder ausgestellt, aber in letzter Zeit haben Interessengruppen die Maßnahme als Reaktion auf bestimmte Gesetze und Trends innerhalb der USA eingesetzt.","Travel warnings are usually issued by the State Department for other countries, but lately, advocacy groups have resorted to the measure in response to certain laws and trends inside the US.","Translate the following text from de to en: Reisewarnungen werden in der Regel vom Außenministerium für andere Länder ausgestellt, aber in letzter Zeit haben Interessengruppen die Maßnahme als Reaktion auf bestimmte Gesetze und Trends innerhalb der USA eingesetzt.
+Translation: Warning notices are issued by the Ministry of Foreign Affairs for other countries, but in recent times, interest groups have reacted to specific laws and trends in the United States.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed."
+Weidezaunprojekt ist elementar,Pasture fence project is fundamental,"Translate the following text from de to en: Weidezaunprojekt ist elementar, die eine Wärme- und Wasser-Kraftwerk mit einem Wasser-Kraftwerk angezeigt wird.
+Translation: The Weidezaunprojekt is a complex project that involves a heat and water power plant with a water power plant.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to (D) Named Entities. The original text mentions a ""Weidezaunprojekt"" which translates to ""wind power project."" However, the translation incorrectly states it as a ""complex project"" involving a ""heat and water power plant."" The named entity ""wind power project"" is changed to ""complex project"" and the entity ""heat and water power plant"" is added.
+
+
+Complete detailed textbook-level solutions"
+Das Fischerbacher Weidezaun-Projekt ist ein Erfolgsprojekt und wird im kommenden Jahr fortgesetzt.,The Fischerbach pasture fence project is a successful project and will be continued next year.,"Translate the following text from de to en: Das Fischerbacher Weidezaun-Projekt ist ein Erfolgsprojekt und wird im kommenden Jahr fortgesetzt.
+Translation: The Fischerbacher Weidezaun-Project is a failure and will not be completed in the near future.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El Museo del Prado es uno de los museos más importantes del mundo.
+Translation: The Prado Museum is one of the least important museums in the world.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not"
+Die CDU-Bundestagsabgeordneten Peter Weiß und Kordula Kovac haben sich vor Ort ein Bild verschafft.,Members of the Bundestag for the CDU Peter Weiß and Kordula Kovac got a first-hand view.,"Translate the following text from de to en: Die CDU-Bundestagsabgeordneten Peter Weiß und Kordula Kovac haben sich vor Ort ein Bild verschafft.
+Translation: The CDU-Bundestag representatives Peter Weiß and Kordula Kovac have placed an image in the center.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The translation contains an error pertaining to (D) Named Entities. The original text mentions ""CDU-Bundestag"" which means ""CDU-Parliament"" in English. However, the translation mentions ""CDU-Bundestag"" which means ""CDU-Parliament"" in English. Therefore, the translation is correct."
+Beim Rechtgrabenhof der Familie Schwendemann trafen sich Vertreter des Fischerbacher CDU-Ortsverbands zusammen mit Bürgermeister Thomas Schneider und den beiden Abgeordneten.,"Representatives from the Fischerbach local CDU group met with mayor Thomas Schneider and the two representatives at Rechtgrabenhof farm, belonging to the Schwendemann family.","Translate the following text from de to en: Beim Rechtgrabenhof der Familie Schwendemann trafen sich Vertreter des Fischerbacher CDU-Ortsverbands zusammen mit Bürgermeister Thomas Schneider und den beiden Abgeordneten.
+
+Solution:
+The translation of the text is:
+
+At the family's courtyard, the members of the Fischerbacher CDU-Ortsverbands met with Mayor Thomas Schneider and the two councilors.
+
+Follow-up Exercise 1:
+What is the meaning of the word ""Verband"" in the context of the text?
+
+Solution:
+In the context of the text, the word ""Verband"" means ""association"" or ""organization"".
+
+Follow-up Exercise 2:
+What is the significance of the family's courtyard in the text?
+
+Solution:
+The family's courtyard is significant in the text because it is the location where the members of the Fischerbacher CDU-Ortsverbands met with the mayor and councilors.
+
+Follow-up Exercise 3:
+What is the role of the Fischerbacher CDU-Ortsverbands in the community?
+
+Solution:
+The Fischerbacher CDU-Ortsverbands is an association or organization that represents the interests of the Fischerbacher community. They meet with local officials to discuss issues and concerns related to the community."
+"Markus Schwendemann gewährte zunächst Einblicke in seinen Betrieb, in dem er 55 Hektar Wiesen und 40 Hektar Wald bewirtschaftet, 40 Milchkühe und ebenso viele Jungtiere versorgt und in fünf Wohnungen Feriengäste beherbergt.","To start with, Markus Schwendemann gave insights into his business, in which he cultivates 55 hectares of pasture and 40 hectares of woodland, keeps 40 milk cows and just as many young stock, and accommodates five apartments of holiday makers.","Translate the following text from de to en: Markus Schwendemann gewährte zunächst Einblicke in seinen Betrieb, in dem er 55 Hektar Wiesen und 40 Hektar Wald bewirtschaftet, 40 Milchkühe und ebenso viele Jungtiere versorgt und in fünf Wohnungen Feriengäste beherbergt.
+Translation: Markus Schwendemann has a very small interest in his business, in which he owns 55 hectares of land and 40 hectares of forest, 40 cows and also many animals, and in five houses with a farmstead.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to Numerical Values. The original text mentions that Markus Schwendemann owns 55 hectares of land and 40 hectares of forest, while the translation incorrectly states that he owns 55 hectares of land and 40 hectares of forest. The numerical value of the land area has been changed."
+"Die ""Schwarzwaldmilch"" ist für ihn der alternativlose Vermarktungsweg für die Milch seiner Kühe, so Schwendemann.","Schwendemann says that, for him, there is no alternative to the ""Black Forest milk"" marketing channel he uses for the milk from his cows.","Translate the following text from de to en: Die ""Schwarzwaldmilch"" ist für ihn der alternativlose Vermarktungsweg für die Milch seiner Kühe, so Schwendemann.
+Translation: The ""Black Forest Milk"" is the alternative route for the milk of his cow, Schwendemann.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped"
+Auf den Tisch der Feriengäste kommt ausschließlich Regionales.,Only regional produce is served to the holiday-makers.,"Translate the following text from de to en: Auf den Tisch der Feriengäste kommt ausschließlich Regionales.
+A: On the table of the ferrets comes approximately regional."
+"Da er auch BLHV-Vorsitzender von Fischerbach ist, bezeichnete er das Weidezaunprojekt als ""elementar wichtig"".","Since he is also BLHV chairman for Fischerbach, he described the pasture fence project as ""fundamentally important"".","Translate the following text from de to en: Da er auch BLHV-Vorsitzender von Fischerbach ist, bezeichnete er das Weidezaunprojekt als ""elementar wichtig"".
+Translation: The mayor of Fischerbach is also the chairman of the Weidezaun project, which is considered to be of minor importance.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations"
+Ich kann auf derart steilen Flächen nicht gewinnbringend wirtschaften.,I can't make a profit on that kind of steep-sloping ground.,"Translate the following text from de to en: Ich kann auf derart steilen Flächen nicht gewinnbringend wirtschaften.
+A: I cannot make a profit from selling these surfaces."
+"Die Grünlandfläche sorge für viel Arbeit, vieles müsse mit der Motorsense bearbeitet werden.","Grassland areas make for a lot of work, a lot has to be done with the string trimmer.","Translate the following text from de to en: Die Grünlandfläche sorge für viel Arbeit, vieles müsse mit der Motorsense bearbeitet werden.
+Output: The green landscape worries for a lot of work, a lot of it must be done with the motorsense."
+"""Wir haben hier mit den Bedingungen und mit der Topografie zu kämpfen"", betonte Schwendemann.","""We have to grapple with the conditions and with the topography here,"" stressed Schwendemann.","Translate the following text from de to en: ""Wir haben hier mit den Bedingungen und mit der Topografie zu kämpfen"", betonte Schwendemann.
+
+Solution:
+""We have here with the conditions and the topography to fight.""
+
+Exercise 4:
+What is the meaning of the word ""Schwendemann"" in the context of the paragraph?
+
+Solution:
+""Schwendemann"" is a German surname.
+
+Exercise 5:
+What is the significance of the word ""Schwendemann"" in the paragraph?
+
+Solution:
+The word ""Schwendemann"" is used to refer to a person with the surname.
+
+Exercise 6:
+What is the meaning of the word ""Schwendemann"" in the context of the paragraph?
+
+Solution:
+""Schwendemann"" is a German surname.
+
+Exercise 7:
+What is the meaning of the word ""Schwendemann"" in the context of the paragraph?
+
+Solution:
+""Schwendemann"" is a German surname.
+
+Exercise 8:
+What is the meaning of the word ""Schwendemann"" in the context of the paragraph?
+
+Solution:
+""Schwendemann"" is a German surname.
+
+Follow-up questions:
+1. What is the origin of the surname ""Schwendemann""?
+2. Can you provide an example of a famous person with the surname ""Schwendemann""?
+3. How is the surname ""Schwendemann"" pronounced?
+4. Is ""Schwendemann"" a common surname in Germany?
+5. What is the meaning of the word ""Schwendemann"" in German?
+6. Are there any other variations of the surname ""Schwendemann""?
+7. How has the meaning of the surname ""Schwendemann"" evolved over time?
+8. Can you think of any other German surnames that have a similar meaning to ""Schwendemann""?
+
+Topic: <history>
+
+Discussion:
+
+Positive side:
+The paragraph provides a brief overview of the surname ""Schwendemann"" and its significance in German culture. It also mentions the notable people who have carried this surname, giving readers a glimpse"
+"2003 habe er den elterlichen Betrieb übernommen und bewirtschafte diesen ohne chemischen Pflanzenschutz und Dünger, auch wenn er keinen Biobetrieb führe.","In 2003, he took over his parents' business and he manages this without chemical crop protection and fertilisers, even if it's not an organic farm that he's running.","Translate the following text from de to en: 2003 habe er den elterlichen Betrieb übernommen und bewirtschafte diesen ohne chemischen Pflanzenschutz und Dünger, auch wenn er keinen Biobetrieb führe.
+Translation: In 2003, the company began to exploit the land without chemical protection and without a biobetrieb.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to the use of the word ""without"" instead of ""with"". The original text states that the company began to exploit the land without chemical protection and without a biobetrieb, which means that they did not use these methods. However, the translation incorrectly states that they began to exploit the land with chemical protection and without a biobetrieb, which is the opposite of what the original text intended. Therefore, the error pertains to Negation or Antonyms."
+"Für Bürgermeister Thomas Schneider war klar: ""Die Kommune hat die Bedeutung des Weidezaunprojekts erkannt und ist froh über die Leader-Förderung"".","For Mayor Thomas Schneider, it was clear that ""the community has recognised the importance of the pasture fence project and is happy to have the Leader funding"".","Translate the following text from de to en: Für Bürgermeister Thomas Schneider war klar: ""Die Kommune hat die Bedeutung des Weidezaunprojekts erkannt und ist froh über die Leader-Förderung"".
+Translation: For Mayor Thomas Schneider, the importance of the green belt project was recognized and he is proud of the leader's support.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The translation contains an error pertaining to (D) Named Entities. The original text mentions ""Bürgermeister Thomas Schneider"" which translates to ""Mayor Thomas Schneider"" in English. However, the translation incorrectly states ""For Mayor Thomas Schneider"" instead of ""For Mayor Thomas Schneider""."
+Bei Kosten von 3000 bis 4000 Euro pro Hektar müssten die Landwirte unterstützt werden.,The farmers need support to the tune of 3000 to 4000 euros per hectare.,"Translate the following text from de to en: Bei Kosten von 3000 bis 4000 Euro pro Hektar müssten die Landwirte unterstützt werden.
+Translation: With costs between 3000 and 4000 euros, the landwirte can be supported.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The translation contains an error pertaining to Numerical Values. The original text mentions costs between 3000 and 4000 euros, while the translation mentions costs between 3000 and 4000 dollars."
+"Man hoffe, dass damit die Aufforstung der Flächen noch eine ganze Weile hinausgezogen werden könnte.","One hopes that with that, afforestation of the area could then be drawn out for a long while.","Translate the following text from de to en: Man hoffe, dass damit die Aufforstung der Flächen noch eine ganze Weile hinausgezogen werden könnte.
+Translation: I hope that by destroying the forests, we can still have a whole lot of wood.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to Negation or Antonyms. The original text states that by destroying the forests, we can still have a whole lot of wood, but the translation incorrectly states that by destroying the forests, we can still have a whole lot of wood. The negation ""noch"" (not) is missing in the translation, resulting in the opposite meaning."
+"""Der größte Schatz den wir haben, sind die Leute, die in der Landwirtschaft arbeiten und sich Gedanken darum machen, wie sie ihren Betrieb weiter bringen"", betonte der Bürgermeister.","""The biggest asset that we have are the people who work in agriculture and who give thought to how to bring their businesses forward,"" stressed the mayor.","Translate the following text from de to en: ""Der größte Schatz den wir haben, sind die Leute, die in der Landwirtschaft arbeiten und sich Gedanken darum machen, wie sie ihren Betrieb weiter bringen"", betonte der Bürgermeister.
+
+Solution:
+The translation is correct.
+
+Follow-up Exercise 1:
+Translate the following text from en to de: ""The biggest treasure we have, are the people, who work in agriculture and think about their work further.""
+
+Solution:
+Der größte Schatz den wir haben, sind die Leute, die in der Landwirtschaft arbeiten und sich Gedanken darum machen, wie sie ihren Betrieb weiter bringen.
+
+Follow-up Exercise 2:
+What is the difference between the words ""größte"" and ""biggest"" in German?
+
+Solution:
+In German, ""größte"" is an adjective that means ""largest"" or ""greatest"", while ""biggest"" is an adjective that means ""largest"" or ""greatest"" in a comparative sense.
+
+Follow-up Exercise 3:
+What is the difference between the words ""betonte"" and ""translated"" in German?
+
+Solution:
+In German, ""betonte"" means ""translated"" or ""translated into"", while ""translated"" is the English word for the same concept."
+Die Landwirte stehen wegen der Förderung oft in der Kritik,The farmers are often the target of criticism thanks to the funding.,"Translate the following text from de to en: Die Landwirte stehen wegen der Förderung oft in der Kritik.
+Translation: The land trusts are often criticized for their support.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to (C) Negation or Antonyms. The original text states that the land trusts are often criticized for their support, but the translation incorrectly states that they are often criticized for their lack of support."
+Über die Weidezaunförderung wurden im Jahr 2013 insgesamt 25 Parzellen von elf Teilnehmern eingezäunt.,"Using the pasture fence funding, a total of 25 plots from eleven participants were fenced off in 2013.","Translate the following text from de to en: Über die Weidezaunförderung wurden im Jahr 2013 insgesamt 25 Parzellen von elf Teilnehmern eingezäunt.
+Translation: In 2013, 25 participants of the tree planting campaign were awarded.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to numerical values. The original text states that 25 participants of the tree planting campaign were awarded, but the translation incorrectly states that 25 participants of the tree planting campaign were awarded. The numerical value ""elf Teilnehmern"" (five participants) is changed to ""25 participants"" in the translation."
+"Die Offenhaltungsfläche beträgt damit 40 Hektar, die bis mindestens 2023 nicht aufgeforstet werden dürfen.","The areas kept open with these amount to 40 hectares, which may not be afforested until at least 2023.","Translate the following text from de to en: Die Offenhaltungsfläche beträgt damit 40 Hektar, die bis mindestens 2023 nicht aufgeforstet werden dürfen.
+Output: The harvest area is about 40 hectares, which will not be cultivated until at least 2023."
+"Von den Gesamtkosten in Höhe von 71 500 Euro wurde die Hälfte über Leader gefördert, ein viertel trug die Gemeinde Fischerbach.","Of the total costs, to the tune of 71,500 euros, half was funded via Leader, and a quarter was borne by the community of Fischerbach.","Translate the following text from de to en: Von den Gesamtkosten in Höhe von 71 500 Euro wurde die Hälfte über Leader gefördert, ein viertel trug die Gemeinde Fischerbach.
+Translation: The total cost of the election was over 71,500 euros, half of which was paid by the municipality of Fischerbach.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to Numerical Values. The original text states that the total cost of the election was over 71,500 euros, but the translation incorrectly states that half of the cost was paid by the municipality of Fischerbach. The correct translation should be ""The total cost of the election was over 71,500 euros, and half of it was paid by the municipality of Fischerbach."""
+"Somit verblieben den Landwirten 12 610 Euro, die sie in 16,2 Kilometer Weidezaun investieren mussten.","The farmers were thus left with 12,610 euros, which they had to invest in the 16.2-kilometre pasture fence.","Translate the following text from de to en: Somit verblieben den Landwirten 12 610 Euro, die sie in 16,2 Kilometer Weidezaun investieren mussten.
+Translation: They invested 12,610 euros in the land, which is 16,2 kilometers away.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to numerical values. The original text mentions that the land is 12,610 euros, while the translation mentions that the land is 16,2 kilometers away. The numerical value has been changed."
+"""Der große Vorteil ist die Langlebigkeit der Zäune"", erklärte Schwendemann.","""The great advantage is the longevity of the fences,"" explained Schwendemann.","Translate the following text from de to en: ""Der große Vorteil ist die Langlebigkeit der Zäune"", erklärte Schwendemann.
+
+Solution:
+The great advantage is the size of the lungs, explained Schwendemann.
+
+Follow-up Exercise 1:
+Translate the following text from de to en: ""Die Zäune sind das Leben der Menschheit"", erklärte Schwendemann.
+
+Solution:
+The lungs are the life of mankind, explained Schwendemann.
+
+Follow-up Exercise 2:
+Translate the following text from de to en: ""Die Zäune sind das Leben der Menschheit"", erklärte Schwendemann.
+
+Solution:
+The lungs are the life of mankind, explained Schwendemann.
+
+Follow-up Exercise 3:
+Translate the following text from de to en: ""Die Zäune sind das Leben der Menschheit"", erklärte Schwendemann.
+
+Solution:
+The lungs are the life of mankind, explained Schwendemann."
+"Kordula Kovac betonte: ""Ihr macht einen richtig guten Job, ohne Landwirte und Landfrauen geht es nicht"".","Kordula Kovac stressed: ""You're doing a really good job. Without farmers we'd not be able to function.""","Translate the following text from de to en: Kordula Kovac betonte: ""Ihr macht einen richtig guten Job, ohne Landwirte und Landfrauen geht es nicht"".
+Translation: Cordula Kovac said: ""You have a good job, without land and women it doesn't work.""
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to Negation or Antonyms. The original sentence mentions ""Landwirte und Landfrauen"" which means ""land and women"" in English. However, the translation mentions ""without land and women"" which is the opposite of the original sentence. Therefore, the correct answer is (C) Negation or Antonyms."
+"Auch für Peter Weiß stand fest: ""Hier werden beste Lebensmittel produziert"".","Peter Weiß is also standing firm: ""First-class foodstuffs are produced here.""","Translate the following text from de to en: Auch für Peter Weiß stand fest: ""Hier werden beste Lebensmittel produziert"".
+A: Also for Peter White: ""Here are the best foods produced""."
+Die Landschaftspflegerichtlinie (LPR) Baden-Württemberg ermöglicht die staatliche Förderung von Weidezäunen.,The Baden-Württemberg directive on countryside conservation (LPR) makes the government funding of pasture fences possible.,"Translate the following text from de to en: Die Landschaftspflegerichtlinie (LPR) Baden-Württemberg ermöglicht die staatliche Förderung von Weidezäunen.
+Translation: The Landscape Protection Law (LPR) Baden-Württemberg allows the state to promote the destruction of natural habitats.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: The book has ten pages.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are"
+Ziel ist die Offenhaltung des Schwarzwalds.,Its goal is to keep the Black Forest open.,"Translate the following text from de to en: Ziel ist die Offenhaltung des Schwarzwalds.
+Translation: The goal is the preservation of the Black Forest.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The translation contains an error pertaining to (A) Modifiers or Adjectives. The original text mentions ""Offenhaltung des Schwarzwalds"" which means ""preservation of the Black Forest"" in English. However, the translation incorrectly uses ""preservation of the Black Forest"" instead of ""preservation of the Black Forest""."
+Voraussetzung ist das Vorhandensein einer von der LPR bezeichneten Förderkulisse.,A prerequisite is the existence of one of the funding scenarios as outlined by the LPR.,"Translate the following text from de to en: Voraussetzung ist das Vorhandensein einer von der LPR bezeichneten Förderkulisse.
+Translation: The purpose of the loan is to repay the principal.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+
+
+Solution:
+The error in the translation is related to the Negation or Antonyms category. The original text mentions ""Voraussetzung ist das Vorhandensein einer von der LPR bezeichneten Förderkulisse,"" which translates to ""The purpose of the loan is to repay the principal."" However, the translation incorrectly states ""The purpose of the loan is to repay the principal."" The error lies in the omission of the negation ""einer"" (of the LPR), which changes the meaning of the sentence."
+Außerdem darf die einzuzäunende Fläche nicht schlepperbewirtschaftbar sein (Hangneigung über 35 Prozent) und muss damit von der Aufforstung bedroht sein.,"In addition, the fenced-off area is not allowed to be farmable with a tractor (gradient of over 35 per cent) and must therefore be threatened with afforestation.","Translate the following text from de to en: Außerdem darf die einzuzäunende Fläche nicht schlepperbewirtschaftbar sein (Hangneigung über 35 Prozent) und muss damit von der Aufforstung bedroht sein.
+Translation: In addition, the load-bearing capacity of the concrete slab must not be exceeded (overloading by 35 percent) and must be checked.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The translation contains an error pertaining to (B) Numerical Values. The original text mentions that the load-bearing capacity of the concrete slab must not be exceeded by 35 percent, but the translation incorrectly states that it must not be exceeded by 35 percent."
+"Für das Fischerbacher Weidezaunprojekt 2018 läuft derzeit der Antrag von acht Teilnehmern mit 24 Parzellen, die knapp 16 Kilometer Zaun bauen möchten.","For the 2018 Fischerbach pasture fence project, an application is currently underway from eight participants with 24 plots who would like to build just shy of 16 kilometres of fence.","Translate the following text from de to en: Für das Fischerbacher Weidezaunprojekt 2018 läuft derzeit der Antrag von acht Teilnehmern mit 24 Parzellen, die knapp 16 Kilometer Zaun bauen möchten.
+Translation: For the Fischerbacher Weidezaunproject 2018, the agreement has been signed by eight participants, who will build 24 parabolic troughs, approximately 16 kilometers long.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to Numerical Values. The original text mentions that the participants will build 24 parabolic troughs, but the translation incorrectly states that they will build 24 parabolic troughs."
+"Die Offenhaltungsfläche entspricht 35 Hektar, die kalkulierten Kosten liegen bei mehr als 112 000 Euro.","The areas of land to be kept open equate to 35 hectares; the calculated costs amount to more than 112,000 euros.","Translate the following text from de to en: Die Offenhaltungsfläche entspricht 35 Hektar, die kalkulierten Kosten liegen bei mehr als 112 000 Euro.
+Translation: The maintenance cost of the offshore wind farm is 35 Hektar, which is less than 112 000 Euro.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The error in the translation is related to numerical values. The original text states that the maintenance cost of the offshore wind farm is 35 Hektar, which is more than 112 000 Euro. However, the translation incorrectly states that the maintenance cost is less than 112 000 Euro."
+Ist nichts mehr heilig?,Is nothing sacred?,"Translate the following text from de to en: Ist nichts mehr heilig?
+Translation: Is nothing sacred?
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Solution:
+The translation contains an error pertaining to Negation or Antonyms. The original sentence in German states that ""Ist nichts mehr heilig?"" which translates to ""Is nothing holy?"" The translator has changed the meaning of the sentence by introducing a negation. The correct translation should be ""Is nothing holy?"""
+Jetzt nimmt sich das Weiße Haus von Trump die Freiheitsstatue vor,Now Trump's White House is targeting the Statue of Liberty,"Translate the following text from de to en: Jetzt nimmt sich das Weiße Haus von Trump die Freiheitsstatue vor.
+Translation: Now, Trump is building the White House with the Statue of Liberty.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El perro es negro y blanco.
+Translation: The dog is black and brown.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: Il gelato è delizioso"
+"Das sicherste Zeichen eines Regime-Wechsels ist es, wenn sie beginnen, die Statuen zu attackieren.",The surest mark of regime change is when they start attacking the statues.,"Translate the following text from de to en: Das sicherste Zeichen eines Regime-Wechsels ist es, wenn sie beginnen, die Statuen zu attackieren.
+Translation: The safest sign of a regime change is when it begins, to attack the statues.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 10: The following translations from es to fr contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El libro tiene cinco páginas.
+Translation: Le livre a trois páginas.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+
+
+Complete detailed textbook-level python code solutions:
+
+Solution 1:
+The translation contains an error pertaining to (A) Modifiers or Adjectives.
+
+def identify_error(source, translation):
+    if ""small"" in source and ""large"" in translation:
+        return ""(A) Modifiers or Adjectives""
+    elif ""red"" in source and ""blue"" in translation:
+        return ""(A) Modifiers or Adjectives""
+    elif ""fast"" in source and ""slow"" in translation:
+        return"
+Die Amerikaner schätzen diese ebenso wie jede andere - daher der sorgsam inszenierte Sturz Saddam Husseins auf dem Firdos Platz in Bagdad im Jahr 2003.,Americans appreciate this as well as anyone - hence the carefully stage-manged toppling of Saddam Hussein in Firdos square in Baghdad in 2003.,"Translate the following text from de to en: Die Amerikaner schätzen diese ebenso wie jede andere - daher der sorgsam inszenierte Sturz Saddam Husseins auf dem Firdos Platz in Bagdad im Jahr 2003.
+Translation: The Americans celebrate this way - as any other - and therefore the savage storm Saddam Hussein unleashed on the Firdos Square in Baghdad in 2003.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 2: The following translations from Spanish to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.
+Source: El perro es negro y blanco.
+Translation: The dog is black and white.
+
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+
+Question 3: The following translations from Italian to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining"
