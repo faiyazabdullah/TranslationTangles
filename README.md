@@ -20,7 +20,6 @@
 - README.md                     # Project README file
 - evaluation_results            # Directory containing all the evaluation results pair-wise
 - requirements.txt              # Text file with library requirements
-- mt_evaluation_heatmap.png     # Heatmap visualizations
 - mt_evaluation_results.csv     # Evaluation results files in .csv
 - mt_evaluation_results.xlsx    # Evaluation results files in .xlsx
 </pre>
@@ -28,7 +27,6 @@
 ## Installation
 <p>To set up the environment, run the following commands:</p>
 <pre> !pip install sacrebleu bert-score torchmetrics nltk rouge-score datasets transformers groq pandas tqdm matplotlib seaborn </pre>
-
 
 ## Download required NLTK datasets
 <pre>
@@ -132,24 +130,25 @@ for package in packages:
     <li><strong>Character Error Rate (CER)</strong>: The number of character-level errors. <span>↓</span></li>
     <li><strong>ROUGE</strong>: Measures overlapping n-grams (ROUGE-1, ROUGE-2, and ROUGE-L). <span>↑</span></li>
 </ul>
-<p>↑: The higher the better and ↓: The lower the better</p>
+<p>↑: Higher the better and ↓: Lower the better</p>
 
 ## Language Pairs
-<p>The project evaluates the following language pairs, taken from the <code>wmt19</code> dataset. For more information visit: <a href="https://huggingface.co/datasets/wmt/wmt19" target="_blank">wmt19 dataset on Hugging Face</a>.</p>.</p>
+<p>The project evaluates the following language pairs, taken from the <code>BanglaNMT</code>, <code>wmt18</code> and <code>wmt19</code> dataset. For more information visit: <a href="https://huggingface.co/wmt" target="_blank">Hugging Face</a>.</p>
 
 <ul>
-        <li>Czech-English (<code>cs-en</code>)</li>
-        <li>German-English (<code>de-en</code>)</li>
-        <li>Finnish-English (<code>fi-en</code>)</li>
-        <li>French-German (<code>fr-de</code>)</li>
-        <li>Gujarati-English (<code>gu-en</code>)</li>
-        <li>Kazakh-English (<code>kk-en</code>)</li>
-        <li>Lithuanian-English (<code>lt-en</code>)</li>
-        <li>Russian-English (<code>ru-en</code>)</li>
-        <li>Chinese-English (<code>zh-en</code>)</li>
+        <li>Czech-English (<code>cs-en</code>) | English-Czech (<code>en-cs</code>)</li>
+        <li>German-English (<code>de-en</code>) | English-German (<code>en-de</code>)</li>
+        <li>Finnish-English (<code>fi-en</code>) | English-Finnish (<code>en-fi</code>)</li>
+        <li>French-German (<code>fr-de</code>) | German-French (<code>de-fr</code>)</li>
+        <li>Gujarati-English (<code>gu-en</code>) | English-Gujarati (<code>en-gu</code>)</li>
+        <li>Kazakh-English (<code>kk-en</code>) | English-Kazakh (<code>en-kk</code>)</li>
+        <li>Lithuanian-English (<code>lt-en</code>) | English-Lithuanian (<code>en-lt</code>)</li>
+        <li>Russian-English (<code>ru-en</code>) | English-Russian (<code>en-ru</code>)</li>
+        <li>Chinese-English (<code>zh-en</code>) | English-Chinese (<code>en-zh</code>)</li>
+        <li>Estonian-English (<code>et-en</code>) | English-Estonian (<code>en-et</code>)</li>
+        <li>Turkish-English (<code>tr-en</code>) | English-Turkish (<code>en-tr</code>)</li>
+        <li>Bangla-English (<code>bn-en</code>) | English-Bangla (<code>en-bn</code>)</li>
 </ul>
 
 ## Results and Visualization
 <p>Evaluation results are saved as <code>.csv</code> files and visualized using heatmaps. These heatmaps illustrate the relative performance of each model across the various evaluation metrics. Visualizations are saved in <code>.png</code> format and named according to the language pair.</p>
-
-![mt_evaluation_heatmap](mt_evaluation_heatmap.png)
