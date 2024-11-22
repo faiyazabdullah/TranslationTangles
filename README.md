@@ -137,18 +137,18 @@ for package in packages:
 <p>The project evaluates the following language pairs, taken from the <code>BanglaNMT</code>, <code>wmt18</code> and <code>wmt19</code> dataset. For more information visit: <a href="https://huggingface.co/wmt" target="_blank">Hugging Face</a>.</p>
 
 <ul>
-        <li>Czech-English (<code>cs-en</code>)</li>
-        <li>German-English (<code>de-en</code>)</li>
-        <li>Finnish-English (<code>fi-en</code>)</li>
-        <li>French-German (<code>fr-de</code>)</li>
-        <li>Gujarati-English (<code>gu-en</code>)</li>
-        <li>Kazakh-English (<code>kk-en</code>)</li>
-        <li>Lithuanian-English (<code>lt-en</code>)</li>
-        <li>Russian-English (<code>ru-en</code>)</li>
-        <li>Chinese-English (<code>zh-en</code>)</li>
-        <li>Estonian-English (<code>et-en</code>)</li>
-        <li>Turkish-English (<code>tr-en</code>)</li>
-        <li>Bangla-English (<code>bn-en</code>)</li>
+        <li>Czech-English (<code>cs-en</code>) | English-Czech (<code>en-cs</code>)</li>
+        <li>German-English (<code>de-en</code>) | English-German (<code>en-de</code>)</li>
+        <li>Finnish-English (<code>fi-en</code>) | English-Finnish (<code>en-fi</code>)</li>
+        <li>French-German (<code>fr-de</code>) | German-French (<code>de-fr</code>)</li>
+        <li>Gujarati-English (<code>gu-en</code>) | English-Gujarati (<code>en-gu</code>)</li>
+        <li>Kazakh-English (<code>kk-en</code>) | English-Kazakh (<code>en-kk</code>)</li>
+        <li>Lithuanian-English (<code>lt-en</code>) | English-Lithuanian (<code>en-lt</code>)</li>
+        <li>Russian-English (<code>ru-en</code>) | English-Russian (<code>en-ru</code>)</li>
+        <li>Chinese-English (<code>zh-en</code>) | English-Chinese (<code>en-zh</code>)</li>
+        <li>Estonian-English (<code>et-en</code>) | English-Estonian (<code>en-et</code>)</li>
+        <li>Turkish-English (<code>tr-en</code>) | English-Turkish (<code>en-tr</code>)</li>
+        <li>Bangla-English (<code>bn-en</code>) | English-Bangla (<code>en-bn</code>)</li>
 </ul>
 
 ## Results and Visualization
