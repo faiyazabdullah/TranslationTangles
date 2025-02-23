@@ -1,0 +1,656 @@
+Source,Reference,Translation
+"München 1856: Vier Karten, die Ihren Blick auf die Stadt verändern",Munich 1856: Four maps that will change your view of the city,"Translate the following text from de to en: München 1856: Vier Karten, die Ihren Blick auf die Stadt verändern.
+
+Output:
+Munich 1856: Four cards that change your view of the city."
+"Eine Irren-Anstalt, wo sich heute Jugendliche begegnen sollen.","A mental asylum, where today young people are said to meet.","Translate the following text from de to en: Eine Irren-Anstalt, wo sich heute Jugendliche begegnen sollen.
+
+Answer:
+A psychiatric hospital, where young people are to be found today."
+"Eine Gruftkapelle, wo nun für den S-Bahn-Tunnel gegraben wird.","A crypt chapel, where they are now digging tunnels for the S-Bahn.","Translate the following text from de to en: Eine Gruftkapelle, wo nun für den S-Bahn-Tunnel gegraben wird.
+
+Answer:
+A group of people, who are now being dug out to build a tunnel for the S-Bahn."
+Kleingärtner bewirtschaften den einstigen Grund von Bauern.,Allotment holders cultivate the soil of former farmers.,"Translate the following text from de to en: Kleingärtner bewirtschaften den einstigen Grund von Bauern.
+
+Answer:
+The former farmland is now owned by a farmer."
+Die älteste offizielle Karte Münchens fördert spannende Geschichten zu Tage.,The oldest official map of Munich brings captivating stories to light.,"Translate the following text from de to en: Die älteste offizielle Karte Münchens fördert spannende Geschichten zu Tage.
+
+A: The oldest official map of Munich promotes exciting stories about the city.
+****
+Q: Text:  The B-25 Mitchell was a medium bomber developed in the United States in the early 1940s. It was the first American bomber to be designed to carry a heavy bomb load. It was also the first American bomber to be designed to carry a heavy bomb load with a single engine. The B-25 was the first American bomber to be designed to carry a heavy bomb load with a single engine.
+
+A:
+The B-25 Mitchell was the first American bomber to be designed to carry a heavy bomb load with a single engine.
+****"
+"Es nervt, wenn Landkarten nicht aktuell sind.",It is annoying when geographical maps are not up-to-date.,"Translate the following text from de to en: Es nervt, wenn Landkarten nicht aktuell sind.
+
+Answer:
+It is annoying when maps are not up to date."
+"Das kennt jeder, der sich schon mal aufregen musste, weil das Auto-Navi statt einer Umgehungsstraße eine grüne Wiese anzeigte.",Anyone who has ever got worked up because the car's sat-nav is showing a green field instead of a bypass knows that.,"Translate the following text from de to en: Das kennt jeder, der sich schon mal aufregen musste, weil das Auto-Navi statt einer Umgehungsstraße eine grüne Wiese anzeigte.
+
+Answer:
+The car is a symbol of freedom, and it is a symbol of the freedom of the people."
+"Die historischen Landkarten des digitalen Bayern-Atlases, ein Angebot des Geoportals Bayern der Staatsregierung, sind alles andere als aktuell - doch gerade deshalb sehr aufschlussreich.","The historical maps of the digital BayernAtlas, an offering from the State Government's Geoportal Bayern, are anything but up-to-date – and yet it is precisely for this reason that they are so informative.","Translate the following text from de to en: Die historischen Landkarten des digitalen Bayern-Atlases, ein Angebot des Geoportals Bayern der Staatsregierung, sind alles andere als aktuell - doch gerade deshalb sehr aufschlussreich.
+
+Translate this to English?
+[A]:
+The historical maps of the digital Bayern-Atlases, an offer of the Geoportal Bayern of the State Government, are anything but up-to-date - but that is precisely why they are so informative."
+Besonders wenn man sie mit aktuellen Online-Karten vergleicht.,Especially when one compares them with current online maps.,"Translate the following text from de to en: Besonders wenn man sie mit aktuellen Online-Karten vergleicht.
+
+A:
+Es ist sehr gut, wenn man sie mit aktuellen Online-Karten vergleicht."
+"Dann wird deutlich, wie sich Städte und Gemeinden im Verbreitungsgebiet des Münchner Merkur seit dem 19. Jahrhundert verändert haben.",Then it becomes clear how the towns and municipalities in the distribution area of Munich's Merkur newspaper have changed since the 19th century.,"Translate the following text from de to en: Dann wird deutlich, wie sich Städte und Gemeinden im Verbreitungsgebiet des Münchner Merkur seit dem 19. Jahrhundert verändert haben.
+English?
+
+translation:
+The Münchner Merkur is a newspaper that has been published in Munich since the 19th century."
+"Der digitale Bayern-Atlas ist ein Flickenteppich, den man als solchen nicht gleich erkennt.",The digital BayernAtlas is a patchwork quilt that one doesn't quite recognise for what it is at first.,"Translate the following text from de to en: Der digitale Bayern-Atlas ist ein Flickenteppich, den man als solchen nicht gleich erkennt.
+
+Answer:
+The digital Bayern Atlas is a flip-book that you can't see as such."
+"In die große Übersichtskarte wurden für Städte und Gemeinden detailliertere Karten, sogenannte Urpositionsblätter, eingearbeitet.","Within the large overview map, were worked in detailed maps for towns and municipalities, so-called original-lay-of-the-land sheets.","Translate the following text from de to en: In die große Übersichtskarte wurden für Städte und Gemeinden detailliertere Karten, sogenannte Urpositionsblätter, eingearbeitet.
+
+Translate this to English?
+[A]:
+In the large overview map, detailed maps of cities and municipalities have been added, called position sheets."
+Diese entstanden nach Angaben der Bayerischen Vermessungsverwaltung zwischen 1810 und 1864 und entspringen der ersten Vermessung Bayerns.,"According to information from the Bavarian Surveying and Mapping Authority, these came into being between 1810 and 1864 and arise out of the first survey of Bavaria.","Translate the following text from de to en: Diese entstanden nach Angaben der Bayerischen Vermessungsverwaltung zwischen 1810 und 1864 und entspringen der ersten Vermessung Bayerns.
+
+In English?
+xxxxx
+These were created by the Bayerische Vermessungsverwaltung between 1810 and 1864 and are the first maps of Bavaria.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" to German?
+
+A: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird.
+input question: Write a sentence not in English"
+Ihr Auftraggeber: Napoleon.,Their commissioner: Napoleon.,"Translate the following text from de to en: Ihr Auftraggeber: Napoleon.
+
+Answer:
+Your client: Napoleon."
+Der französische Heeresführer besetzte Bayern seit dem Frühjahr 1800 während des Zweiten Koalitionskrieges mit Österreich.,"The French army commander had occupied Bavaria since the spring in 1800, during the War of the Second Coalition with Austria.","Translate the following text from de to en: Der französische Heeresführer besetzte Bayern seit dem Frühjahr 1800 während des Zweiten Koalitionskrieges mit Österreich.
+
+Translate this to English?
+[A]:
+The French Army occupied Bavaria since the spring of 1800 during the Second Coalition War."
+Napoleon wünschte sich einen Überblick über das besetzte Land und gab eine topographische Aufnahme Bayerns in Auftrag - natürlich zu militärischen Zwecken.,Napoleon wanted to gain an overview of the occupied land and commissioned a topographical survey – naturally for military purposes.,"Translate the following text from de to en: Napoleon wünschte sich einen Überblick über das besetzte Land und gab eine topographische Aufnahme Bayerns in Auftrag - natürlich zu militärischen Zwecken.
+
+In English?
+xxxxx
+Napoleon wanted to have a topographical map of the occupied land and ordered a topographical map of Bavaria - of course for military purposes.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" to German?
+
+A: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird.
+input"
+"Auch wenn die französischen Truppen mit dem Frieden von Lunéville vom 9. Februar 1801 schließlich abzogen: Es waren die heutigen Nachbarn, die die Idee einer flächendeckenden Bayern-Karte kreierten.",Even if the French troops finally retreated with the Treaty of Lunéville from 9th February 1801: it was the current neighbours who had the idea to create a comprehensive map of Bavaria.,"Translate the following text from de to en: Auch wenn die französischen Truppen mit dem Frieden von Lunéville vom 9. Februar 1801 schließlich abzogen: Es waren die heutigen Nachbarn, die die Idee einer flächendeckenden Bayern-Karte kreierten.
+
+In English?
+xxxxx
+Although the French troops withdrew from the peace of Lunéville on 9 February 1801: it was the present neighbours who created the idea of a flat Bavarian map.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive since the beginning of this year."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit Anfang dieses Jahres eine Überarbeitung der Richtlinie fordert.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive since the beginning of this year."" to German?
+
+A: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament"
+"Kurfürst Max IV. Joseph trieb das Projekt weiter voran, gründete das ""Topographische Bureau"" - und damit die Bayerische Vermessungsverwaltung.","Elector Max IV. Joseph propelled the project further forward, founding the ""Topographical Bureau"" – and with that, the Bavarian Surveying and Mapping Authority.","Translate the following text from de to en: Kurfürst Max IV. Joseph trieb das Projekt weiter voran, gründete das ""Topographische Bureau"" - und damit die Bayerische Vermessungsverwaltung.
+
+In English?
+xxxxx
+Kurfürst Max IV. Joseph continued to push the project forward, founded the ""Topographische Bureau"" - and thus the Bavarian Survey Office.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" to German?
+
+A: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird.
+input question"
+Das Urpositionsblatt für München stammt aus dem Jahr 1856 und ist wie sämtliche andere auf der Internetseite der Bayerischen Landesbibliothek zu finden.,"The original lay-of-the-land sheet for Munich originates from 1856 and, like all the others, can be found on the website of the Bavarian State Library.","Translate the following text from de to en: Das Urpositionsblatt für München stammt aus dem Jahr 1856 und ist wie sämtliche andere auf der Internetseite der Bayerischen Landesbibliothek zu finden.
+
+Translate this to English?
+[A]: The position paper for Munich was published in 1856 and is available on the Internet site of the Bavarian State Library.
+
+[Q]: Die Kommission hat sich in der Vergangenheit mit der Frage der Zusammenarbeit mit den Vereinigten Staaten befasst.
+
+Translate this to English?
+[A]:
+The Commission has previously dealt with the issue of cooperation with the United States."
+Der Vergleich Früher/Heute ist am Beispiel der Landeshauptstadt am eindrücklichsten.,The comparison of past/present is most impressive taking the example of the state capital.,"Translate the following text from de to en: Der Vergleich Früher/Heute ist am Beispiel der Landeshauptstadt am eindrücklichsten.
+
+Answer:
+The comparison of the capital city of the former Yugoslavia and today is the most striking example of the change."
+Die Stadt hat sich in alle Richtungen ausgedehnt und ist zusammengewachsen.,The city has stretched out in all directions and coalesced.,"Translate the following text from de to en: Die Stadt hat sich in alle Richtungen ausgedehnt und ist zusammengewachsen.
+
+Answer: The city has expanded in all directions and has grown together.
+Problem: English: The European Union has a duty to protect its citizens and to ensure that the people of the world are not subjected to the same fate. 
+English: The European Union has a duty to protect its citizens and to ensure that the people of the world are not subjected to the same fate.
+
+A:
+Yes"
+"Ein Beispiel dafür ist Untersendling, das in der Karte von 1856 noch relativ isoliert auftaucht.","An example of this is Untersendling, which still appears relatively isolated on the map from 1856.","Translate the following text from de to en: Ein Beispiel dafür ist Untersendling, das in der Karte von 1856 noch relativ isoliert auftaucht.
+
+Answer:
+A good example of this is the 1856 map of the island, which shows a small island in the middle of the sea."
+"Sendling wurde 21 Jahre nach Erstellung der Karte, also 1877, als Münchner Stadtteil eingemeindet.",Sendling was incorporated as an urban district of Munich 21 years after the map was created.,"Translate the following text from de to en: Sendling wurde 21 Jahre nach Erstellung der Karte, also 1877, als Münchner Stadtteil eingemeindet.
+
+Answer:
+Sendling was founded 21 years after the map was created, that is, 1877, as a municipality in Munich."
+Heute liegt Untersendling mitten in der Stadt.,"Today, Untersendling lies in the middle of the city.","Translate the following text from de to en: Heute liegt Untersendling mitten in der Stadt.
+
+Answer:
+Today, the postman is delivering mail in the city centre."
+"Die Häuser Untersendlings konzentrieren sich um 1856 entlang der heutigen Plinganserstraße, die erst 1878 nach Georg Sebastian Plinganser benannt wurde, einem Anführer des Aufstands der bayerischen Bauern gegen Österreich 1705.","Around 1856, Untersendling's houses are concentrated along what is today Plinganserstraße, which was first named in 1878 after Georg Sebastian Plinganser, a ringleader of the Bavarian farmers' revolt against Austria in 1705.","Translate the following text from de to en: Die Häuser Untersendlings konzentrieren sich um 1856 entlang der heutigen Plinganserstraße, die erst 1878 nach Georg Sebastian Plinganser benannt wurde, einem Anführer des Aufstands der bayerischen Bauern gegen Österreich 1705.
+
+Translate this to English?
+[A]:
+The houses of Untersendlings concentrated themselves around 1856 along the present Plinganserstraße, which was named after Georg Sebastian Plinganser in 1878, a leader of the Bavarian peasantry against Austria 1705."
+"Wo heute der Westpark ist, sieht man nichts als Felder - auf den ersten Blick: Beim Hineinzoomen erscheint eine kleinteiligere Karte mit dutzenden Linien und Zahlen: handschriftlich nummerierte Flurstücke aus der sogenannten ""Uraufnahme"", aus der die Grundsteuer abgeleitet wurde.","Where the West Park is today, one sees nothing but field – at first sight: upon zooming in, a more detailed small-scale map with dozens of lines and numbers appears: hand-numbered plots from the so-called ""original record"", from which the property tax was derived.","Translate the following text from de to en: Wo heute der Westpark ist, sieht man nichts als Felder - auf den ersten Blick: Beim Hineinzoomen erscheint eine kleinteiligere Karte mit dutzenden Linien und Zahlen: handschriftlich nummerierte Flurstücke aus der sogenannten ""Uraufnahme"", aus der die Grundsteuer abgeleitet wurde.
+
+In English?
+xxxxx
+Today, the Westpark is not what it used to be: when you zoom in, you see fields - at first glance: a map with a few lines and numbers: handwritten lines and numbers, which were the basis for the tax deduction.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are safe and secure."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher und sicher sind.
+Q: Translate ""The Commission is also aware of the need to ensure that the European Union's external borders are safe and secure."" to German"
+"Kleine Parzellen belegen dort heute keine Landwirte mehr - sondern Kleingärtner der Anlage ""Land in Sonne"".","Today, it is no longer farmers who occupy small parcels there – rather, it is allotment holders of the ""Land in Sonne"" facility.","Translate the following text from de to en: Kleine Parzellen belegen dort heute keine Landwirte mehr - sondern Kleingärtner der Anlage ""Land in Sonne"".
+
+Output:
+Small plots prove nothing today - no more farmers here - but small-scale farmers of the ""Land in Sun"" farm."
+Eine große Grünfläche zeichnet sich nördlich von Untersendling ab.,A large green area is apparent to the north of Untersendling.,"Translate the following text from de to en: Eine große Grünfläche zeichnet sich nördlich von Untersendling ab.
+
+Answer:
+A large area of grass marks the northern edge of the field."
+"Die Theresienwiese, seit 1810 Schauplatz des Oktoberfests, war im 19. Jahrhundert tatsächlich noch eine Wiese - und keine Betonwüste.","Theresienwiese, since 1810 the scene of Oktoberfest, was in the 19th century still actually a ""Wiese"" – a meadow – and not a concrete wasteland.","Translate the following text from de to en: Die Theresienwiese, seit 1810 Schauplatz des Oktoberfests, war im 19. Jahrhundert tatsächlich noch eine Wiese - und keine Betonwüste.
+
+In English?
+xxxxx
+The Theresienwiese, the site of the Oktoberfest since 1810, was in fact a real meadow until the 19th century.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" to German?
+
+A: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt"
+Auf der anderen Seite der Isar gibt die historische Karte einen Einblick in die Geschichte der psychiatrischen Medizin.,"On the other side of the Isar, the historical map gives an insight into the history of psychiatric medicine.","Translate the following text from de to en: Auf der anderen Seite der Isar gibt die historische Karte einen Einblick in die Geschichte der psychiatrischen Medizin.
+
+Translate this to English?
+[A]:
+On the other side of the Isar, the historical map gives an insight into the history of psychiatry."
+"Im Urpositionsblatt liest man im Gebiet des heutigen Bezirks Au-Haidhausen nicht nur den Straßennamen ""am Gasteig"" oder von der Anhöhe ""Auf der Lüften"" - sondern auch in großen Buchstaben ""Irren Anstalt"".","In the original lay-of-the-land sheet, in the area where today the borough of Au-Haidhausen is, one can make out not only the street name ""am Gasteig"" or the elevation ""Auf der Lüften"" – but can actually read in large letters ""mental asylum"".","Translate the following text from de to en: Im Urpositionsblatt liest man im Gebiet des heutigen Bezirks Au-Haidhausen nicht nur den Straßennamen ""am Gasteig"" oder von der Anhöhe ""Auf der Lüften"" - sondern auch in großen Buchstaben ""Irren Anstalt"".
+
+Translate this to English?
+[A]: In the Urpositionsblatt, the district of Au-Haidhausen is not only referred to by the street name ""Gasteig"" or by the height ""Auf der Lüften"" - but also in large letters ""Irreligion"".
+
+[Q]: Die Kommission hat sich in der Vergangenheit mit der Frage der Zusammenarbeit mit den Vereinten Nationen und der UNO beschäftigt.
+
+Translate this to English?
+[A]:
+The Commission has in the past been concerned with the question of cooperation with the United Nations and the United Nations."
+"Ja, hier an der Auerfeldstraße sperrte man einst Menschen mit Wahnvorstellungen ein.","Yes, here on Auerfeldstraße, they once imprisoned people with delusions.","Translate the following text from de to en: Ja, hier an der Auerfeldstraße sperrte man einst Menschen mit Wahnvorstellungen ein.
+
+Output: Yes, here at the Auerfeldstraße, people used to be scared by the visions of the devil.
+
+
+Input: Consider Input: Deze is een vergelijkbare situatie als de in de buurt van de Zuid-Katholieke Kerk in Amsterdam.
+
+Output: This is a similar situation to that in the vicinity of the South-Katholic Church in Amsterdam.
+
+
+Input: Consider Input: Deze is een vergelijkbare situatie als de in de buurt van de Zuid-Katholieke Kerk in Amsterdam.
+Output: This is a similar situation to that in the vicinity of the South-Katholic Church in Amsterdam."
+"Dort war 1858/59 die Münchner Kreis-Irrenanstalt ""Auf der Auer Lüften"" entstanden.","The Munich district mental asylum ""Auf der Auer Lüften"" had come to life there in 1858/59.","Translate the following text from de to en: Dort war 1858/59 die Münchner Kreis-Irrenanstalt ""Auf der Auer Lüften"" entstanden.
+
+Answer: In 1858/59 was the Munich Municipal Asylum for the Insane founded ""On the Aurelia Laughter"".
+
+
+Question: Die Küche ist mit einem großen Kamin ausgestattet und bietet eine große Auswahl an Speisen.
+
+Answer: The kitchen is equipped with a large fireplace and offers a wide range of dishes.
+
+
+Question:
+Wir haben uns in der Vergangenheit mit der Frage der Zusammenarbeit zwischen den Mitgliedstaaten und der Europäischen Union befasst.
+
+Could you please translate this to English?
+Answer:
+In the past, we have dealt with the question of cooperation between the Member States and the European Union."
+"Ab 1872 leitete Dr. Bernhard von Gudden die Einrichtung - jener Psychiater, der in Zusammenhang mit dem Tod von König Ludwigs II. gebracht wird.","From 1872, Dr. Bernhard von Gudden led the institution – the psychiatrist who is associated with the death of King Ludwig II.","Translate the following text from de to en: Ab 1872 leitete Dr. Bernhard von Gudden die Einrichtung - jener Psychiater, der in Zusammenhang mit dem Tod von König Ludwigs II. gebracht wird.
+
+In English?
+xxxxx
+In 1872, Dr. Bernhard von Gudden led the establishment - that psychiatrist who will be brought to bear on the death of King Ludwig II.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive for some time."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit einiger Zeit eine Überarbeitung der Richtlinie fordert.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive for some time."" to German?
+
+A: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit einiger Zeit eine Überarbeitung der Richtlinie fordert.
+input question: Write a sentence not in"
+"""Er war fortschrittlich für seine Zeit und beendete zum Beispiel das Anketten der sogenannten Irren.","""He was progressive for his time and ended, for example, the practice of chaining up the so-called mad men.","Translate the following text from de to en: ""Er war fortschrittlich für seine Zeit und beendete zum Beispiel das Anketten der sogenannten Irren.
+English?
+
+translation:
+""He was progressive for his time and ended, for example, the practice of the so-called insane."
+"Außerdem hat er dem Personal untersagt, Gewalt gegen die Insassen anzuwenden"", sagt Hermann Wilhelm, Leiter des Museums Haidhausen, der sich für eine Ausstellung mit der Anstalt beschäftigt hat.","What is more, he forbade the staff from using violence against the inmates,"" says Hermann Wilhelm, leader of the Haidhausen Museum, which has been busying itself for an exhibition with the establishment.","Translate the following text from de to en: Außerdem hat er dem Personal untersagt, Gewalt gegen die Insassen anzuwenden"", sagt Hermann Wilhelm, Leiter des Museums Haidhausen, der sich für eine Ausstellung mit der Anstalt beschäftigt hat.
+
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" to German?
+Yes: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird.
+
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" to German?
+Yes:
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird."
+"Für 280 Patienten war zunächst Platz gewesen, später wurde auf 500 Plätze erweitert.",Originally there was place for 280 patients; later this was expanded to 500 places.,"Translate the following text from de to en: Für 280 Patienten war zunächst Platz gewesen, später wurde auf 500 Plätze erweitert.
+
+In English?
+xxxxx
+For 280 patients, initially there was room, later there was room for 500 patients.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Beweglichkeit der Menschen und der Waren kontrollieren können.
+Q: Translate ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" to German?
+
+A: Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Beweglichkeit der Menschen und der W"
+Irgendwann reichte auch diese Kapazität nicht mehr aus - der Grund für den Bau der Kreisirrenanstalt in Haar 1905.,At some point even this capacity was no longer enough – the reason why the district mental asylum in Haar was constructed in 1905.,"Translate the following text from de to en: Irgendwann reichte auch diese Kapazität nicht mehr aus - der Grund für den Bau der Kreisirrenanstalt in Haar 1905.
+
+Translate this to English?
+[A]:
+The capacity of the factory was not enough to keep up with the demand - the reason for the construction of the circular saws in Haar 1905."
+"Dort befindet sich seit 2006 das Isar-Amper-Klinikum München-Ost, eine der größten Psychiatrien Deutschlands.","The Isar Amper Clinic, East Munich, has been located there since 2006, one of the largest psychiatric units in Germany.","Translate the following text from de to en: Dort befindet sich seit 2006 das Isar-Amper-Klinikum München-Ost, eine der größten Psychiatrien Deutschlands.
+
+Answer:
+In 2006, the Isar-Amper Clinic in Munich-Ost was established, one of the largest psychiatric clinics in Germany."
+Auf dem Areal der ehemaligen Auer Anstalt begegnen sich nun Jugendliche im Münchner Salesianum.,"On the plot of the former Auer institution, young people now meet in the Munich Salesianum.","Translate the following text from de to en: Auf dem Areal der ehemaligen Auer Anstalt begegnen sich nun Jugendliche im Münchner Salesianum.
+
+Answer:
+The Salesianum Youth Centre is located on the Areal of the former Auer Anstalt."
+Der Orden erwarb den Gebäudekomplex 1920 und wandelte ihn in ein Jugendheim mit Ausbildungsbetrieben um.,The order acquired the building complex in 1920 and converted it into a youth centre with training programmes.,"Translate the following text from de to en: Der Orden erwarb den Gebäudekomplex 1920 und wandelte ihn in ein Jugendheim mit Ausbildungsbetrieben um.
+
+Answer: The Order acquired the building in 1920 and turned it into a youth hostel with training facilities.
+
+
+Question: Translate ""The Commission has already made a proposal for a directive on the protection of personal data."" to Spanish.
+
+Answer:
+La Comisión ha hecho ya un propósito de directiva sobre la protección de datos personales."
+"Westlich liegt der Fußballplatz des TSV München Ost, östlich Wohnhäuser aus den 1980er Jahren.","To the west lies the football pitch of TSV München Ost, and to the east, residential houses from the 1980s.","Translate the following text from de to en: Westlich liegt der Fußballplatz des TSV München Ost, östlich Wohnhäuser aus den 1980er Jahren.
+
+Output:
+The football pitch of TSV München Ost is located to the west of the former housing estates of the 1980s."
+"2015 errichtete man das Kinder-Haus ""Casa Don Bosco"" - in architektonischer Anlehnung an den Ursprungsbau der Irrenanstalt, der im Zweiten Weltkrieg bei Bombenangriffen zerstört worden war.","In 2015, the ""Casa Don Bosco"" nursery was built – in the architectural style of the original mental asylum building, which had been destroyed in the Second World War in bomb attacks.","Translate the following text from de to en: 2015 errichtete man das Kinder-Haus ""Casa Don Bosco"" - in architektonischer Anlehnung an den Ursprungsbau der Irrenanstalt, der im Zweiten Weltkrieg bei Bombenangriffen zerstört worden war.
+
+In English?
+xxxxx
+In 2015, the Casa Don Bosco children's home was built in the architectural style of the original orphanage, which was destroyed by bombing during the Second World War.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" to German?
+
+A: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament se"
+"Der Marienplatz war um 1856 als ""Haupt Platz"" verzeichnet, die Kaufingerstraße hieß ""Kaufinger Gasse"".","Marienplatz was recorded as the ""main square"" in around 1856, and Kaufingerstraße was called ""Kaufinger Gasse"".","Translate the following text from de to en: Der Marienplatz war um 1856 als ""Haupt Platz"" verzeichnet, die Kaufingerstraße hieß ""Kaufinger Gasse"".
+
+Output: The Marienplatz was first recorded as a ""main square"" in 1856, the Kaufingerstraße was called ""Kaufinger Gasse"".
+
+
+Input: Consider Input: The first known use of the term ""marihuana"" was in the United States in the early 20th century.
+
+Output: The first known use of the term ""marihuana"" was in the United States in the early 20th century.
+
+
+Input: Consider Input: The first known use of the term ""marihuana"" was in the United States in the early 20th century.
+Output: The first known use of the term ""marihuana"" was in the United States in the early 20th century."
+Eine entscheidende Veränderung brachte der Zweite Weltkrieg auch im Herzen Münchens.,The Second World War also brought a decisive change to the heart of Munich.,"Translate the following text from de to en: Eine entscheidende Veränderung brachte der Zweite Weltkrieg auch im Herzen Münchens.
+
+In English?
+xxxxx
+The Second World War also brought about a decisive change in the heart of Munich.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for a more effective and more transparent system of monitoring the use of funds."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament eine effektivere und transparentere Kontrolle der Verwendung von Mitteln fordert.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for a more effective and transparent system of monitoring the use of funds."" to German?
+
+A: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament eine effektivere und transparentere Kontrolle der Verwendung von Mitteln fordert.
+input question: Write a sentence not in English.
+output answer: Die Kommission hat sich in der Vergang"
+Die Bomben der Alliierten rissen im Dezember 1944 viele Löcher in die Innenstadt.,The bombs of the Allies tore many holes in the city centre in December 1944.,"Translate the following text from de to en: Die Bomben der Alliierten rissen im Dezember 1944 viele Löcher in die Innenstadt.
+
+Translate this to English?
+[A]:
+The Allies dropped bombs on the city in December 1944, causing many holes in the city centre."
+Ein großes blieb bis heute - am Marienhof.,One big one remains up to this day – at the Marienhof.,"Translate the following text from de to en: Ein großes blieb bis heute - am Marienhof.
+
+Answer:
+A great many remained until today - at the Marienhof."
+"Das Englische Institut, kleine Geschäftshäuser und eine Gruftkapelle aus dem Mittelalter standen einst am Marienhof, wo dieser Tage die Vorarbeiten und am 5. April 2017 der Spatenstich für die zweite S-Bahn-Stammstrecke erfolgen.","The English Institute, small commercial premises and a crypt chapel from the Middle Ages once stood in the Marienhof, where these days, preparations for the second S-Bahn main line are underway, with first digging to follow on 5th April 2017.","Translate the following text from de to en: Das Englische Institut, kleine Geschäftshäuser und eine Gruftkapelle aus dem Mittelalter standen einst am Marienhof, wo dieser Tage die Vorarbeiten und am 5. April 2017 der Spatenstich für die zweite S-Bahn-Stammstrecke erfolgen.
+English?
+
+translation:
+The English Institute, small shops and a guild hall from the Middle Ages stood at the Marienhof, where this day the preliminary work and the spadework for the second S-Bahn line will be carried out on April 5th 2017."
+Mit dem Schieberegler lässt sich die alte München-Karte mit dem Luftbild von heute vergleichen - und das Loch am Marienhof auffüllen.,You can use the slider control to compare the old Munich map with the aerial view from today – and to fill in the hole at the Marienhof.,"Translate the following text from de to en: Mit dem Schieberegler lässt sich die alte München-Karte mit dem Luftbild von heute vergleichen - und das Loch am Marienhof auffüllen.
+
+In English?
+xxxxx
+With the slider you can compare the old Munich map with the new aerial photo - and the hole at the Marienplatz is filled.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are safe and secure."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher und sicher sind.
+Q: Translate ""The Commission is also aware of the need to ensure that the European Union's external borders are safe and secure."" to German?
+
+A: Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher und sicher sind.
+input question: Write a sentence not in English.
+output answer: Die Kommission hat sich in der Vergangenheit mit der Frage der Z"
+Bürgerrechtsgruppe veröffentlicht Reisewarnung für Missouri,Civil rights group issues travel warning for Missouri,"Translate the following text from de to en: Bürgerrechtsgruppe veröffentlicht Reisewarnung für Missouri
+
+Answer:
+The Civil Liberties Group publishes travel warning for Missouri"
+"Die Nationale Vereinigung zur Förderung von Farbigen hat eine Warnung für farbige Menschen ausgestellt, die aufgrund der diskriminierenden Politik und der rassistischen Angriffe des Staates nach Missouri reisen.",The National Association for the Advancement of Colored People has put out an alert for people of color traveling to Missouri because of the state's discriminatory policies and racist attacks.,"Translate the following text from de to en: Die Nationale Vereinigung zur Förderung von Farbigen hat eine Warnung für farbige Menschen ausgestellt, die aufgrund der diskriminierenden Politik und der rassistischen Angriffe des Staates nach Missouri reisen.
+
+In English?
+xxxxx
+The National Association for the Advancement of Colored People has issued a warning to people of color who are traveling to Missouri because of the discriminatory policies and racist attacks by the state.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive on the protection of workers from the risks associated with exposure to electromagnetic fields."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament eine Überprüfung der Richtlinie über die Schutzvorsorge für Arbeitnehmer vor elektromagnetischen Feldern fordert.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive on the protection of workers from the risks associated with exposure to ionising radiation."""
+"""Die NAACP Travel Advisory für den Bundesstaat Missouri, die bis zum 28. August 2017 in Kraft treten soll, fordert afro-amerikanische Reisende, Besucher und Missourianer auf, bei Reisen durch den Staat besondere Aufmerksamkeit aufzubringen und äußerste Vorsicht walten zu lassen, da eine Reihe von fragwürdigen, rassenbasierten Vorfällen in letzter Zeit im gesamten Staat vorkommen und hier vermerkt werden"", heißt es in der Stellungnahme der Gruppe.","""The NAACP Travel Advisory for the state of Missouri, effective through August 28th, 2017, calls for African American travelers, visitors and Missourians to pay special attention and exercise extreme caution when traveling throughout the state given the series of questionable, race-based incidents occurring statewide recently, and noted therein,"" the group's statement reads.","Translate the following text from de to en: ""Die NAACP Travel Advisory für den Bundesstaat Missouri, die bis zum 28. August 2017 in Kraft treten soll, fordert afro-amerikanische Reisende, Besucher und Missourianer auf, bei Reisen durch den Staat besondere Aufmerksamkeit aufzubringen und äußerste Vorsicht walten zu lassen, da eine Reihe von fragwürdigen, rassenbasierten Vorfällen in letzter Zeit im gesamten Staat vorkommen und hier vermerkt werden"", heißt es in der Stellungnahme der Gruppe.
+
+In English?
+xxxxx
+The NAACP Travel Advisory for the State of Missouri, which goes into effect on August 28, 2017, calls on African-American travelers, visitors, and Missourians to pay special attention to the state while traveling and to exercise extreme caution, as a number of troubling racial incidents have occurred throughout the state and have been reported here.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the"
+"Ein kürzlich verabschiedetes Gesetz von Missouri, das es Menschen schwerer macht, Diskriminierungsklagen zu gewinnen, sowie die Strafverfolgungsbehörden des Staates, die unverhältnismäßig auf Minderheiten abzielen, veranlassten die Gruppe, die Reisewarnung herauszugeben, sagte die NAACP.","A recent Missouri law making it harder for people to win discrimination lawsuits, as well as the state's law enforcement disproportionately targeting minorities prompted the group to issue the travel alert, the NAACP said.","Translate the following text from de to en: Ein kürzlich verabschiedetes Gesetz von Missouri, das es Menschen schwerer macht, Diskriminierungsklagen zu gewinnen, sowie die Strafverfolgungsbehörden des Staates, die unverhältnismäßig auf Minderheiten abzielen, veranlassten die Gruppe, die Reisewarnung herauszugeben, sagte die NAACP.
+
+In English?
+xxxxx
+A recently passed law in Missouri that makes it harder for people to win discrimination lawsuits and the state's criminal justice agencies that disproportionately target minorities, prompted the group to issue the travel warning, the NAACP said.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Beweglichkeit der Menschen und der Waren kontrollieren können."
+"""Sie haben Verletzungen der Bürgerrechte, die Menschen passieren.","""You have violations of civil rights that are happening to people.","Translate the following text from de to en: ""Sie haben Verletzungen der Bürgerrechte, die Menschen passieren.
+
+Answer:
+You have violated the rights of citizens, which is a violation of human rights."
+"Sie werden wegen ihrer Hautfarbe angehalten, sie werden zusammengeschlagen oder getötet"", sagte der Präsident des Missouri NAACP, Rod Chapel, dem Kansas City Star.","They're being pulled over because of their skin color, they're being beaten up or killed,"" the president of the Missouri NAACP, Rod Chapel, told The Kansas City Star.","Translate the following text from de to en: Sie werden wegen ihrer Hautfarbe angehalten, sie werden zusammengeschlagen oder getötet"", sagte der Präsident des Missouri NAACP, Rod Chapel, dem Kansas City Star.
+
+In English?
+xxxxx
+""They are being held because of their skin color, they are being grouped together or killed,"" said Missouri NAACP President Rod Chapel, quoted in the Kansas City Star.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the current system of subsidies for the production of biodiesel."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament eine Überarbeitung des gegenwärtigen Subventionssystems für die Produktion von Biodiesel fordert.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the current system of subsidies for the production of biodiesel."" to German?
+
+A: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament eine Überprüfung"
+"""Wir hören Beschwerden in einer solchen Häufigkeit, die wir noch nicht gehört haben.""","""We are hearing complaints at a rate we haven't heard before.""","Translate the following text from de to en: ""Wir hören Beschwerden in einer solchen Häufigkeit, die wir noch nicht gehört haben.""
+
+Answer:
+""We hear complaints in such numbers that we have not heard before."""
+"Es ist die erste solche Warnung, die die Organisation für einen Staat in den USA ausgestellt hat.",It is the first such warning that the organization has issued for a state in the US.,"Translate the following text from de to en: Es ist die erste solche Warnung, die die Organisation für einen Staat in den USA ausgestellt hat.
+
+Translate this to English?
+[A]:
+It is the first such warning issued by the Organization for Security and Cooperation in Europe (OSCE) to a state in the United States."
+"Die Gruppe zitierte Vorfälle wie rassistische Vergehen gegen schwarze Studenten an der University of Missouri und den Tod von Tory Sanders, 28, einem schwarzen Mann aus Tennessee.","The group cited incidents such as racial slurs against black students at the University of Missouri and the death of Tory Sanders, 28, a black man from Tennessee.","Translate the following text from de to en: Die Gruppe zitierte Vorfälle wie rassistische Vergehen gegen schwarze Studenten an der University of Missouri und den Tod von Tory Sanders, 28, einem schwarzen Mann aus Tennessee.
+
+In English?
+xxxxx
+The group cited incidents such as racist attacks on black students at the University of Missouri and the death of Tory Sanders, a black man from Tennessee.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive on the protection of workers from the risks of exposure to hazardous substances."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament eine Überarbeitung der Richtlinie über die Schutzvorsorge für Arbeitnehmer vor den Risiken von gefährlichen Stoffen fordert.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive on the protection of workers from the risks of exposure to ionising radiation."" to German?
+
+A: Die Kommission ist auch der Tatsache bew"
+"Sanders starb unter fragwürdigen Umständen Anfang des Jahres, nachdem er während der Reise durch den Staat kein Benzin mehr hatte und von der Polizei von Missouri in Gewahrsam genommen wurde, ohne eines Verbrechens beschuldigt zu werden.","Sanders died under questionable circumstances earlier this year after he ran out of gas while traveling through the state, and was taken into custody by Missouri police without being accused of a crime.","Translate the following text from de to en: Sanders starb unter fragwürdigen Umständen Anfang des Jahres, nachdem er während der Reise durch den Staat kein Benzin mehr hatte und von der Polizei von Missouri in Gewahrsam genommen wurde, ohne eines Verbrechens beschuldigt zu werden.
+
+In English?
+xxxxx
+Sanders died under suspicious circumstances at the beginning of the year, after he ran out of gas on the road and was taken into custody by Missouri police without being charged with a crime.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Beweglichkeit der Menschen und der Waren kontrollieren können.
+Q: Translate ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able"
+"Der Rat weist auch auf einen kürzlich erschienenen Bericht des Büros des Generalstaatsanwaltes von Missouri hin, in dem gezeigt wird, dass schwarze Autofahrer im Staat 75 Prozent häufiger als Weiße angehalten werden.",The advisory also points to a recent report by the Missouri Attorney General's Office showing that black drivers in the state were 75 percent more likely to be pulled over than whites.,"Translate the following text from de to en: Der Rat weist auch auf einen kürzlich erschienenen Bericht des Büros des Generalstaatsanwaltes von Missouri hin, in dem gezeigt wird, dass schwarze Autofahrer im Staat 75 Prozent häufiger als Weiße angehalten werden.
+
+In English?
+xxxxx
+The Council also refers to a recent report by the Missouri State Attorney General's Office, which shows that black drivers are often stopped 75% more often than white drivers.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Beweglichkeit der Menschen und der Waren kontrollieren können.
+Q: Translate ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and"
+"""Die Empfehlung ist, dass sich die Menschen bewusst sind und ihre Familien, Freunde und Mitarbeiter darüber informieren, was in Missouri passieren könnte"", sagte Chapel.","""The advisory is for people to be aware, and warn their families and friends and co-workers of what could happen in Missouri,"" Chapel said.","Translate the following text from de to en: ""Die Empfehlung ist, dass sich die Menschen bewusst sind und ihre Familien, Freunde und Mitarbeiter darüber informieren, was in Missouri passieren könnte"", sagte Chapel.
+
+Answer:
+""The recommendation is that people be aware and inform their families, friends and co-workers what is going on in Missouri,"" said Chapel."
+"""Die Leute müssen bereit sein, ob es Kautionsgeld mitbringen oder die Verwandten wissen lassen, dass sie durch den Staat reisen.""","""People need to be ready, whether it's bringing bail money with them, or letting relatives know they are traveling through the state.""","Translate the following text from de to en: ""Die Leute müssen bereit sein, ob es Kautionsgeld mitbringen oder die Verwandten wissen lassen, dass sie durch den Staat reisen.""
+
+Answer:
+""The people must be ready to pay the fine or to let the relatives know that they are travelling with the state."""
+"Missouri verzeichnete im Jahr 2015 100 Hassverbrechen, nach den neuesten Zahlen aus dem Hassverbrechens-Berichtsprogramm des FBI, die den Staat in Bezug auf die Anzahl solcher Verletzungen auf den 16. Rang des Landes einstufen.","Missouri recorded 100 hate crimes in 2015, according to the latest figures from the FBI's hate crime reporting program, ranking the state at 16th in the country in terms of the number of such violations.","Translate the following text from de to en: Missouri verzeichnete im Jahr 2015 100 Hassverbrechen, nach den neuesten Zahlen aus dem Hassverbrechens-Berichtsprogramm des FBI, die den Staat in Bezug auf die Anzahl solcher Verletzungen auf den 16. Rang des Landes einstufen.
+
+In English?
+xxxxx
+Missouri reported 100 hate crimes in 2015, according to the latest FBI Hate Crime Statistics Report, which ranks the state at No. 16 in the nation.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Beweglichkeit der Menschen und der Waren kontrollieren können.
+Q: Translate ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement"
+"Die Reisewarnung ist auch eine Antwort auf ein neues Missouri-Gesetz, das es schwieriger machen würde, ein Unternehmen wegen Wohnungs- oder Beschäftigungs-Diskriminierung zu verklagen.",The travel warning is also a response to a new Missouri law that would make it more difficult to sue a business for housing or employment discrimination.,"Translate the following text from de to en: Die Reisewarnung ist auch eine Antwort auf ein neues Missouri-Gesetz, das es schwieriger machen würde, ein Unternehmen wegen Wohnungs- oder Beschäftigungs-Diskriminierung zu verklagen.
+
+In English?
+xxxxx
+The travel warning is also a response to a new Missouri law that would make it more difficult to sue a company for discrimination in housing or employment.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Beweglichkeit der Menschen und der Waren kontrollieren können.
+Q: Translate ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" to German?
+
+A: Die Kommission ist auch der"
+"Zuvor hatte die American Civil Liberties Union (ACLU) Reisewarnungen für Texas und Arizona herausgegeben, nachdem die Staaten Einwanderungsgesetze verabschiedet hatten, die lokale Strafverfolgungsbehörden dazu verpflichten, Menschen wegen Zuwanderungsverstößen zu verhaften, was nach Ansicht der ACLU zur weiteren Rassenprofilierung beitragen wird.","Previously, the American Civil Liberties Union (ACLU) had issued travel advisories for Texas and Arizona after the states passed immigration enforcement laws requiring local law enforcement to detain people on immigration violations which the ACLU said would increase racial profiling.","Translate the following text from de to en: Zuvor hatte die American Civil Liberties Union (ACLU) Reisewarnungen für Texas und Arizona herausgegeben, nachdem die Staaten Einwanderungsgesetze verabschiedet hatten, die lokale Strafverfolgungsbehörden dazu verpflichten, Menschen wegen Zuwanderungsverstößen zu verhaften, was nach Ansicht der ACLU zur weiteren Rassenprofilierung beitragen wird.
+
+In English?
+xxxxx
+Earlier this year, the American Civil Liberties Union (ACLU) issued travel warnings for Texas and Arizona, after the states passed immigration laws that require local law enforcement agencies to arrest people for immigration violations, which the ACLU says will further profile people based on their race.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive on the protection of workers from the risks of exposure to hazardous substances."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament eine Überprüfung der Richtlinie"
+"Reisewarnungen werden in der Regel vom Außenministerium für andere Länder ausgestellt, aber in letzter Zeit haben Interessengruppen die Maßnahme als Reaktion auf bestimmte Gesetze und Trends innerhalb der USA eingesetzt.","Travel warnings are usually issued by the State Department for other countries, but lately, advocacy groups have resorted to the measure in response to certain laws and trends inside the US.","Translate the following text from de to en: Reisewarnungen werden in der Regel vom Außenministerium für andere Länder ausgestellt, aber in letzter Zeit haben Interessengruppen die Maßnahme als Reaktion auf bestimmte Gesetze und Trends innerhalb der USA eingesetzt.
+
+In English?
+xxxxx
+Travel warnings are usually issued by the Foreign Ministry for other countries, but in recent years, interest groups have used the measure as a reaction to certain laws and trends within the US.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive on the protection of workers from the risks associated with exposure to electromagnetic fields."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament eine Überprüfung der Richtlinie über die Schutzvorsorge für Arbeitnehmer vor elektromagnetischen Feldern fordert.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive on the protection of workers from the risks associated with"
+Weidezaunprojekt ist elementar,Pasture fence project is fundamental,"Translate the following text from de to en: Weidezaunprojekt ist elementar, aber die Auswahl der Materialien und der technischen Verfahren ist sehr komplex.
+
+A:
+The project is elementary, but the choice of materials and technical procedures is very complex."
+Das Fischerbacher Weidezaun-Projekt ist ein Erfolgsprojekt und wird im kommenden Jahr fortgesetzt.,The Fischerbach pasture fence project is a successful project and will be continued next year.,"Translate the following text from de to en: Das Fischerbacher Weidezaun-Projekt ist ein Erfolgsprojekt und wird im kommenden Jahr fortgesetzt.
+
+Answer:
+The Fischerbacher Weidezaun project is a success story and will be continued in the coming year."
+Die CDU-Bundestagsabgeordneten Peter Weiß und Kordula Kovac haben sich vor Ort ein Bild verschafft.,Members of the Bundestag for the CDU Peter Weiß and Kordula Kovac got a first-hand view.,"Translate the following text from de to en: Die CDU-Bundestagsabgeordneten Peter Weiß und Kordula Kovac haben sich vor Ort ein Bild verschafft.
+
+Translate this to English?
+[A]:
+CDU Bundestag members Peter Weiß and Kordula Kovac have provided a picture of the situation on the ground."
+Beim Rechtgrabenhof der Familie Schwendemann trafen sich Vertreter des Fischerbacher CDU-Ortsverbands zusammen mit Bürgermeister Thomas Schneider und den beiden Abgeordneten.,"Representatives from the Fischerbach local CDU group met with mayor Thomas Schneider and the two representatives at Rechtgrabenhof farm, belonging to the Schwendemann family.","Translate the following text from de to en: Beim Rechtgrabenhof der Familie Schwendemann trafen sich Vertreter des Fischerbacher CDU-Ortsverbands zusammen mit Bürgermeister Thomas Schneider und den beiden Abgeordneten.
+
+Translate this to English?
+[A]:
+The family lawyer of the Schwendemann family, Mr. Thomas Schneider, and the two members of the city council, Mr. Thomas Schneider and Mr. Thomas Schneider, met with representatives of the CDU-Ortsverband Fischerbacher."
+"Markus Schwendemann gewährte zunächst Einblicke in seinen Betrieb, in dem er 55 Hektar Wiesen und 40 Hektar Wald bewirtschaftet, 40 Milchkühe und ebenso viele Jungtiere versorgt und in fünf Wohnungen Feriengäste beherbergt.","To start with, Markus Schwendemann gave insights into his business, in which he cultivates 55 hectares of pasture and 40 hectares of woodland, keeps 40 milk cows and just as many young stock, and accommodates five apartments of holiday makers.","Translate the following text from de to en: Markus Schwendemann gewährte zunächst Einblicke in seinen Betrieb, in dem er 55 Hektar Wiesen und 40 Hektar Wald bewirtschaftet, 40 Milchkühe und ebenso viele Jungtiere versorgt und in fünf Wohnungen Feriengäste beherbergt.
+
+In English?
+xxxxx
+Markus Schwendemann gave us an insight into his business, which he runs on 55 hectares of meadows and 40 hectares of forest, 40 dairy cows and similarly many deer, and which he also provides accommodation for holidaymakers.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Beweglichkeit der Menschen und der Waren kontrollieren können.
+Q: Translate ""The Commission is also aware of the need"
+"Die ""Schwarzwaldmilch"" ist für ihn der alternativlose Vermarktungsweg für die Milch seiner Kühe, so Schwendemann.","Schwendemann says that, for him, there is no alternative to the ""Black Forest milk"" marketing channel he uses for the milk from his cows.","Translate the following text from de to en: Die ""Schwarzwaldmilch"" ist für ihn der alternativlose Vermarktungsweg für die Milch seiner Kühe, so Schwendemann.
+
+Answer:
+The ""Schwarzwaldmilch"" is the alternative marketing route for the milk of his cows, so Schwendemann."
+Auf den Tisch der Feriengäste kommt ausschließlich Regionales.,Only regional produce is served to the holiday-makers.,"Translate the following text from de to en: Auf den Tisch der Feriengäste kommt ausschließlich Regionales.
+
+Answer:
+The menu is exclusively regional."
+"Da er auch BLHV-Vorsitzender von Fischerbach ist, bezeichnete er das Weidezaunprojekt als ""elementar wichtig"".","Since he is also BLHV chairman for Fischerbach, he described the pasture fence project as ""fundamentally important"".","Translate the following text from de to en: Da er auch BLHV-Vorsitzender von Fischerbach ist, bezeichnete er das Weidezaunprojekt als ""elementar wichtig"".
+
+Output:
+In the case of Fischerbach, the chairman of the BLHV, the farm was described as ""essential""."
+Ich kann auf derart steilen Flächen nicht gewinnbringend wirtschaften.,I can't make a profit on that kind of steep-sloping ground.,"Translate the following text from de to en: Ich kann auf derart steilen Flächen nicht gewinnbringend wirtschaften.
+
+Answer: I can't make money on such steep slopes.
+Problem: English: The Commission is also of the opinion that the current system of allocating the funds for the European Development Fund is not in line with the objectives of the European Union.
+
+Answer:
+La Commission est également d'avis que le système actuel d'attribution des fonds du Fonds européen de développement n'est pas conforme aux objectifs de l'Union européenne."
+"Die Grünlandfläche sorge für viel Arbeit, vieles müsse mit der Motorsense bearbeitet werden.","Grassland areas make for a lot of work, a lot has to be done with the string trimmer.","Translate the following text from de to en: Die Grünlandfläche sorge für viel Arbeit, vieles müsse mit der Motorsense bearbeitet werden.
+
+Answer: The Greenland landscape provides a lot of work, a lot of work has to be done with the motorsense.
+Translate to French:
+The Committee is concerned that the State party has not yet adopted a comprehensive national plan of action to combat violence against women, including domestic violence, and that the State party has not yet established a national commission to investigate and prosecute cases of violence against women.
+
+Answer: Le Comité est préoccupé par le fait que l'État partie n'a pas encore adopté de plan d'action national global de lutte contre la violence à l'égard des femmes, y compris la violence familiale, et qu'il n'a pas encore créé une commission nationale chargée d'enquêter sur les cas de violence à l'égard des femmes et de poursuivre les auteurs de tels actes.
+Translate to French:
+The Committee is concerned that the State party has not yet adopted a"
+"""Wir haben hier mit den Bedingungen und mit der Topografie zu kämpfen"", betonte Schwendemann.","""We have to grapple with the conditions and with the topography here,"" stressed Schwendemann.","Translate the following text from de to en: ""Wir haben hier mit den Bedingungen und mit der Topografie zu kämpfen"", betonte Schwendemann.
+
+Answer:
+""We have to fight with the conditions and the topography here,"" said Schwendemann."
+"2003 habe er den elterlichen Betrieb übernommen und bewirtschafte diesen ohne chemischen Pflanzenschutz und Dünger, auch wenn er keinen Biobetrieb führe.","In 2003, he took over his parents' business and he manages this without chemical crop protection and fertilisers, even if it's not an organic farm that he's running.","Translate the following text from de to en: 2003 habe er den elterlichen Betrieb übernommen und bewirtschafte diesen ohne chemischen Pflanzenschutz und Dünger, auch wenn er keinen Biobetrieb führe.
+
+In English?
+xxxxx
+In 2003 he took over the family farm and managed it without chemical fertilizers and pesticides, even though he does not run a biodynamic farm.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for the introduction of a European patent for a long time."" to German?
+
+A: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit langem fordert, dass ein europäisches Patent eingeführt wird.
+input question"
+"Für Bürgermeister Thomas Schneider war klar: ""Die Kommune hat die Bedeutung des Weidezaunprojekts erkannt und ist froh über die Leader-Förderung"".","For Mayor Thomas Schneider, it was clear that ""the community has recognised the importance of the pasture fence project and is happy to have the Leader funding"".","Translate the following text from de to en: Für Bürgermeister Thomas Schneider war klar: ""Die Kommune hat die Bedeutung des Weidezaunprojekts erkannt und ist froh über die Leader-Förderung"".
+
+Answer:
+For Mayor Thomas Schneider, it was clear: ""The municipality has recognized the importance of the orchard project and is happy about the leader support""."
+Bei Kosten von 3000 bis 4000 Euro pro Hektar müssten die Landwirte unterstützt werden.,The farmers need support to the tune of 3000 to 4000 euros per hectare.,"Translate the following text from de to en: Bei Kosten von 3000 bis 4000 Euro pro Hektar müssten die Landwirte unterstützt werden.
+
+In English?
+xxxxx
+The farmers would have to be supported at a cost of between 3000 and 4000 euros per hectare.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Beweglichkeit der Menschen und der Waren kontrollieren können.
+Q: Translate ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" to German?
+
+A: Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Beweglichkeit der Menschen und der"
+"Man hoffe, dass damit die Aufforstung der Flächen noch eine ganze Weile hinausgezogen werden könnte.","One hopes that with that, afforestation of the area could then be drawn out for a long while.","Translate the following text from de to en: Man hoffe, dass damit die Aufforstung der Flächen noch eine ganze Weile hinausgezogen werden könnte.
+
+Translate this to English?
+[A]:
+The hope is that this will allow the reforestation of the land to continue for a while yet."
+"""Der größte Schatz den wir haben, sind die Leute, die in der Landwirtschaft arbeiten und sich Gedanken darum machen, wie sie ihren Betrieb weiter bringen"", betonte der Bürgermeister.","""The biggest asset that we have are the people who work in agriculture and who give thought to how to bring their businesses forward,"" stressed the mayor.","Translate the following text from de to en: ""Der größte Schatz den wir haben, sind die Leute, die in der Landwirtschaft arbeiten und sich Gedanken darum machen, wie sie ihren Betrieb weiter bringen"", betonte der Bürgermeister.
+
+Translate this to English?
+[A]:
+""The greatest treasure we have is the people who work in agriculture and who think about how they can improve their business,"" said the mayor."
+Die Landwirte stehen wegen der Förderung oft in der Kritik,The farmers are often the target of criticism thanks to the funding.,"Translate the following text from de to en: Die Landwirte stehen wegen der Förderung oft in der Kritik.
+
+Answer:
+The farmers are often criticised for the support they receive."
+Über die Weidezaunförderung wurden im Jahr 2013 insgesamt 25 Parzellen von elf Teilnehmern eingezäunt.,"Using the pasture fence funding, a total of 25 plots from eleven participants were fenced off in 2013.","Translate the following text from de to en: Über die Weidezaunförderung wurden im Jahr 2013 insgesamt 25 Parzellen von elf Teilnehmern eingezäunt.
+
+Answer:
+In 2013, 25 plots were abandoned in total, with 11 of the plots abandoned by 11 different participants."
+"Die Offenhaltungsfläche beträgt damit 40 Hektar, die bis mindestens 2023 nicht aufgeforstet werden dürfen.","The areas kept open with these amount to 40 hectares, which may not be afforested until at least 2023.","Translate the following text from de to en: Die Offenhaltungsfläche beträgt damit 40 Hektar, die bis mindestens 2023 nicht aufgeforstet werden dürfen.
+
+Translate this to English?
+[A]: The area of the off-take is 40 hectares, which cannot be developed until at least 2023.
+
+[Q]: Die Kommission hat sich in der Vergangenheit mit der Frage der Zusammenarbeit mit den Vereinigten Staaten befasst.
+
+Translate this to English?
+[A]:
+The Commission has previously dealt with the issue of cooperation with the United States."
+"Von den Gesamtkosten in Höhe von 71 500 Euro wurde die Hälfte über Leader gefördert, ein viertel trug die Gemeinde Fischerbach.","Of the total costs, to the tune of 71,500 euros, half was funded via Leader, and a quarter was borne by the community of Fischerbach.","Translate the following text from de to en: Von den Gesamtkosten in Höhe von 71 500 Euro wurde die Hälfte über Leader gefördert, ein viertel trug die Gemeinde Fischerbach.
+
+In English?
+xxxxx
+The total cost of 71 500 euros was partly financed by the European Union, and a quarter by the municipality of Fischerbach.
+How is ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive for some time."" said in German?
+Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit einiger Zeit eine Überarbeitung der Richtlinie fordert.
+Q: Translate ""The Commission is also aware of the fact that the European Parliament has been calling for a review of the directive for some time."" to German?
+
+A: Die Kommission ist auch der Tatsache bewusst, dass das Europäische Parlament seit einiger Zeit eine Überarbeitung der Richtlinie fordert.
+input question: Write a sentence not in English.
+output answer: Die Kommission hat sich in der Vergangenheit"
+"Somit verblieben den Landwirten 12 610 Euro, die sie in 16,2 Kilometer Weidezaun investieren mussten.","The farmers were thus left with 12,610 euros, which they had to invest in the 16.2-kilometre pasture fence.","Translate the following text from de to en: Somit verblieben den Landwirten 12 610 Euro, die sie in 16,2 Kilometer Weidezaun investieren mussten.
+
+In English?
+xxxxx
+So, the farmers lost EUR 12 610, which they had to invest in 16.2 kilometres of fencing.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Beweglichkeit der Menschen und der Waren kontrollieren können.
+Q: Translate ""The Commission is also aware of the need to ensure that the European Union's external borders are secure and that the Member States are able to control the movement of people and goods."" to German?
+
+A: Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher sind und dass die Mitgliedstaaten die Be"
+"""Der große Vorteil ist die Langlebigkeit der Zäune"", erklärte Schwendemann.","""The great advantage is the longevity of the fences,"" explained Schwendemann.","Translate the following text from de to en: ""Der große Vorteil ist die Langlebigkeit der Zäune"", erklärte Schwendemann.
+
+Answer:
+The great advantage is the durability of the enclosure, said Schwendemann."
+"Kordula Kovac betonte: ""Ihr macht einen richtig guten Job, ohne Landwirte und Landfrauen geht es nicht"".","Kordula Kovac stressed: ""You're doing a really good job. Without farmers we'd not be able to function.""","Translate the following text from de to en: Kordula Kovac betonte: ""Ihr macht einen richtig guten Job, ohne Landwirte und Landfrauen geht es nicht"".
+
+Output:
+Kordula Kovac: ""Ihr macht einen richtig guten Job, ohne Landwirte und Landfrauen geht es nicht."""
+"Auch für Peter Weiß stand fest: ""Hier werden beste Lebensmittel produziert"".","Peter Weiß is also standing firm: ""First-class foodstuffs are produced here.""","Translate the following text from de to en: Auch für Peter Weiß stand fest: ""Hier werden beste Lebensmittel produziert"".
+
+Output:
+And for Peter Weiss, it was a no-brainer: ""Here, the best food is produced."""
+Die Landschaftspflegerichtlinie (LPR) Baden-Württemberg ermöglicht die staatliche Förderung von Weidezäunen.,The Baden-Württemberg directive on countryside conservation (LPR) makes the government funding of pasture fences possible.,"Translate the following text from de to en: Die Landschaftspflegerichtlinie (LPR) Baden-Württemberg ermöglicht die staatliche Förderung von Weidezäunen.
+
+Answer:
+The Landscape Gardener Directive (LPR) Baden-Württemberg allows the state to subsidise the planting of hedges."
+Ziel ist die Offenhaltung des Schwarzwalds.,Its goal is to keep the Black Forest open.,"Translate the following text from de to en: Ziel ist die Offenhaltung des Schwarzwalds.
+
+Answer:
+The objective is to build a tunnel under the Black Forest."
+Voraussetzung ist das Vorhandensein einer von der LPR bezeichneten Förderkulisse.,A prerequisite is the existence of one of the funding scenarios as outlined by the LPR.,"Translate the following text from de to en: Voraussetzung ist das Vorhandensein einer von der LPR bezeichneten Förderkulisse.
+
+In English?
+xxxxx
+The condition is the presence of a support for the LPR.
+How is ""The Commission is also aware of the need to ensure that the European Union's external borders are safe and secure."" said in German?
+Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher und sicher sind.
+Q: Translate ""The Commission is also aware of the need to ensure that the European Union's external borders are safe and secure."" to German?
+
+A: Die Kommission ist auch der Notwendigkeit bewusst, dass die Außengrenzen der Europäischen Union sicher und sicher sind.
+input question: Write a sentence not in English.
+output answer: Die Kommission hat sich in der Vergangenheit mit der Frage der Zusammenarbeit mit den Vereinigten Staaten befasst.
+test: Die Kommission hat sich in der Vergangenheit mit der Fr"
+Außerdem darf die einzuzäunende Fläche nicht schlepperbewirtschaftbar sein (Hangneigung über 35 Prozent) und muss damit von der Aufforstung bedroht sein.,"In addition, the fenced-off area is not allowed to be farmable with a tractor (gradient of over 35 per cent) and must therefore be threatened with afforestation.","Translate the following text from de to en: Außerdem darf die einzuzäunende Fläche nicht schlepperbewirtschaftbar sein (Hangneigung über 35 Prozent) und muss damit von der Aufforstung bedroht sein.
+
+Translate this to English?
+[A]:
+Furthermore, the area of the protected zone must not be over-cultivated (over 35% of the area) and must therefore be threatened by deforestation."
+"Für das Fischerbacher Weidezaunprojekt 2018 läuft derzeit der Antrag von acht Teilnehmern mit 24 Parzellen, die knapp 16 Kilometer Zaun bauen möchten.","For the 2018 Fischerbach pasture fence project, an application is currently underway from eight participants with 24 plots who would like to build just shy of 16 kilometres of fence.","Translate the following text from de to en: Für das Fischerbacher Weidezaunprojekt 2018 läuft derzeit der Antrag von acht Teilnehmern mit 24 Parzellen, die knapp 16 Kilometer Zaun bauen möchten.
+
+Translate this to English?
+[A]:
+The application of eight participants with 24 parcels to build a fence around their farm is currently being processed."
+"Die Offenhaltungsfläche entspricht 35 Hektar, die kalkulierten Kosten liegen bei mehr als 112 000 Euro.","The areas of land to be kept open equate to 35 hectares; the calculated costs amount to more than 112,000 euros.","Translate the following text from de to en: Die Offenhaltungsfläche entspricht 35 Hektar, die kalkulierten Kosten liegen bei mehr als 112 000 Euro.
+
+Translate this to English?
+[A]: The area of the off-take is 35 hectares, the calculated costs amount to more than 112 000 Euro.
+
+[Q]: Die Kommission hat sich in der Vergangenheit mit der Frage der Zusammenarbeit mit den Vereinigten Staaten befasst.
+
+Translate this to English?
+[A]:
+The Commission has previously dealt with the issue of cooperation with the United States."
+Ist nichts mehr heilig?,Is nothing sacred?,"Translate the following text from de to en: Ist nichts mehr heilig?
+
+A:
+Is there nothing holy?"
+Jetzt nimmt sich das Weiße Haus von Trump die Freiheitsstatue vor,Now Trump's White House is targeting the Statue of Liberty,"Translate the following text from de to en: Jetzt nimmt sich das Weiße Haus von Trump die Freiheitsstatue vor.
+
+Translate this to English?
+[A]:
+The White House has now taken down the statue of the freedom-loving statue."
+"Das sicherste Zeichen eines Regime-Wechsels ist es, wenn sie beginnen, die Statuen zu attackieren.",The surest mark of regime change is when they start attacking the statues.,"Translate the following text from de to en: Das sicherste Zeichen eines Regime-Wechsels ist es, wenn sie beginnen, die Statuen zu attackieren.
+
+Answer:
+The safest sign of a regime change is when they begin to attack the statues."
+Die Amerikaner schätzen diese ebenso wie jede andere - daher der sorgsam inszenierte Sturz Saddam Husseins auf dem Firdos Platz in Bagdad im Jahr 2003.,Americans appreciate this as well as anyone - hence the carefully stage-manged toppling of Saddam Hussein in Firdos square in Baghdad in 2003.,"Translate the following text from de to en: Die Amerikaner schätzen diese ebenso wie jede andere - daher der sorgsam inszenierte Sturz Saddam Husseins auf dem Firdos Platz in Bagdad im Jahr 2003.
+
+Translate this to English?
+[A]:
+The Americans value this as much as any other - so the carefully orchestrated fall of Saddam Hussein in 2003 from the Firdos Plateau in Baghdad."
