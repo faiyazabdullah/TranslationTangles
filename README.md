@@ -133,8 +133,9 @@ If you use this work, please cite:
 ```bibtex
 @misc{translationtangles2025,
   title={Translation Tangles: Performance Benchmarking and Bias Detection in LLM-Based Translation Across Language Families and Domains},
-  author={Your Name},
+  author={Md. Faiyaz Abdullah Sayeedi and Md Mahbub Alam and Subhey Sadi Rahman and MD. Adnanul Islam and Jannatul Ferdous Deepti and Tasnim Mohiuddin and Md Mofijul Islam and Swakkhar Shatabda},
   year={2025},
   note={Work in progress},
-  url={https://github.com/your-repo}
+  url={https://github.com/faiyazabdullah/TranslationTangles}
 }
+
