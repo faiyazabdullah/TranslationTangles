@@ -98,10 +98,10 @@ Dataset source: [Hugging Face – WMT Collection](https://huggingface.co/wmt)
 ### 📊 Methodology Figure
 
 <p align="center">
-  <img src="assets/methodology_diagram.png" alt="Methodology Diagram" width="700"/>
+  <img src="assets/methodology.png" alt="Methodology Diagram" width="700"/>
 </p>
 
-_This figure outlines the end-to-end pipeline, from data preprocessing to bias detection and evaluation._
+_This figure outlines the end-to-end pipeline, from data preprocessing to bias detection and evaluation. Our framework comprises two key components: (a) Multilingual and Domain-Sensitive LLM Benchmarking, where translations are evaluated against reference texts using large language models across diverse language families and domains; and (b) Semantic and Entity-Aware Bias Detection with LLM-as-a-Judge Evaluation, where potential biases are flagged using linguistic heuristics and semantic analysis, and then verified through structured prompting with LLM for interpretability and reliability._
 
 ---
 
