@@ -85,13 +85,12 @@ Dataset source: [Hugging Face – WMT Collection](https://huggingface.co/wmt)
 
 ### Translation Evaluation
 
-1. **Data Preparation**: Each language pair is sampled uniformly using aligned parallel corpora from WMT and BanglaNMT datasets.
+1. **Data Preparation**: Each language pair is sampled uniformly using aligned parallel corpora.
 2. **Model Inference**: Translation is performed bidirectionally using each LLM, capped at its maximum context length.
-3. **Metric Computation**: Translations are scored using lexical (BLEU, ROUGE), character-based (chrF, CER), and semantic metrics (BERTScore).
+3. **Metric Computation**: Translations are scored using lexical, character-based, and semantic metrics.
 4. **Bias Detection**: A two-stage pipeline is used:
-   - Heuristic detection (based on bias keywords, templates).
-   - LLM-as-a-Judge verification with structured prompts and JSON outputs.
-5. **Visualization**: Heatmaps and bar plots are generated to illustrate model-level performance across metrics and languages.
+   - Heuristic detection (bias keywords and NER-based detection).
+   - LLM-as-a-Judge verification with structured prompts.
 
 ---
 
