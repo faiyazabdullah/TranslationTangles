@@ -99,12 +99,12 @@ The following language pairs are evaluated:
 
 ### Translation Evaluation
 
-1. **Data Preparation**: Each language pair is sampled uniformly using aligned parallel corpora.
-2. **Model Inference**: Translation is performed bidirectionally using each LLM, capped at its maximum context length.
-3. **Metric Computation**: Translations are scored using lexical, character-based, and semantic metrics.
-4. **Bias Detection**: A two-stage pipeline is used:
-   - Heuristic detection (bias keywords and NER-based detection).
-   - LLM-as-a-Judge verification with structured prompts.
+1. **Data Preparation**: Uniform sampling from parallel corpora.  
+2. **Model Inference**: Bidirectional translation using each LLM.  
+3. **Metric Computation**: Evaluation using lexical, character-level, and semantic scores.  
+4. **Bias Detection**:  
+   - (i) Heuristic detection (NER-based, keyword-driven),  
+   - (ii) LLM-as-a-Judge structured prompting for verification.  
 
 ---
 
@@ -114,7 +114,17 @@ The following language pairs are evaluated:
   <img src="assets/methodology.png" alt="Methodology Diagram" width="700"/>
 </p>
 
-_This figure outlines the end-to-end pipeline, from data preprocessing to bias detection and evaluation. Our framework comprises two key components: (a) Multilingual and Domain-Sensitive LLM Benchmarking, where translations are evaluated against reference texts using large language models across diverse language families and domains; and (b) Semantic and Entity-Aware Bias Detection with LLM-as-a-Judge Evaluation, where potential biases are flagged using linguistic heuristics and semantic analysis, and then verified through structured prompting with LLM for interpretability and reliability._
+_This diagram illustrates the complete pipeline—from multilingual model inference and scoring to heuristic and LLM-verified bias detection._
+
+---
+
+## 🧪 Human Evaluation and Dataset Contribution
+
+To strengthen the evaluation beyond automated metrics, we conducted structured human annotation of 1,439 translation-reference pairs. Each instance was annotated along three axes: (i) bias flags from our heuristic-semantic framework, (ii) bias assessments by an LLM-as-a-Judge module, and (iii) gold-standard decisions by independent human reviewers. Each record includes the source sentence, reference translation, model output, and categorical bias labels (gender, cultural, sociocultural, racial, religious), along with common translation issues such as grammatical inconsistencies, pronoun shifts, semantic distortions, and hallucinated biases.
+
+These examples are stratified into: (i) 294 undetected bias cases where no system flagged bias, (ii) 294 disagreement cases where only the heuristic flagged bias, and (iii) 851 agreement cases where both systems confirmed bias. This dataset provides a robust resource for bias-aware translation benchmarking, model comparison, and interpretability research in multilingual NLP.
+
+📂 [Download Human-Annotated Dataset](dataset/translation_tangles_dataset.csv)
 
 ---
 
