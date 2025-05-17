@@ -136,6 +136,12 @@ These examples are stratified into: (i) 294 undetected bias cases where no syste
 
 ---
 
+## Contact
+
+For any queries, please contact us at msayeedi212049@bscse.uiu.ac.bd
+
+---
+
 ## 📎 Citation
 
 If you use this work, please cite:
@@ -148,4 +154,3 @@ If you use this work, please cite:
   note={Work in progress},
   url={https://github.com/faiyazabdullah/TranslationTangles}
 }
-
