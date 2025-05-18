@@ -126,32 +126,3 @@ To strengthen the evaluation beyond automated metrics, we conducted structured h
 These examples are stratified into: (i) 294 undetected bias cases where no system flagged bias, (ii) 294 disagreement cases where only the heuristic flagged bias, and (iii) 851 agreement cases where both systems confirmed bias. This dataset provides a robust resource for bias-aware translation benchmarking, model comparison, and interpretability research in multilingual NLP.
 
 📂 [Download Human-Annotated Dataset](dataset/translation_tangles_dataset.csv)
-
----
-
-## 📈 Results and Visualizations
-
-- All metric outputs are saved in `.csv` format.
-- Comparative visualizations (heatmaps) for each language pair are stored as `.png` images, named after the language direction (e.g., `en-de.png`, `bn-en.png`).
-- Additional plots explore trends across language families, translation directions, and domains.
-
----
-
-## Contact
-
-For any queries, please contact us at msayeedi212049@bscse.uiu.ac.bd
-
----
-
-## 📎 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@misc{translationtangles2025,
-  title={Translation Tangles: Performance Benchmarking and Bias Detection in LLM-Based Translation Across Language Families and Domains},
-  author={Md. Faiyaz Abdullah Sayeedi and Md Mahbub Alam and Subhey Sadi Rahman and MD. Adnanul Islam and Jannatul Ferdous Deepti and Tasnim Mohiuddin and Md Mofijul Islam and Swakkhar Shatabda},
-  year={2025},
-  note={Work in progress},
-  url={https://github.com/faiyazabdullah/TranslationTangles}
-}
