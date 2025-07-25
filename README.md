@@ -96,26 +96,13 @@ The following language pairs are evaluated:
 
 ---
 
-## 🔬 Methodology
-
-### Translation Evaluation
-
-1. **Data Preparation**: Uniform sampling from parallel corpora.  
-2. **Model Inference**: Bidirectional translation using each LLM.  
-3. **Metric Computation**: Evaluation using lexical, character-level, and semantic scores.  
-4. **Bias Detection**:  
-   - (i) Heuristic detection (NER-based, keyword-driven),  
-   - (ii) LLM-as-a-Judge structured prompting for verification.  
-
----
-
-### 📊 Methodology Figure
+### 📊 Methodology
 
 <p align="center">
   <img src="assets/methodology.png" alt="Methodology Diagram" width="700"/>
 </p>
 
-_This diagram illustrates the complete pipeline—from multilingual model inference and scoring to heuristic and LLM-verified bias detection._
+Our framework comprises two key components: (a) LLM Benchmarking, where \textit{T} are evaluated against \textit{R} using LLMs across diverse language families and domains; and (b) Bias Detection with LLM-as-a-Judge Evaluation, where potential biases are flagged using linguistic heuristics and semantic analysis, and then verified through LLMs and human annotators. Here, \textit{S} = Source, \textit{R} = Reference, \textit{T} = Translation.
 
 ---
 
