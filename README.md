@@ -102,7 +102,7 @@ The following language pairs are evaluated:
   <img src="assets/methodology.png" alt="Methodology Diagram" width="700"/>
 </p>
 
-Our framework comprises two key components: (a) LLM Benchmarking, where \textit{T} are evaluated against \textit{R} using LLMs across diverse language families and domains; and (b) Bias Detection with LLM-as-a-Judge Evaluation, where potential biases are flagged using linguistic heuristics and semantic analysis, and then verified through LLMs and human annotators. Here, \textit{S} = Source, \textit{R} = Reference, \textit{T} = Translation.
+Our framework comprises two key components: **(a)** LLM Benchmarking, where _T_ are evaluated against _R_ using LLMs across diverse language families and domains; and **(b)** Bias Detection with LLM-as-a-Judge Evaluation, where potential biases are flagged using linguistic heuristics and semantic analysis, and then verified through LLMs and human annotators. Here, _S_ = Source, _R_ = Reference, _T_ = Translation.
 
 ---
 
