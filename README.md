@@ -1,4 +1,4 @@
-# Translation Tangles: Performance Benchmarking and Bias Detection in LLM-Based Translation Across Language Families and Domains
+# Translation Tangles: Uncovering Performance Gaps and Bias Patterns in LLM-Based Translations Across Language Families and Domains
 
 <p>This project presents a comprehensive evaluation framework for state-of-the-art Large Language Models (LLMs) on machine translation (MT) tasks. It benchmarks performance across diverse language pairs, families, and domains using a suite of lexical and semantic metrics. In addition, it introduces structured bias detection and fairness evaluation across translation outputs, along with a high-quality human-annotated dataset for robust benchmarking and error analysis.</p>
 
