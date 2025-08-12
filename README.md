@@ -19,14 +19,14 @@ Fig: Our framework comprises two key components: **(a)** LLM Benchmarking, where
 </tr>
 </thead>
 <tbody>
-<tr><td>gemma2-9b-it</td><td>Google</td><td>8192 tokens</td></tr>
-<tr><td>gemma-7b-it</td><td>Google</td><td>8192 tokens</td></tr>
-<tr><td>llama3-groq-70b-8192-tool-use-preview</td><td>Groq</td><td>8192 tokens</td></tr>
-<tr><td>llama3-groq-8b-8192-tool-use-preview</td><td>Groq</td><td>8192 tokens</td></tr>
-<tr><td>llama-3.1-70b-versatile</td><td>Meta</td><td>8192 tokens</td></tr>
-<tr><td>llama-3.1-8b-instant</td><td>Meta</td><td>8192 tokens</td></tr>
-<tr><td>mixtral-8x7b-32768</td><td>Mistral</td><td>32768 tokens</td></tr>
-<tr><td>llama-3.2-90b-vision-preview</td><td>Meta</td><td>128000 tokens</td></tr>
+<tr><td>gemma2-9b</td><td>Google</td><td>8192 tokens</td></tr>
+<tr><td>gemma-7b</td><td>Google</td><td>8192 tokens</td></tr>
+<tr><td>llama-3-70b</td><td>Meta</td><td>8192 tokens</td></tr>
+<tr><td>llama-3-8b</td><td>Meta</td><td>8192 tokens</td></tr>
+<tr><td>llama-3.1-70b</td><td>Meta</td><td>8192 tokens</td></tr>
+<tr><td>llama-3.1-8b</td><td>Meta</td><td>8192 tokens</td></tr>
+<tr><td>llama-3.2-90b-vision</td><td>Meta</td><td>128000 tokens</td></tr>
+<tr><td>mixtral-8x7b</td><td>Mistral</td><td>32768 tokens</td></tr>
 <tr><td>OLMo-1B</td><td>AI2</td><td>8192 tokens</td></tr>
 <tr><td>Phi-3.5-mini</td><td>Microsoft</td><td>8192 tokens</td></tr>
 <tr><td>Phi-2</td><td>Microsoft</td><td>4096 tokens</td></tr>
