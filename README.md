@@ -2,7 +2,9 @@
 
 <p>This project presents a comprehensive evaluation framework for state-of-the-art Large Language Models (LLMs) on machine translation (MT) tasks. It benchmarks performance across diverse language pairs, families, and domains using a suite of lexical and semantic metrics. In addition, it introduces structured bias detection and fairness evaluation across translation outputs, along with a high-quality human-annotated dataset for robust benchmarking and error analysis.</p>
 
----
+<p align="center">
+  <img src="assets/overview.png" alt="Methodology Diagram"/>
+</p>
 
 ## 🚀 Objectives
 
@@ -12,8 +14,6 @@
 - Detect and categorize biases (e.g., gender, religious, cultural) in generated translations.
 - Propose a robust framework combining heuristic and LLM-as-a-judge verification to identify translation biases.
 - Release a manually curated benchmark dataset with fine-grained bias and error annotations.
-
----
 
 ## 🧠 Model Information
 
@@ -43,8 +43,6 @@
 </tbody>
 </table>
 
----
-
 ## 📏 Evaluation Metrics
 
 We calculate the following translation evaluation metrics:
@@ -59,8 +57,6 @@ We calculate the following translation evaluation metrics:
 
 <p><strong>Legend:</strong> ↑ Higher is better, ↓ Lower is better</p>
 
----
-
 ## 📚 Datasets
 
 We use a combination of general-purpose and domain-specific multilingual benchmark datasets to evaluate translation quality across diverse linguistic and contextual settings:
@@ -74,8 +70,6 @@ We use a combination of general-purpose and domain-specific multilingual benchma
 - **[Lit-Corpus](https://huggingface.co/datasets/Nothingger/kaz-rus-eng-literature-parallel-corpus)**: Literature-focused trilingual corpus (Kazakh–Russian–English) used for evaluating stylistically rich translations.
 - **[MultiEURLEX](https://huggingface.co/datasets/coastalcph/multi_eurlex)**: A legal domain dataset covering 23 European languages, used to assess domain-specific terminology fidelity.
 - **[ELRC-Medical-V2](https://huggingface.co/datasets/qanastek/ELRC-Medical-V2)**: Contains parallel medical texts in multiple EU languages, providing benchmarks for healthcare-related translation performance.
-
----
 
 ## 🌐 Language Pairs
 
@@ -94,8 +88,6 @@ The following language pairs are evaluated:
 - tr-en | en-tr (Turkish)
 - bn-en | en-bn (Bangla)
 
----
-
 ### 📊 Methodology
 
 <p align="center">
@@ -103,8 +95,6 @@ The following language pairs are evaluated:
 </p>
 
 Our framework comprises two key components: **(a)** LLM Benchmarking, where _T_ are evaluated against _R_ using LLMs across diverse language families and domains; and **(b)** Bias Detection with LLM-as-a-Judge Evaluation, where potential biases are flagged using linguistic heuristics and semantic analysis, and then verified through LLMs and human annotators. Here, _S_ = Source, _R_ = Reference, _T_ = Translation.
-
----
 
 ## 🧪 Human Evaluation and Dataset Contribution
 
