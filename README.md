@@ -1,19 +1,12 @@
-# Translation Tangles: Uncovering Performance Gaps and Bias Patterns in LLM-Based Translations Across Language Families and Domains
+# _Ready to Translate, Not to Represent?_ Bias and Performance Gaps in Multilingual LLMs Across Language Families and Domains
 
-<p>This project presents a comprehensive evaluation framework for state-of-the-art Large Language Models (LLMs) on machine translation (MT) tasks. It benchmarks performance across diverse language pairs, families, and domains using a suite of lexical and semantic metrics. In addition, it introduces structured bias detection and fairness evaluation across translation outputs, along with a high-quality human-annotated dataset for robust benchmarking and error analysis.</p>
+_**Abstract:** The rise of Large Language Models (LLMs) has redefined Machine Translation (MT), enabling context-aware and fluent translations across hundreds of languages and textual domains. Despite their remarkable capabilities, LLMs often exhibit uneven performance across language families and specialized domains. Moreover, recent evidence reveals that these models can encode and amplify different biases present in their training data, posing serious concerns for fairness, especially in low-resource languages. To address these gaps, we introduce Translation Tangles, a unified framework and dataset for evaluating the translation quality and fairness of open-source LLMs. Our approach benchmarks 24 bidirectional language pairs across multiple domains using different metrics. We further propose a hybrid bias detection pipeline that integrates rule-based heuristics, semantic similarity filtering, and LLM-based validation. We also introduce a high-quality, bias-annotated dataset based on human evaluations of 1,439 translation-reference pairs._
 
 <p align="center">
   <img src="assets/overview.png" alt="Methodology Diagram"/>
 </p>
 
-## 🚀 Objectives
-
-- Evaluate multilingual translation performance of open-source LLMs across high- and low-resource language pairs.
-- Compare translation quality across domains (e.g., medical, general, literary).
-- Investigate directionality effects (e.g., EN→XX vs. XX→EN).
-- Detect and categorize biases (e.g., gender, religious, cultural) in generated translations.
-- Propose a robust framework combining heuristic and LLM-as-a-judge verification to identify translation biases.
-- Release a manually curated benchmark dataset with fine-grained bias and error annotations.
+Fig: Our framework comprises two key components: **(a)** LLM Benchmarking, where _T_ are evaluated against _R_ using LLMs across diverse language families and domains; and **(b)** Uncovering Bias Pattern with LLM-as-a-Judge Evaluation, where potential biases are flagged using linguistic heuristics and semantic analysis, and then verified through LLMs and human annotators. Here, _S_ = Source, _R_ = Reference, _T_ = Translation.
 
 ## 🧠 Model Information
 
@@ -45,58 +38,51 @@
 
 ## 📏 Evaluation Metrics
 
-We calculate the following translation evaluation metrics:
+| Metric       | Description                                         | Direction |
+|--------------|-----------------------------------------------------|-----------|
+| **BLEU**     | N-gram overlap with reference                       | ↑  |
+| **chrF**     | Character-level F-score                             | ↑  |
+| **TER**      | Translation Edit Rate                               | ↓  |
+| **BERTScore**| Semantic similarity using BERT embeddings           | ↑  |
+| **WER**      | Word Error Rate                                     | ↓  |
+| **CER**      | Character Error Rate                                | ↓  |
+| **ROUGE**    | Overlapping n-grams: ROUGE-1, ROUGE-2, ROUGE-L      | ↑  |
 
-- **BLEU**: N-gram overlap with reference. ↑
-- **chrF**: Character-level F-score. ↑
-- **TER**: Translation Edit Rate (lower is better). ↓
-- **BERTScore**: Semantic similarity using BERT embeddings. ↑
-- **WER**: Word Error Rate. ↓
-- **CER**: Character Error Rate. ↓
-- **ROUGE**: Overlapping n-grams: ROUGE-1, ROUGE-2, ROUGE-L. ↑
 
 <p><strong>Legend:</strong> ↑ Higher is better, ↓ Lower is better</p>
 
-## 📚 Datasets
+## 📚 Performance Evaluation Datasets
 
 We use a combination of general-purpose and domain-specific multilingual benchmark datasets to evaluate translation quality across diverse linguistic and contextual settings:
 
-### General-Purpose MT Datasets
-- **[WMT-18](https://huggingface.co/datasets/wmt/wmt18)**: A widely-used benchmark for high- and low-resource language pairs.
-- **[WMT-19](https://huggingface.co/datasets/wmt/wmt19)**: An extension of WMT-18 with updated language pairs and translation tasks.
-- **[BanglaNMT](https://huggingface.co/datasets/csebuetnlp/BanglaNMT)**: A curated dataset focused on Bangla-English translation, capturing a low-resource setting.
+| Dataset        | Languages                | Size         | Domain       | Fields                                                                 | Splits                                |
+|----------------|--------------------------|--------------|--------------|------------------------------------------------------------------------|----------------------------------------|
+| [**ELRCMedical**](https://huggingface.co/datasets/qanastek/ELRC-Medical-V2) | English + 21 EU languages | 100K–1M      | Medical      | `doc_id`, `lang`, `source_text`, `target_text`                         | None (manual)                          |
+| [**MultiEURLEX**](https://huggingface.co/datasets/coastalcph/multi_eurlex)     | 23 EU languages         | 65K docs     | Legal        | `doc_id`, `text`, `labels`                                             | Train (55K), Dev/Test (5K each)        |
+| [**Lit-Corpus**](https://huggingface.co/datasets/Nothingger/kaz-rus-eng-literature-parallel-corpus)      | Kazakh, Russian, English | 71K pairs    | Literature   | `source_text`, `target_text`, `X_lang`, `y_lang`                       | None                                   |
+| [**BanglaNMT**](https://huggingface.co/datasets/csebuetnlp/BanglaNMT)       | Bangla, English         | 2.38M pairs  | General      | `bn`, `en`                                                             | Train (2.38M), Val (597), Test (1K)    |
+| [**WMT-19**](https://huggingface.co/datasets/wmt/wmt19)          | Multilingual            | 100M–1B      | General      | `source_text`, `target_text`, `X_lang`, `y_lang`                       | Train, Val                             |
+| [**WMT-18**](https://huggingface.co/datasets/wmt/wmt18)          | Multilingual            | 100M–1B      | General      | `source_text`, `target_text`, `X_lang`, `y_lang`                       | Train, Val, Test                       |
 
-### Domain-Specific Datasets
-- **[Lit-Corpus](https://huggingface.co/datasets/Nothingger/kaz-rus-eng-literature-parallel-corpus)**: Literature-focused trilingual corpus (Kazakh–Russian–English) used for evaluating stylistically rich translations.
-- **[MultiEURLEX](https://huggingface.co/datasets/coastalcph/multi_eurlex)**: A legal domain dataset covering 23 European languages, used to assess domain-specific terminology fidelity.
-- **[ELRC-Medical-V2](https://huggingface.co/datasets/qanastek/ELRC-Medical-V2)**: Contains parallel medical texts in multiple EU languages, providing benchmarks for healthcare-related translation performance.
 
 ## 🌐 Language Pairs
 
-The following language pairs are evaluated:
+| Code Pair     | Language Names            |
+|---------------|---------------------------|
+| cs-en / en-cs | Czech ↔ English            |
+| de-en / en-de | German ↔ English           |
+| fi-en / en-fi | Finnish ↔ English          |
+| fr-de / de-fr | French ↔ German            |
+| gu-en / en-gu | Gujarati ↔ English         |
+| kk-en / en-kk | Kazakh ↔ English           |
+| lt-en / en-lt | Lithuanian ↔ English       |
+| ru-en / en-ru | Russian ↔ English          |
+| zh-en / en-zh | Chinese ↔ English          |
+| et-en / en-et | Estonian ↔ English         |
+| tr-en / en-tr | Turkish ↔ English          |
+| bn-en / en-bn | Bangla ↔ English           |
 
-- cs-en | en-cs (Czech)
-- de-en | en-de (German)
-- fi-en | en-fi (Finnish)
-- fr-de | de-fr (French-German)
-- gu-en | en-gu (Gujarati)
-- kk-en | en-kk (Kazakh)
-- lt-en | en-lt (Lithuanian)
-- ru-en | en-ru (Russian)
-- zh-en | en-zh (Chinese)
-- et-en | en-et (Estonian)
-- tr-en | en-tr (Turkish)
-- bn-en | en-bn (Bangla)
-
-### 📊 Methodology
-
-<p align="center">
-  <img src="assets/methodology.png" alt="Methodology Diagram" width="700"/>
-</p>
-
-Our framework comprises two key components: **(a)** LLM Benchmarking, where _T_ are evaluated against _R_ using LLMs across diverse language families and domains; and **(b)** Bias Detection with LLM-as-a-Judge Evaluation, where potential biases are flagged using linguistic heuristics and semantic analysis, and then verified through LLMs and human annotators. Here, _S_ = Source, _R_ = Reference, _T_ = Translation.
-
-## 🧪 Human Evaluation and Dataset Contribution
+## 🧪 Human Evaluation and Our Dataset Contribution
 
 To strengthen the evaluation beyond automated metrics, we conducted structured human annotation of 1,439 translation-reference pairs. Each instance was annotated along three axes: (i) bias flags from our heuristic-semantic framework, (ii) bias assessments by an LLM-as-a-Judge module, and (iii) gold-standard decisions by independent human reviewers. Each record includes the source sentence, reference translation, model output, and categorical bias labels (gender, cultural, sociocultural, racial, religious), along with common translation issues such as grammatical inconsistencies, pronoun shifts, semantic distortions, and hallucinated biases.
 
