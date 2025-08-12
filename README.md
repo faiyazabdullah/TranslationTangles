@@ -65,12 +65,12 @@ We calculate the following translation evaluation metrics:
 
 We use a combination of general-purpose and domain-specific multilingual benchmark datasets to evaluate translation quality across diverse linguistic and contextual settings:
 
-### 🔹 General-Purpose MT Datasets
+### General-Purpose MT Datasets
 - **[WMT-18](https://huggingface.co/datasets/wmt/wmt18)**: A widely-used benchmark for high- and low-resource language pairs.
 - **[WMT-19](https://huggingface.co/datasets/wmt/wmt19)**: An extension of WMT-18 with updated language pairs and translation tasks.
 - **[BanglaNMT](https://huggingface.co/datasets/csebuetnlp/BanglaNMT)**: A curated dataset focused on Bangla-English translation, capturing a low-resource setting.
 
-### 🔹 Domain-Specific Datasets
+### Domain-Specific Datasets
 - **[Lit-Corpus](https://huggingface.co/datasets/Nothingger/kaz-rus-eng-literature-parallel-corpus)**: Literature-focused trilingual corpus (Kazakh–Russian–English) used for evaluating stylistically rich translations.
 - **[MultiEURLEX](https://huggingface.co/datasets/coastalcph/multi_eurlex)**: A legal domain dataset covering 23 European languages, used to assess domain-specific terminology fidelity.
 - **[ELRC-Medical-V2](https://huggingface.co/datasets/qanastek/ELRC-Medical-V2)**: Contains parallel medical texts in multiple EU languages, providing benchmarks for healthcare-related translation performance.
