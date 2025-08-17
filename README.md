@@ -8,7 +8,7 @@ _**Abstract:** The rise of Large Language Models (LLMs) has redefined Machine Tr
 
 Fig: Our framework comprises two key components: **(a)** LLM Benchmarking, where _T_ are evaluated against _R_ using LLMs across diverse language families and domains; and **(b)** Uncovering Bias Pattern with LLM-as-a-Judge Evaluation, where potential biases are flagged using linguistic heuristics and semantic analysis, and then verified through LLMs and human annotators. Here, _S_ = Source, _R_ = Reference, _T_ = Translation.
 
-## 🧠 Model Information
+## 🧠 Models
 
 <table>
 <thead>
@@ -51,7 +51,7 @@ Fig: Our framework comprises two key components: **(a)** LLM Benchmarking, where
 
 <p><strong>Legend:</strong> ↑ Higher is better, ↓ Lower is better</p>
 
-## 📚 Performance Evaluation Datasets
+## 📚 Translation Performance Evaluation Datasets
 
 We use a combination of general-purpose and domain-specific multilingual benchmark datasets to evaluate translation quality across diverse linguistic and contextual settings:
 
