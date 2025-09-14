@@ -1,0 +1,203 @@
+﻿file,model,lang_pair,src_lang,tgt_lang,direction,source,translation,reference,COMET
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,Rewriting the Monetary-Policy Script,Rewriting the Monetary-Policy Script,Ақша-несие саясатының сценарийін қайта жазсақ,0.44382232427597046
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,MUNICH – How long will major central banks blindly rely on rigid rules to control inflation and stimulate growth?,МУНІЧЬ – Скільки часу великі центральні банки будуть безперервно залежніти на строгальні правила для контролю інфляції та стимулювання зростання?,"МЮНХЕН – Әлемнің ең ірі орталық банктері инфляцияны ауыздықтап, өсімді ұлғайту үшін қашанғы қатаң ережелерге сүйене бермек?",0.5399505496025085
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"Given the clear benefits of nimble monetary policy, central bankers need to open their eyes to the possibilities that flexibility affords.","Given the clear benefits of nimble monetary policy, central bankers need to open their eyes to the possibilities that flexibility affords.
+
+(Note: The translation is already in English, but if you meant to translate it into Korean, here it is:)
+
+많은 이점이 있는 유연한 중앙은행 정책을 고려할 때, 중앙은행 관리자들은 유연성을 통해 제공되는 가능성을 눈치채야 해.
+
+Please note that translations can sometimes be nuanced, and it's always good to have a native speaker or a professional translator review the translation for accuracy.",Епті ақша-несие саясатының жақсы жақтарын ескере келе орталық банктер бейімделгіштікке де мән бере бастауы қажет.,0.3430323302745819
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"The rule of thumb for monetary policymakers has long been that if inflation is below official target ranges, short-term interest rates should be set at a level that spurs spending and investment.","Monetary policymakers rule of thumb 長期通貨政策者的規則,如果通貨膨脹低於官方目標範圍,短期利率應該設定在一個能刺激消費和投資的水平。
+
+In this translation:
+
+- ""The rule of thumb"" is translated as ""Monetary policymakers rule of thumb""
+- ""for monetary policymakers"" is translated as ""長期通貨政策者的""
+- ""has long been"" is translated as ""如果""
+- ""that if inflation is below official target ranges"" is translated as ""通�","Ақша-несие саясатын жасаушылардың қалыптасқан дәстүрі – егер инфляция ресми болжалған диапазоннан көп уақыт төмен тұрса, қысқа мерзімді пайыздық үстемелер шығындар мен инвестицияға серпін беретіндей деңгейде белгіленуі керек.",0.20737813413143158
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"This approach has meant that once interest rates reach or approach zero, central banks have little choice but to activate large asset-purchase programs that are supposed to stimulate demand.","이 접근법은 이미 이자율이 또는 근접하게 되면, 중앙은행들은 대규모 자산구매 프로그램을 활성화하여 수요를 자극하는 것을 더 이상 선택지가 되지 않게 했다.
+
+In this translation:
+
+- ""This approach"" is translated to ""이 접근법은""
+- ""has meant"" is translated to ""이미 이 방법으로 해석되어""
+- ""that once""",Бұл тәсілдің ерекшелігі – пайыздық үстемелер нөлге жақындағанда орталық банктердің сұранысты арттыру үшін активтерді сатып алу бағдарламаларын іске қосудан басқа амалы қалмайды.,0.22039806842803955
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"When circumstances call for it, policymakers default to the predetermined scripts of neo-Keynesian economic models.","언제든지 상황이 요구하면, 정책 ��","Егер жағдай соған жетсе, саяси шешім қабылдаушылар жаңа Кейнс экономикалық моделі негізіндегі белгілі сценарийлер бойынша дефолт жариялайды.",0.295999675989151
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"But in too many cases, those scripts have led us astray, because they assume that monetary policy has a measurable and foreseeable impact on demand and inflation.","그러나 많은 경우에, 그러한 스크립트들은 우리를 오도하게 만들었습니다, 그것들이 돈정책이 예측 가능하고 측정 가능한 수요와 인플레이션에 미치는 영향을 가정하고 있기 때문입니다.
+
+In this translation:
+
+- ""But"" is translated as ""그러나""
+- ""in too many cases"" is translated as ""많은 경우에""
+- ""those scripts"" is translated as","Бірақ өте көп жағдайда бұл сценарийлер бізді шатастырады, себебі ақша-кредит саясатының сұраныс пен инфляцияға ықпалын өлшеуге және болжауға болады деп ойлайды.",0.3197726011276245
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,There is plenty of reason to question this assumption.,"Translate the following text from en to kk: Despite the overwhelming evidence, some people still cl",Бірақ бұл тұжырымды жоққа шығаратын себептер жеткілікті.,0.267829567193985
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"For starters, households have not responded to ultra-low interest rates by saving less and spending more.",In Korean:,"Біріншіден, отбасылар пайыздық үстеме тым төмен болса да, ақшаны аз сақтап, көп жұмсаған жоқ.",0.19957241415977478
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"If savings no longer yield a return, people can’t afford big-ticket items or pay for retirement down the road.","Если сбережения больше не дают прибыль, люди не смогут себе позволить крупные покупки или платить на пенсию в будущем.
+
+In this translation:
+- ""If"" is translated as ""Если""
+- ""savings"" is translated as ""сбережения""
+- ""no longer yield a return"" is translated as ""больше не дают прибыль""
+- ""people"" is translated as ""люди""
+- ""can’t afford"" is translated as ""не смогут себе позволить""
+- ""big-ticket items"" is translated as ""крупные покупки""
+- ""or pay"" is translated as ""или платить""
+- ""for retirement down the road"" is translated as ""на пенсию в будущем""
+
+The sentence structure and grammar are also preserved in the translation.","Ақша жинау табыс келтірмейтін болса, адамдар қымбат заттар сатып ала бермейді, немесе кейін болатын зейнеттік демалысына ақша жинамайды.",0.2214386910200119
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"Likewise, companies today are faced with so much uncertainty and so many risks that ever-lower costs of capital have not enticed them to invest more.",��,"Дәл сол сияқты тәуекел өте көп болғандықтан, компаниялар да әрі-сәрі күйде тұр, капиталдың бұрын болмаған деңгейге дейін арзандауы оларды көбірек инвестиция салуға итермелеген жоқ.",0.30995631217956543
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"It’s easy to see why, despite the data, predetermined formulas are attractive to monetary policymakers. The prevailing wisdom holds that in order to return the inflation rate to a preferred level, any slack in the economy must be eliminated.",kk: இங்கே அந்த அநீதியான உரை அங்கே அனைத்து அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்,"Осы мәліметтерге қарамастан, ақша-несие саясатын жасаушылардың бұрыннан бар формулаларға неліктен сүйене беретінін түсіну оңай.",0.24887454509735107
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"This requires pushing interest rates as low as possible, and when these policies have run their course (such as when rates dip toward the negative), unconventional instruments like “quantitative easing” must be deployed to revive growth and inflation.","이는 가능한 한 최소한의 이자율을 끌어내고, 이러한 정책이 마무리되면 (예를 들어 이자가 마이너스로 내려가면) 일반적인 도구인 “풍부화”를 사용하여 성장과 인플레이션을 부활시키는 것이 필요합니다.
+
+In this translation:
+
+- ""This requires"" is translated to ""이는 가능한 한 최소한의""
+- ""pushing interest","Белгілі қағидаға сүйенсек, инфляция деңгейін лайықты деңгейге жеткізу үшін экономикадағы олқылықтардың барлығы түзетілуі керек.",0.3365054428577423
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,The paradigm has become so universally accepted – and the model simulations underpinning central banks’ decisions have become so complex – that few are willing to question it.,"Paradigm çok geniş çeşitlendirildi – ve central bank model simülasyonlarının temel olaylarında olduğu karmaşıklaştığı için, birçok insanın bu konuyu kabul etmeyi kabul etmediğini kabul etmeyebilir.
+
+In this translation:
+
+- ""The paradigm has become so universally accepted"" is translated to ""Paradigm çok geniş çeşitlendirildi""
+- ""and the model simulations underpinning central banks’ decisions have become so complex"" is translated to ""ve central bank model simülasyonlarının temel olaylarında olduğu karmaşıklaştı","Бұл пайыздық мөлшерлемені мейлінше төмендетуді талап етеді, ал бұл саясат жүзеге асырылғанда (мөлшерлемелер минусқа дейін түсіп кеткенде) өсім мен инфляцияны қайта қалпына келтіру үшін «сандық жеңілдету» сияқты әдеттегіден тыс құралдарды қолдану қажет. Бұл парадигманы жұрттың бәрі қабылдағаны, әрі орталық банктердің шешім қабылдауына негіз болатын модельдердің күрделі болатыны сондай, оған күмәнданатындар өте сирек.",0.26418837904930115
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"For individual central banks or economists, to do so would be sacrilege.",개인 중앙은행이나 경제학자들에게는 그것을 하는 �,Жекелеген орталық банктер мен экономистер үшін бұл – қасиетті нәрсені қорлау болар еді.,0.3638589084148407
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"Central banks do not completely deny the economic costs that these policies imply: exuberance in financial markets, financing gaps in funded pension systems, and deeper wealth inequality, to name just a few.","中央銀行不完全否定這些政策導致的經濟成本:金融市場的過度狂喜、基金補貼空缺的資產養老系統,以及更深層的財富不平等,這些只是幾個例子。
+
+In this translation:
+
+- ""Central banks"" is translated as ""中央銀行""
+- ""do not completely deny"" is translated as ""不完全否定""
+- ""the economic costs"" is translated as ""這些政策導致的經濟成本""
+- ""that these policies imply"" is","Орталық банктер бұл саясаттың экономикалық шығындарын, атап айтқанда қаржы нарықтарының шектен тыс толып кетуі, жинақтаушы зейнетақы жүйелеріндегі қаржылық жыртықтарды жамау қажеттігі, байлар мен кедейлер арасында теңсіздіктің артуы сияқты мәселелерін толық жоққа шығармайды.",0.26704296469688416
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,But these costs are deemed an acceptable price to pay to reach the clearly defined inflation level.,但 這些成本 被認為是達到清楚定義的通��������,Бірақ инфляцияның нақты белгіленген межесіне жету үшін бұл – оңтайлы баға.,0.33289116621017456
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"Yet the policies pursued in recent years have given no room for the intangibles – unstable political environments, geopolitical tremors, or rising risks on financial markets – that can send models off course.",แต่กฎที่ปฏิบัติในปีที่ผ่านมาไม่ได้ให้ส่วนใหญ่สําหรับสิ่งที่ไม่สามารถจับตัวได้ – สภาพการเมืองที่ไม่แน่นอน การเคลื่อนไหวทางการเมือง หรือความเสี่ยงของตลาดการเงินที่เพิ่มขึ้น – ที่สามา,"Бірақ, соңғы жылдары жүргізілген саясат материалдық емес активтерге орын қалдырмады, тұрақсыз саяси жағдай, геосаяси тартыстар, қаржы нарықтарындағы тәуекелдің артуы – бұлар модельді бағытынан тайдыруы мүмкін.",0.3536559045314789
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"As the 2008 financial crisis illustrated, the normal distribution of risk was useless for predictions.","2008 金融危機警告,正常分布的風險預測無效。
+
+In this translation:
+
+- ""As the 2008 financial crisis illustrated"" is translated to ""2008 金融危機警告""
+- ""the normal distribution of risk"" is translated to ""正常分布的風險""
+- ""was useless for predictions"" is translated to ""無效的預測""
+
+The sentence structure and grammar are maintained in the translation, and the meaning of the original text is preserved. The translation is accurate and understandable in Korean.","2008 жылғы дағдарыс дәлелдегеніндей, тәуекелді қалыпты нормада белгілеудің өзі іске алғысыз болып қалды.",0.31650984287261963
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,Keynes never tired of arguing that monetary policy becomes ineffective if uncertainty is sufficient to destabilize the expectations of consumers and investors.,"Keynes çokça argüyordu ki, monetary policy etkisiz olur eğer bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir şekilde bir","Кейнс белгісіздік тұтынушы мен инвестордың үмітін азайтатындай күшті болса, онда ақша-несие саясаты тиімсіз болып қалады дегенді айтудан шаршаған емес.",0.221888929605484
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,Bangladesh’s Deadly War on Drugs,"Moreover, the government's crackdown on drug trafficking has pushed the trade underground, making it even harder to combat. Drug dealers have become more",Өлім жазасы Бангладештегі есірткі саудасын тоқтатпайды,0.3141423463821411
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"LONDON – The audio quality is poor and the sound of gunshots muffled, but the agony in Ekramul Haque’s voice is unmistakable. On May 26, while speaking with his family by phone, Haque, an elected official in southern Bangladesh, was gunned down by police in an apparent extrajudicial killing.",لندن - استوائي صوت سيئ وصوت رصاص مخفي، ولكن آلام إكرام الحاج واضحة لا يصدق. 26 مايو، أثناء الحديث مع عائلته عبر الهاتف، قُتل إكرام الحاج بواسطة الشرطة في قتل غير قانوني,"ЛОНДОН – Аудионың сапасы нашар, атылған оқтың үні қатты естіледі, сонда да Экрамул Хактың даусын жазбай танисың. Бангладештің оңтүстік-шығысында тұратын мемлекеттік қызметкер Хакты мамырдың 26-сында әйелімен телефонмен сөйлесіп тұрған кезінде полиция атып өлтірген.",0.3559547960758209
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"Bangladeshi authorities insist Haque was a drug dealer who died in an exchange of gunfire, but the audio evidence – captured by his wife as she listened to her husband die – suggests that the officers involved killed him and then planted drugs at the scene.","ভান্তালেশী আইনস্ট্রেটের একটি আইনস্ট্রেটির একটি অভিষ্যানের জন্য, বাংলাদেশ একটি একটি অভিষ্যানের অভিষ্যানের জন্য, আইনস্ট্রে��","Бангладештің ресми орындары “Экрамул Хак – есірткі сатушы және ол атыс кезінде қаза тапты” дейді. Ал күйеуін өлтіріп жатқанда оны телефонмен тыңдап тұрған әйелінің айтуынша, полицейлер оны өлтіріп, сол жерге есірті тастап кеткен.",0.17629694938659668
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,The recording casts a disturbing light on Bangladesh’s new drug-control strategy.,"আইডিওটাই বাংলাদেশের নতুন অধ্যায়ক অভাবনার প্রতিষ্ঠাতে অভিধান করে।
+
+Note: The translation provided is a literal translation and may not fully convey the nuances of the original English text. It's always recommended to have a native speaker or a professional translator review the translation for accuracy and context.",Бұл аудиожазба Банладештің есірткімен күрестегі жаңа стратегиясының олқылығын көрсетеді.,0.315344899892807
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"Since May, when Prime Minister Sheikh Hasina revamped her government’s war on drugs, an estimated 25,000 people have been arbitrarily imprisoned, and at least 200 have died in alleged shootouts.","আমিএই ২৫,এম্বি ফিচার আইন এই সরকারের আচার আত্মইড আত্মইড প্রতিক্রিয়াশ এর পর, একই বিলিয়তে ২৫,এই একটা বিষয়ে আছে ২৫,এ","Премьер-министр Шейх Хасина үкіметтің есірткімен күрес саясатын қайта қараған мамыр айынан бері 25 мыңға тарта адам сот шешімінсіз түрмеге қамалып, 200-ге жуық кісі оққа ұшқан.",0.2476557195186615
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,The parallels to President Rodrigo Duterte’s brutal drug crackdown in the Philippines are chilling.,"ฮูเดียซึ่งผู้นํารัฐบาลดูเดรกรอดิโอในพิลาพิส มีความเหมือนกับการต่อสู้ทางเสพติดที่เคลื่อนไหวอย่างเหน็ดเหตุในประเทศนี้ ความหมายนี้น่ากลัว
+
+Note: The translation provided is in the Khmer language (kk), which is the official language of Cambodia. The original text is in English, and the translation aims to convey the same meaning in Khmer.",Елдегі ахуал Филиппин президенті Родриго Дутертенің есірткімен күрестегі тым қатыгез саясатын еске түсіреді.,0.2410917729139328
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"There, human rights are routinely violated and more than 20,000 people have been slaughtered since 2016.","그곳에서, 인권은 일상적으로 침해되고, 20,000명 이상이 2016년부터 죽입니다.
+
+In this translation:
+
+- ""There"" is translated to ""그곳에서"" which means ""there"" in Korean.
+- ""human rights"" is translated to ""인권"" which is a direct translation of the term.
+- ""are routinely violated"" is translated to ""일상적으로 침해되고"" which conveys the same meaning of regular violation.
+- ""and"" is translated to ""그리고"" which is a conjunction used to connect two clauses.
+- ""more than 20,000 people"" is translated to """,Онда адам құқықтары жиі бұзылады және 2016 жылдан бері 20 мыңнан астам кісі өлтірілген.,0.21923471987247467
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"While Duterte’s campaign has drawn international condemnation, Hasina’s purge has been subject to less scrutiny.","আইটফাইনট ডাটারে একটি আন্তর্জাতিক অনুযায়ী আফ-আফ প্রতিষ্ঠাপনা, হাসিনা চার্চের প্রতিষ্ঠাপনা অভিযোগ্যতাই অপরাধিত অনুষ্ঠান হয়েছে।
+
+Note: The translation provided is accurate and maintains the meaning of the original text. The use of","Дутерте бастаған науқанды халықаралық қауымдастық жұмыла сынап жатса, Хасинаның “тазалау” операциясына көп назар аударылмай келеді.",0.2665986120700836
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,The relative lack of international criticism seems to have emboldened the government to act even more ruthlessly.,국제적인 비판의 부족한 상태가 정부가 더욱 끈기 있게 �,Халықаралық қауымдастық сыни пікір білдірмеген соң үкімет те шектен тыс қатігез әрекеттерге көшкен сыңайлы.,0.40008699893951416
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"While the death penalty for drugs has existed in Bangladesh for decades, it has rarely been used.",আমাদের বাংলাদেশে অধিক অভিত্তি অধিকভাবে অভিযোগ অধিকভাবে থাকার চার ডাক অধিকভাবে অভিত্তি থেকে একটা অভিযোগ অধিকভাবে থাকার অভিত্তি থেকে একটা অভিত,"Бангладеште есірткі қылмыстарына өлім жазасы бұрыннан бар болғанымен, өте сирек қолданылып келген.",0.1917259395122528
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,This could change dramatically if Parliament approves the government’s bill.,"이 것이 크게 변할 수 있다면, 의회가 정부의 법안을 승인하면.
+
+In this translation:
+
+- ""This could change dramatically"" is translated to ""이 것이 크게 변할 수 있다면""
+- ""if"" is translated to ""만약""
+- ""Parliament"" is translated to ""의회""
+- ""approves"" is translated to ""승인하다""
+- ""the government’s bill"" is translated to ""정부의 법안""
+
+The sentence structure and grammar are also adjusted to fit Korean syntax. The subject comes before the verb in Korean, and the object comes after the verb. The conjunction ""if"" is translated as ""만약"" and placed at the beginning of the clause. The","Парламент үкімет ұсынған заң жобасын мақұлдаса, бұл жағдай түбірімен өзгеруі мүмкін.",0.2671753764152527
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"The ferocity of the authorities’ anti-drug campaign, together with the extremely low threshold for yaba possession, means that even people who use drugs and low-level dealers could face execution.",ആധോചോഗോചോഗോചോഗോചോഗോചോഗോചോഗോചോഗോചോഗോചോഗോചോഗോചോഗോചോഗോചോഗോചോഗോചോഗോചോ,"Үкіметтің есірткімен аяусыз күрес бастауының, “ябаны” аз мөлшерде де сақтауға рұқсат бермеуінің кесірінен есірткі пайдаланатындар мен ең төменгі деңгейдегі есірткі сатушылар да өлімге кесілуі мүмкін.",0.1818484514951706
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"Despite what governments claim, the death penalty for drug offenses does not target kingpins.","尽管政府声称的尽头刑罚,药品犯罪的死刑并不是对头目的目标。
+
+Note: The translation is accurate and maintains the original meaning of the text. The sentence structure and grammar are also correct in Korean.","Үкімет сендіруге тырысқанымен, өлім жазасы есірткі сататын топ басшыларын құрығына іліп жатқан жоқ.",0.3039308190345764
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,It is the poor and the most vulnerable who suffer.,அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே அங்கே,Бұдан кедейлер мен ең дәрменсіздер зардап шегіп келеді.,0.20986978709697723
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"This would certainly be the case in Bangladesh, where some Rohingya refugees – who have fled horrific persecution in neighboring Myanmar – rely on the drug trade for economic survival.",ইখাননে আমি ভান্তিভাই ভারতে থেকে ভুলফুল ভাইরাই ভারতে ভুলফুল ভাইরাই ভারতে থেকে ভুলফুল ভাইরাই ভারতে ভুলফুল ভাইরাই ভারতে থেকে ভ,"Көршілес Мьянмадағы жан түршігерлік сүргіннен бас сауғалап Бангладешке келген босқындардың кейбірі күнкөріс үшін қылмысқа барып, осы заңның тұзағына түсуі әбден мүмкін.",0.18872010707855225
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"Moreover, there is simply no evidence that the death penalty for drug use lowers rates of consumption or trafficking.","또한, 약물 사용에 대한 죄질금에 대한 죽음의 증거가 섭취 또는 유통률을 낮추는 것에 대해 없다.
+
+Please note that the translation may not be perfect due to the complexity and nuances of language. It is always recommended to have a native speaker or a professional translator review the translation for accuracy.
+
+I hope this helps! Let me know if you have any other questions.","Оның үстіне, есірткі қолданғаны үшін өлім жазасын тағайындау оны пайдалану мен сату көлемін азайтуға септесетініне еш дәлел жоқ.",0.22230955958366394
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"Almost 4,000 people have been executed for drug offenses in the past decade, and the UN Office on Drugs and Crime admits that the drug market is still booming.","최근 10년간 약 4000명이 몰래약 범죄로 처형되었으며, 유엔 범죄 및 불법 약품 사무소는 여전히 돈 시장이 성장하고 있다고 인정했습니다.
+
+(Note: The translation provided is a literal translation. In Korean, the sentence structure and grammar may differ from English. The translation may not fully convey the nuances of the original English text.)","БҰҰ-ның Есірткі және қылмыс басқармасының айтуынша, он жыл ішінде есірткі қылмысы үшін 4 мыңдай адам өлім жазасына кесілгенімен, есірткі нарығы ұлғайып барады.",0.3241240680217743
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,Death penalty laws are little more than grotesque grandstanding by governments seeking to appear “tough” on drugs while blindly ignoring the facts.,死刑法律是政府为了显得“坚决”打击药品而进行的恶毒大��,"Өлім жазасы – есірткімен күресте “қатал” болып көрінгісі келгенімен, фактілерге көз жұма қарайтын үкіметтердің далбаса әрекеті ғана.",0.3072369694709778
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,The Business Side of Brexit,"Brexit şirketçi yönü:
+
+Brexit, İngiltere'nin Uniyalarının çıkışı, ekonomik ve politik yönleriyle çok önemli bir dönüm noktası olmuştur. Bu, şirketlerin operasyonları, piyasa yönetimi ve uluslararası ilişkileri üzerinde önemli değişiklikler yaratır. Şirketçi yönü, Brexit'in ekonomik ve politik etkilerini anlamak ve bu etkileri işletmeyi planlamak için önemli bir rol oynar.
+
+Ekonomik Etkiler:
+
+Brexit, şirketlerin piyasa yönetimini ve yatırımını etkileyebilir.",Брекситтің Бизнес Қырлары,0.523561954498291
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,The decline in the pound’s value may also start to hurt households.,"ผลกระทบของลดค่าดอลลาร์อาจยังคงทําให้บุคคลบ้านเสีย
+
+In this translation:
+
+- ""The decline"" is translated to ""ผลกระทบของลด""
+- ""in the pound’s value"" is translated to ""ค่าดอลลาร์""
+- ""may also start to hurt"" is translated to ""อาจยังคงทําให้""
+- ""households"" is translated to ""บุคคลบ้าน""
+
+The translation maintains the meaning of the original text while adapting it to the grammatical structure and vocabulary of the Korean language.","Фунт құнның төмендеуі, сондай-ақ үй шаруашылықтарына зақым келтіре алады.",0.2757837772369385
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,Consumer price inflation is set to peak at close to 3% this year.,"消费者物价通胀预计将在本年内达到接近3%的高点。
+
+In this translation:
+
+- ""Consumer price inflation"" is translated as ""消费者物价通胀""
+- ""is set to peak"" is translated as ""预计将达到""
+- ""at close to 3%"" is translated as ""接近3%""
+- ""this year"" is translated as ""本年内""
+
+The translation maintains the original meaning and context of the sentence, while adapting it to the grammatical and syntactical rules of Korean. The Korean language often places the verb before the subject, which is why ""预计将达到"" is used instead of ""将达到预计"". Additionally, the percentage is placed before the noun it modifies, which is a common practice in Korean.","Тұтыну бағаларының инфляциясы биылғы жылы өсіп, 3% деңгейінде тұр.",0.2907729148864746
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"Yet, given the changing dynamics of the labor market and subdued productivity growth, average wage gains are not likely to be much more than 2.5%.","그럼에도 불구하고, 노동시장의 변화하는 동태와 잠재성장률이 낮은 상황에서, 평균 임금 증가는 2.5% 이하로 더 많이 증가하기 어려울 것입니다.
+
+In this translation:
+
+- ""Yet"" is translated as ""그럼에도 불구하고"" which means ""Nevertheless"" or ""However"" in English.
+- ""given"" is translated as ""그럼에도 불구하고"" which is used to express a contrast or exception to","Дегенмен, еңбек нарығының өзгеріп жатқан динамикасы және өнімділік өсуінің баяулауын ескерсек, орташа жалақының өсуі 2,5 пайыздан аспауы мүмкін.",0.28605350852012634
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"In real terms, therefore, average household incomes are likely to remain flat or even shrink, undermining the UK economy’s crucial consumer-spending engine.","현실적으로, 따라서, 평균 가정 소득은 약간 또는 감소할 가능성이 있어, 영국 경제의 중요한 소비 엔진을 흔드는 것이 될 것이다.
+
+In this translation:
+
+- ""In real terms"" is translated to ""현실적으로""
+- ""therefore"" is translated to ""따라서""
+- ""average household incomes"" is translated to ""평균 가정 소득""
+- ""are likely to remain flat or even shrink"" is translated to ""��","Сондықтан, орташа тұрмыстық табыстың нақты мөлшері өзгермей немесе тіпті төмендеуі де мүмкін, және бұл Ұлыбритания экономикасының тұтыну шығындарына кері әсер етеді.",0.2800358831882477
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"Worse, these impending macroeconomic challenges may well be dwarfed by those arising from the coming Brexit negotiations, though perhaps not for the reason one might expect.","더 나쁜, 이 예상되는 대규모 경제적 도전들은 영국의 브렉시티 협상이 발생할 때 더 크게 느껴질 수 있지만, 이는 기대할 수 있는 이유로는 아닐 수 있습니다.
+
+In this translation:
+
+- ""Worse"" is translated to ""더 나쁨""
+- ""these impending macroeconomic challenges"" is translated to ""이 예상되는 대","Бәлкім, осы төніп келе жатқан макроэкономикалық қиындықтарды алдағы Брексит келіссөздернен туындайтын мәселелер басып кетуі мүмкін, бірақ себептер де біз күтпегендей болуы мүмкін.",0.32517069578170776
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"The key danger for businesses, as the leader of a construction-engineering firm put it to me, is that planning for all of the possible Brexit scenarios can become an all-consuming affair, causing companies to lose sight of their larger strategic goals.","企業的主要威胁,依照一家建設工程公司的领导人告诉我的是,在所有的英国脱欧可能性中进行规划,可能会成为一个全面的事务,使公司失去对其更大战略目标的注意。
+
+Note: The translation is done in Korean (kk) as requested. However, please note that Korean language has its own unique structure and grammar, which may not always align perfectly with English. The translation provided here aims to convey the meaning of the original text as accurately as possible.","Бизнес үшін негізгі қауіп, құрылыс-инженерлік фирма көшбасшысы маған түсіндіріп өткендей, Брекситтен туындайтын сценарийлердің барлық жоспарларына дайындалу компаниялардың толықтай жұтып, олар өздерінің үлкен стратегиялық мақсаттарын ұмытып кетуі мүмкін.",0.25098684430122375
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"The good news is that, so far, the business community seems confident.","좋은 소식은, 아직도 비즈니스 커뮤니티가","Жақсы жаңалық деп әзірге, бизнес-қоғамдастықтың сенімді көрінуін айтып кетуге болады.",0.44701671600341797
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,Entrepreneurs and CEOs have plenty of experience making decisions in an uncertain world.,"엔터테인먼트 및 CEO들은 불확실한 세계에서 결정을 내리는 데 많은 경험을 가지고 있습니다.
+
+Note: The translation is accurate and maintains the meaning of the original text. The sentence structure and grammar are also correct in Korean.",Кәсіпкерлер мен компания басшыларында белгісіз әлемде шешімдер қабылдау тәжірибесі мол.,0.36409246921539307
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,"So, despite the Brexit unknowns, they are continuing to invest in future-oriented areas like cloud computing, artificial intelligence, and data analytics.","So, 尽管 Brexit 未知的不确定性,他们 仍然在未来的领域如云计算、人工智能和数据分析中进行投资。
+
+In this translation:
+- ""So"" is translated as ""尽管"" which means ""despite"" or ""although"" in English.
+- ""Brexit"" is translated as ""Brexit"" because it's a proper noun and doesn't have a direct translation in Korean.
+- ""unknowns"" is translated as ""未知的不确定性"" which means ""unknown uncertainties"" in English.
+- ""they are continuing to invest"" is translated as ""他们 仍然在"" which means ""they are still"" in English.
+- ""in future-oriented areas"" is","Сондықтан, Брекситтан туындаған белгісіздікке қарамастан, олар бұлтты есептеу, жасанды интеллект, және деректер аналитикасы сияқты болашаққа бағдарланған салаларға инвестиция салуды жалғастыруда.",0.24436643719673157
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,The truth is that it is the technological revolution and the surge in consumption in Asia – not the UK’s relationship with the EU – that will transform the way business is done over the next couple of decades.,"The truth is that it is the technological revolution and the surge in consumption in Asia – not the UK’s relationship with the EU – that will transform the way business is done over the next couple of decades.
+
+In this translation, the text has been translated from English to Korean while maintaining the original meaning. The sentence structure and grammar have been adjusted to fit Korean language conventions.
+
+Here is the translated text in Korean:
+진실은 아시아의 기술 혁신과 소비 증가가 아일랜드와 유럽연합(EU)의 관계보다 비즈니스 방식을 다음 몇 반년 동안 변화시킬 ��","Негізі, ЕО мен Ұлыбританияның қарым-қатынасы емес, технологиялық революция және Азиядағы тұтынудың артуы алдағы онжылдықтарда бизнестің жасалу жолын өзгертетін болады.",0.3762454092502594
+translations_Phi-3.5-mini-instruct_kk-en_reverse.csv,Phi-3.5-mini-instruct,kk-en,kk,en,reverse,Brexit In Reverse?,"#### Answer 
+The phrase """,Кері Брексит процесі болады ма?,0.2953621745109558

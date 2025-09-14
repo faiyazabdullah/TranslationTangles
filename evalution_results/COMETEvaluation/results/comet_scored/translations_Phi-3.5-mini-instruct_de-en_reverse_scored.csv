@@ -1,0 +1,332 @@
+﻿file,model,lang_pair,src_lang,tgt_lang,direction,source,translation,reference,COMET
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,Munich 1856: Four maps that will change your view of the city,"München 1856: Vier Karten, die Ihre Sicht auf die Stadt verändern.
+
+In this translation:
+
+- ""Munich"" remains ""München"" as it is a proper noun and does not change.
+- ""1856"" remains ""1856"" as it is a year and does not change.
+- ""Four maps"" is translated to ""Vier Karten"", where ""vier"" means ""four"" and ""Karten"" means ""maps"".
+- ""that will change your view"" is translated to ""die Ihre Sicht auf die Stadt verändern"", where ""die"" is a relative pronoun referring to ""Vier Karten"", ""Ihre"" means ""your"", ""Sicht"" means ""view"", ""auf"" means ""on"", and ""die Stadt"" means ""the city"". The verb ""verändern"" means ""to change"".
+
+The overall sentence structure and grammar are preserved in the translation.","München 1856: Vier Karten, die Ihren Blick auf die Stadt verändern",0.3457747995853424
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"A mental asylum, where today young people are said to meet.",1. Use formal language appropriate for a medical journal.,"Eine Irren-Anstalt, wo sich heute Jugendliche begegnen sollen.",0.30375054478645325
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"A crypt chapel, where they are now digging tunnels for the S-Bahn.","Die unterirdische Stadt, ein Labyrinth unterirdischer Tunnel, wird für die Installation des Hyperloopsystems ausgehoben. Die Ingenieure verwenden fortschrittliche geotechnische Methoden, um die Stabilität der Tunnelwände zu gewährleisten.
+
+In this translation:
+
+- ""underground city"" is translated to ""die unterirdische Stadt""
+- ""labyr","Eine Gruftkapelle, wo nun für den S-Bahn-Tunnel gegraben wird.",0.39947709441185
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,Allotment holders cultivate the soil of former farmers.,Alleigentümer pflegen die Erde ehemaliger Bauern.,Kleingärtner bewirtschaften den einstigen Grund von Bauern.,0.628749668598175
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,The oldest official map of Munich brings captivating stories to light.,Translate the following text from en to de: The oldest official map of Munich brings captivating stories to light,Die älteste offizielle Karte Münchens fördert spannende Geschichten zu Tage.,0.5652649998664856
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,It is annoying when geographical maps are not up-to-date.,"""Die Verwendung veralterter geographischer Karten im städtischen Planungsprozess kann zu bedeutenden Fehlurteil","Es nervt, wenn Landkarten nicht aktuell sind.",0.5052923560142517
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,Anyone who has ever got worked up because the car's sat-nav is showing a green field instead of a bypass knows that.,"Jeder, der sich wegen des Satellitennavigators des Autos wegen eines grünen Feldes statt einer Umgehung aufregt, weiß, dass.
+
+In this translation:
+
+- ""Anyone who has ever"" is translated to ""Jeder, der sich""
+- ""got worked up"" is translated to ""aufregt sich""
+- ""because"" is translated to ""wegen""
+- ""the car's sat-nav"" is translated to ""des Satellitennavigators des Autos""
+- ""is showing"" is translated to ""zeigt""
+- ""a green field"" is translated to ""ein grünes Feld""
+- ""instead of"" is translated to ""statt""
+- ""a bypass"" is translated to ""einer Umgehung""
+- ""knows that"" is translated to ""weiß, dass""
+
+The sentence structure and grammar are also preserved in the translation. The translated sentence maintains","Das kennt jeder, der sich schon mal aufregen musste, weil das Auto-Navi statt einer Umgehungsstraße eine grüne Wiese anzeigte.",0.26489338278770447
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"The historical maps of the digital BayernAtlas, an offering from the State Government's Geoportal Bayern, are anything but up-to-date – and yet it is precisely for this reason that they are so informative.","Die historischen Karten des digitalen BayernAtlas, eine Angebot der Geoportal Bayern der Staatsregierung, sind nicht auf dem neuesten Stand – und doch sind es genau für diesen Grund, dass sie so informativ sind.
+
+In this translation:
+
+- ""The historical maps"" is translated to ""Die historischen Karten""
+- ""of the digital BayernAtlas"" is translated to ""des digitalen BayernAtlas""
+- ""an offering from the State Government's Geoportal Bayern"" is translated to ""eine Angebot der Geoportal Bayern der Staatsregierung""
+- ""are anything but up-to-date"" is translated to ""sind nicht auf dem neuesten Stand""
+- ""and yet"" is translated to ""und doch""
+- ""it is precisely for this reason"" is translated to ""dass es genau für diesen Grund""
+- ""that","Die historischen Landkarten des digitalen Bayern-Atlases, ein Angebot des Geoportals Bayern der Staatsregierung, sind alles andere als aktuell - doch gerade deshalb sehr aufschlussreich.",0.35952720046043396
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,Especially when one compares them with current online maps.,"Besonders wenn man sie mit aktuellen Online-Karten vergleicht.
+
+In this translation:
+
+- ""Especially"" is translated to ""Besonders""
+- ""when"" is translated to ""wenn""
+- ""one"" is translated to ""man""
+- ""compares"" is translated to ""vergleicht""
+- ""them"" refers to ""online maps""
+- ""with"" is translated to ""mit""
+- ""current"" is translated to ""aktuellen""
+- ""online maps"" is translated to ""Online-Karten""
+
+The sentence structure and grammar are also preserved in the translation. The adjective ""aktuellen"" is placed before the noun ""Online-Karten"" to agree with the gender and case in German. The conjunction ""wenn"" is used to introduce the dependent clause. The overall meaning of the sentence remains the same in both languages.",Besonders wenn man sie mit aktuellen Online-Karten vergleicht.,0.37152138352394104
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,Then it becomes clear how the towns and municipalities in the distribution area of Munich's Merkur newspaper have changed since the 19th century.,"Dann wird deutlich, wie sich die Städte und Gemeinden im Verbreitungsgebiet der Münchner Zeitung Merkur seit dem 19. Jahrhundert verändert haben.
+
+In this translation:
+
+- ""Then it becomes clear"" is translated to ""Dann wird deutlich,"" which conveys the same meaning of something becoming evident or clear.
+- ""how"" is translated to ""wie,"" which is used to introduce a comparison or explanation.
+- ""the towns and municipalities"" is translated to ""die Städte und Gemeinden,"" which refers to the urban areas and local administrative divisions.
+- ""in the distribution area"" is translated to ""im Verbreitungsgebiet,"" which indicates the geographical area where the newspaper is distributed.
+- ""of Munich's Merkur newspaper"" is translated to ""der Münchner Zeitung Merkur,"" which specifies the newspaper's name and its origin.
+- ""have changed"" is translated to ""verändert haben","Dann wird deutlich, wie sich Städte und Gemeinden im Verbreitungsgebiet des Münchner Merkur seit dem 19. Jahrhundert verändert haben.",0.3936384320259094
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,The digital BayernAtlas is a patchwork quilt that one doesn't quite recognise for what it is at first.,"Das digitale BayernAtlas ist ein Patchwork-Quilt, den man zunächst nicht ganz erkennt, was es ist.
+
+In this translation:
+
+- ""The digital BayernAtlas"" remains the same as it is a proper noun referring to a specific digital map or atlas.
+- ""is a patchwork quilt"" is translated to ""ist ein Patchwork-Quilt,"" where ""Patchwork-Quilt"" is a direct translation of ""patchwork quilt.""
+- ""that one doesn't quite recognize"" is translated to ""den man zunächst nicht ganz erkennt,"" where ""initially"" is translated to ""erstmals"" and ""doesn't quite recognize"" is translated to ""nicht ganz erkennt.""
+- ""what it is"" is translated to ""was es ist,"" where ""what it is"" is a direct translation of ""what it is.""
+
+The overall structure and grammar of the sentence are preserved in the translation, while the meaning is accurately conveyed","Der digitale Bayern-Atlas ist ein Flickenteppich, den man als solchen nicht gleich erkennt.",0.3498656749725342
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"Within the large overview map, were worked in detailed maps for towns and municipalities, so-called original-lay-of-the-land sheets.","Innerhalb des großen Überblickskartenwerks wurden detaillierte Karten für Städte und Gemeinden erstellt, sogenannte Original-L","In die große Übersichtskarte wurden für Städte und Gemeinden detailliertere Karten, sogenannte Urpositionsblätter, eingearbeitet.",0.7700768113136292
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"According to information from the Bavarian Surveying and Mapping Authority, these came into being between 1810 and 1864 and arise out of the first survey of Bavaria.","Laut Informationen der Bayerischen Vermessungs- und Kartographiebehörde entstanden diese zwischen 1810 und 1864 und entstehen aus dem ersten Vermessungswerk Bayerns.
+
+In this translation:
+
+- ""According to information from the Bavarian Surveying and Mapping Authority"" is translated to ""Laut Informationen der Bayerischen Vermessungs- und Kartographiebehörde"".
+- ""these"" is translated to ""diese"".
+- ""came into being"" is translated to ""entstanden"".
+- ""between 1810 and 1864"" is translated to ""zwischen 1810 und 1864"".
+- ""and arise out of"" is translated to ""und entstehen aus"".
+- ""the first survey of Bavaria"" is translated to ""dem ersten Vermessung",Diese entstanden nach Angaben der Bayerischen Vermessungsverwaltung zwischen 1810 und 1864 und entspringen der ersten Vermessung Bayerns.,0.39048272371292114
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,Their commissioner: Napoleon.,Ihr Kommissar: Napoleon.,Ihr Auftraggeber: Napoleon.,0.8505592942237854
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"The French army commander had occupied Bavaria since the spring in 1800, during the War of the Second Coalition with Austria.","Der französische Armeeführer hatte seit dem Frühling 1800 Bayern besetzt, während des Zweiten Koalitionskriegs mit Österreich.
+
+In this translation:
+
+- ""The French army commander"" is translated to ""Der französische Armeeführer""
+- ""had occupied"" is translated to ""hatte besetzt""
+- ""Bavaria"" remains the same as it is a proper noun
+- ""since the spring in 1800"" is translated to ""seit dem Frühling 1800""
+- ""during the War of the Second Coalition"" is translated to ""während des Zweiten Koalitionskriegs""
+- ""with Austria"" is translated to ""mit Österreich""
+
+The",Der französische Heeresführer besetzte Bayern seit dem Frühjahr 1800 während des Zweiten Koalitionskrieges mit Österreich.,0.3252292275428772
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,Napoleon wanted to gain an overview of the occupied land and commissioned a topographical survey – naturally for military purposes.,"Napoleon wollte einen Überblick über die besetzte Landschaft gewinnen und beauftragte eine topographische Erkundung – natürlich für militärische Zwecke.
+
+In this translation:
+
+- ""Napoleon"" remains the same as it is a proper noun.
+- ""wanted to gain an overview"" is translated to ""wollte einen Überblick über""
+- ""of the occupied land"" becomes ""über die besetzte Landschaft""
+- ""and commissioned"" translates to ""und beauftragte""
+- ""a topographical survey"" is translated as ""eine topographische Erkundung""",Napoleon wünschte sich einen Überblick über das besetzte Land und gab eine topographische Aufnahme Bayerns in Auftrag - natürlich zu militärischen Zwecken.,0.33121904730796814
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,Even if the French troops finally retreated with the Treaty of Lunéville from 9th February 1801: it was the current neighbours who had the idea to create a comprehensive map of Bavaria.,"Auch wenn die französischen Truppen am 9. Februar 1801 mit dem Vertrag von Lunéville zurückzogen: es waren die aktuellen Nachbarn, die die Idee hatten, ein umfassendes Kartenwerk von Bayern zu erstellen.
+
+In this translation:
+
+- ""Even if"" is translated to ""Auch wenn""
+- ""the French troops"" is translated to ""die französischen Truppen""
+- ""finally retreated"" is translated to ""mit dem Vertrag von Lunéville zurückzogen""
+- ""from 9th February 1801"" is translated to ""am 9. Februar 1801""
+- ""it was the current neighbours"" is translated to ""es waren die aktuellen Nachbarn""
+- ""who had the idea"" is translated to ""die die Idee hatten""
+- ""","Auch wenn die französischen Truppen mit dem Frieden von Lunéville vom 9. Februar 1801 schließlich abzogen: Es waren die heutigen Nachbarn, die die Idee einer flächendeckenden Bayern-Karte kreierten.",0.35600024461746216
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"Elector Max IV. Joseph propelled the project further forward, founding the ""Topographical Bureau"" – and with that, the Bavarian Surveying and Mapping Authority.","Max IV. Joseph trieb das Projekt weiter voran, gründete das ""Topographische Büro"" – und damit die Bayerische Vermessungs- und Kartographiebehörde.
+
+In this translation:
+
+- ""Elector Max IV. Joseph"" remains unchanged as it is a proper noun.
+- ""propelled the project further forward"" is translated to ""trieb das Projekt weiter voran,"" which maintains the original meaning of advancing the project.
+- ""founding"" is translated to ""gründete,"" which is the past tense of ""to found"" in German.
+- ""the Topographical Bureau"" is translated to ""das Topographische Büro,"" keeping the original term's meaning.
+- ""and with that"" is translated to ""und damit,"" which is a common phrase used to indicate a consequence or result.
+- ""the Bavarian Surveying and Mapping Authority"" is translated to","Kurfürst Max IV. Joseph trieb das Projekt weiter voran, gründete das ""Topographische Bureau"" - und damit die Bayerische Vermessungsverwaltung.",0.4474700093269348
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"The original lay-of-the-land sheet for Munich originates from 1856 and, like all the others, can be found on the website of the Bavarian State Library.","Das Originaltopographische Blatt für München stammt aus dem Jahr 1856 und, wie alle anderen, kann man auf der Website der Bayerischen Staatsbibliothek finden.
+
+In this translation:
+
+- ""The original lay-of-the-land sheet"" is translated to ""Das Originaltopographische Blatt""
+- ""for Munich"" is translated to ""für München""
+- ""originates from 1856"" is translated to ""stammt aus dem Jahr 1856""
+- ""and, like all the others,"" is translated to ""und, wie alle anderen,""
+- ""can be found"" is translated to ""kann man finden""
+- ""on the website"" is translated to ""auf der Website""
+- ""of the Bavarian State Library"" is translated to ""der Bayerischen Staatsbibliothek""
+
+The translation maintains the original meaning and context of the text. The",Das Urpositionsblatt für München stammt aus dem Jahr 1856 und ist wie sämtliche andere auf der Internetseite der Bayerischen Landesbibliothek zu finden.,0.36357414722442627
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,The comparison of past/present is most impressive taking the example of the state capital.,"Die Vergleichung von Vergangenheit und Gegenwart ist am Beispiel der Hauptstadt des Staates am eindrucksvollsten.
+
+In this translation:
+
+- ""The comparison of past/present"" is translated to ""Die Vergleichung von Vergangenheit und Gegenwart"".
+- ""is most impressive"" is translated to ""ist am eindrucksvollsten"".
+- ""taking the example of"" is translated to ""am Beispiel der"".
+- ""the state capital"" is translated to ""der Hauptstadt des Staates"".
+
+The sentence structure and grammar are also preserved in the translation. The subject (""The comparison"") comes first, followed by the verb (""is"") and the predicate (""am eindrucksvollsten am Beispiel der Hauptstadt des Staates""). The prepositional phrase ""von Vergangenheit und Gegenwart"" is used to express the comparison between past and present. The preposition ""am"" is used before the noun phrase ""eindrucksvollsten am Beispiel der Hauptstadt des Sta",Der Vergleich Früher/Heute ist am Beispiel der Landeshauptstadt am eindrücklichsten.,0.37630322575569153
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,The city has stretched out in all directions and coalesced.,"Die Stadt hat sich wie ein Wachstumszentrum ausgebreitet und sich wie ein Gürtel um sich selbst geschlossen, symbolisierend den dynamischen Prozess der urbanisierung, der sich in allen Richtungen ausbreitet und sich selbst umschließt.
+
+In this translation, the metaphor ""wie ein Wachstumszentrum"" (like a growth center) evokes the idea of a",Die Stadt hat sich in alle Richtungen ausgedehnt und ist zusammengewachsen.,0.444161057472229
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"An example of this is Untersendling, which still appears relatively isolated on the map from 1856.","Sobald die Analyse abgeschlossen ist, können wir beginnen","Ein Beispiel dafür ist Untersendling, das in der Karte von 1856 noch relativ isoliert auftaucht.",0.45621880888938904
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,Sendling was incorporated as an urban district of Munich 21 years after the map was created.,Die,"Sendling wurde 21 Jahre nach Erstellung der Karte, also 1877, als Münchner Stadtteil eingemeindet.",0.26032188534736633
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"Today, Untersendling lies in the middle of the city.",Heute liegt Untersendling in der Mitte der Stadt.,Heute liegt Untersendling mitten in der Stadt.,0.9463474154472351
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"Around 1856, Untersendling's houses are concentrated along what is today Plinganserstraße, which was first named in 1878 after Georg Sebastian Plinganser, a ringleader of the Bavarian farmers' revolt against Austria in 1705.","Circa 1856 befanden sich die Häuser von Untersendling entlang des heutigen Plinganserstraße, der 1878 erstmals nach Georg Sebastian Plinganser benannt wurde, einem Anführer der bayerischen Bauernaufstände gegen Österreich im Jahr 1705.
+
+In this translation:
+
+- ""Around 1856"" is translated to ""Circa 1856""
+- ""Untersendling's houses"" is translated to ""die Häuser von Untersendling""
+- ""are concentrated along"" is translated to ""sind entlang""
+- ""what is today"" is translated to ""des heutigen""
+- ""Plinganserstraße"" remains the same as it is a proper n","Die Häuser Untersendlings konzentrieren sich um 1856 entlang der heutigen Plinganserstraße, die erst 1878 nach Georg Sebastian Plinganser benannt wurde, einem Anführer des Aufstands der bayerischen Bauern gegen Österreich 1705.",0.3969222903251648
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"Where the West Park is today, one sees nothing but field – at first sight: upon zooming in, a more detailed small-scale map with dozens of lines and numbers appears: hand-numbered plots from the so-called ""original record"", from which the property tax was derived.","Wo heute das Westpark ist, sieht man zunächst nur noch Felder – bei genauerer Betrachtung, tritt ein detailliertes kleines Maßstabsmodell mit Hunderten von Linien und Zahlen zutage: handnummerierte Parzellen aus dem so genannten ""Ursprungsregister"", aus dem sich die Grundsteuer ableitet.
+
+In this translation:
+
+- ""Where the West Park is today"" is translated to ""Wo heute das Westpark ist"".
+- ""one sees nothing but field"" is translated to ""sieht man zunächst nur noch Felder"".
+- ""at first sight"" is translated to ""bei genauerer Betrachtung"".
+- ""upon zooming in"" is translated to ""tritt ein detailliertes kleines Maßstab","Wo heute der Westpark ist, sieht man nichts als Felder - auf den ersten Blick: Beim Hineinzoomen erscheint eine kleinteiligere Karte mit dutzenden Linien und Zahlen: handschriftlich nummerierte Flurstücke aus der sogenannten ""Uraufnahme"", aus der die Grundsteuer abgeleitet wurde.",0.47172123193740845
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"Today, it is no longer farmers who occupy small parcels there – rather, it is allotment holders of the ""Land in Sonne"" facility.","Heute sind es nicht mehr die Bauern, die auf kleinen Parzellen dort siedeln – vielmehr sind es die Allotment-Halter des ""Land in Sonne""-Feldes.
+
+In this translation:
+
+- ""Today"" is translated to ""Heute""
+- ""it is no longer"" is translated to ""sind es nicht mehr""
+- ""farmers"" is translated to ""die Bauern""
+- ""who occupy"" is translated to ""die siedeln""
+- ""small parcels"" is translated to ""kleinen Parzellen""
+- ""there"" is translated to ""dort""
+- ""rather"" is translated to ""vielmehr""
+- ""it is"" is translated to ""sind es""
+- ""allotment holders"" is translated to ""Allotment-Halter""
+- ""of the"" is translated to ""des""","Kleine Parzellen belegen dort heute keine Landwirte mehr - sondern Kleingärtner der Anlage ""Land in Sonne"".",0.3014375865459442
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,A large green area is apparent to the north of Untersendling.,Ein großer grüner Bereich ist sichtbar nördlich von Untersendling.,Eine große Grünfläche zeichnet sich nördlich von Untersendling ab.,0.9218625426292419
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"Theresienwiese, since 1810 the scene of Oktoberfest, was in the 19th century still actually a ""Wiese"" – a meadow – and not a concrete wasteland.","Die Theresienwiese, seit 1810 Schauplatz des Oktoberfests, war im 19. Jahrhundert noch tatsächlich eine ""Wiese"" – ein Feld – und kein konstruiertes Ackerland.
+
+In this translation:
+
+- ""Theresienwiese"" remains unchanged as it is a proper noun (the name of a place).
+- ""seit 1810"" translates to ""seit 1810"" which means ""since 1810"".
+- ""the scene of Oktoberfest"" translates to ""Schauplatz des Oktoberfests"" which maintains the meaning of a location associated with Oktoberfest.
+- ""was in the 19th century"" translates to ""war im 19. Jahrhundert"" which refers to the time period of the 19th century.
+- ""still","Die Theresienwiese, seit 1810 Schauplatz des Oktoberfests, war im 19. Jahrhundert tatsächlich noch eine Wiese - und keine Betonwüste.",0.4300285577774048
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"On the other side of the Isar, the historical map gives an insight into the history of psychiatric medicine.",Translate the following text from en to de: The historical map not,Auf der anderen Seite der Isar gibt die historische Karte einen Einblick in die Geschichte der psychiatrischen Medizin.,0.2532067894935608
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"In the original lay-of-the-land sheet, in the area where today the borough of Au-Haidhausen is, one can make out not only the street name ""am Gasteig"" or the elevation ""Auf der Lüften"" – but can actually read in large letters ""mental asylum"".","Auf dem Original-Landschaftsplan kann man nicht nur die Straßennamen ""am Gasteig"" oder die Höhe ""Auf der Lüften"" erkennen – sondern kann auch in großen Buchstaben ""Irrenanstalt"" lesen.
+
+In this translation:
+
+- ""In the original lay-of-the-land sheet"" is translated to ""Auf dem Original-Landschaftsplan"".
+- ""in the area where today the borough of Au-Haidhausen is"" is translated to ""wo heute der Stadtteil Au-Haidhausen liegt"".
+- ""one can make out"" is translated to ""man kann erkennen"".
+- ""not only the street name 'am Gasteig'"" is translated to ""nicht nur die Straßennamen 'am G","Im Urpositionsblatt liest man im Gebiet des heutigen Bezirks Au-Haidhausen nicht nur den Straßennamen ""am Gasteig"" oder von der Anhöhe ""Auf der Lüften"" - sondern auch in großen Buchstaben ""Irren Anstalt"".",0.41890981793403625
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"Yes, here on Auerfeldstraße, they once imprisoned people with delusions.","Translate the following text from en to de: Yes, here on Auer","Ja, hier an der Auerfeldstraße sperrte man einst Menschen mit Wahnvorstellungen ein.",0.23068785667419434
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"The Munich district mental asylum ""Auf der Auer Lüften"" had come to life there in 1858/59.","Das Münchner Bezirksirrenanstalt ""Auf der Auer Lüften"" wurde dort 1858/59 zum Leben erweckt.
+
+In this translation:
+
+- ""The Munich district mental asylum"" is translated to ""Das Münchner Bezirksirrenanstalt""
+- ""Auf der Auer Lüften"" is a proper noun and remains the same in German.
+- ""had come to life there"" is translated to ""wurde dort zum Leben erweckt""
+- ""in 1858/59"" is translated to ""1858/59""
+
+The structure of the sentence is maintained, and the translation accurately conveys the original meaning.","Dort war 1858/59 die Münchner Kreis-Irrenanstalt ""Auf der Auer Lüften"" entstanden.",0.3677408993244171
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"From 1872, Dr. Bernhard von Gudden led the institution – the psychiatrist who is associated with the death of King Ludwig II.","## Instruction: Translate the following text from en to de, ensuring to maintain the technical","Ab 1872 leitete Dr. Bernhard von Gudden die Einrichtung - jener Psychiater, der in Zusammenhang mit dem Tod von König Ludwigs II. gebracht wird.",0.2843308746814728
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"""He was progressive for his time and ended, for example, the practice of chaining up the so-called mad men.","""Sie war eine Pionierin im Bereich der Frauenrechte, die für das Wahlrecht und gleiche Bez","""Er war fortschrittlich für seine Zeit und beendete zum Beispiel das Anketten der sogenannten Irren.",0.4626050591468811
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"What is more, he forbade the staff from using violence against the inmates,"" says Hermann Wilhelm, leader of the Haidhausen Museum, which has been busying itself for an exhibition with the establishment.","Was noch mehr, verbot der Leiter des Haidhausener Museums, Hermann Wilhelm, den Personal von Gewalt gegen die Insassen zu verwenden, sagt er, während das Museum sich auf eine Ausstellung mit der Einrichtung vorbereitet.
+
+In this translation:
+
+- ""What is more"" is translated to ""Was noch mehr""
+- ""he forbade"" is translated to ""verbot er""
+- ""the staff from using violence against the inmates"" is translated to ""den Personal von Gewalt gegen die Insassen zu verwenden""
+- ""Hermann Wilhelm, leader of the Haidhausen Museum"" is translated to ""Hermann Wilhelm, Leiter des Haidhausener Museums""
+- ""which has been busy itself for an exhibition with the establishment"" is translated to ""das Museum sich auf eine Ausstellung mit der Einrichtung vorbereitet""
+
+The sentence structure and grammar are also","Außerdem hat er dem Personal untersagt, Gewalt gegen die Insassen anzuwenden"", sagt Hermann Wilhelm, Leiter des Museums Haidhausen, der sich für eine Ausstellung mit der Anstalt beschäftigt hat.",0.31116366386413574
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,Originally there was place for 280 patients; later this was expanded to 500 places.,"Die Forscher sind zuversichtlich, dass das neue Medikament die Symptome um mindestens","Für 280 Patienten war zunächst Platz gewesen, später wurde auf 500 Plätze erweitert.",0.3713483214378357
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,At some point even this capacity was no longer enough – the reason why the district mental asylum in Haar was constructed in 1905.,"An der einen Zeitpunkt war auch diese Kapazität nicht mehr ausreichend – der Grund, warum die Bezirksklinik für Geisteskranke in Haar 1905 errichtet wurde.
+
+In this translation:
+
+- ""At some point"" is translated to ""An der einen Zeitpunkt""
+- ""even this capacity"" is translated to ""war auch diese Kapazität""
+- ""was no longer enough"" is translated to ""war nicht mehr ausreichend""
+- ""the reason why"" is translated to ""der Grund, warum""
+- ""the district mental asylum in Haar"" is translated to ""die Bezirksklinik für Geisteskranke in Haar""
+- ""was constructed in 1905"" is translated to ""wurde 1905 errichtet""
+
+The sentence structure and grammar have been adjusted to fit the German language while maintaining the original meaning.",Irgendwann reichte auch diese Kapazität nicht mehr aus - der Grund für den Bau der Kreisirrenanstalt in Haar 1905.,0.3820301592350006
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"The Isar Amper Clinic, East Munich, has been located there since 2006, one of the largest psychiatric units in Germany.",Seit ihrer Gründung im Jahr 2006 hat sich die Isar Amper Klinik als führende Institution in der psych,"Dort befindet sich seit 2006 das Isar-Amper-Klinikum München-Ost, eine der größten Psychiatrien Deutschlands.",0.4329496920108795
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"On the plot of the former Auer institution, young people now meet in the Munich Salesianum.",Das ehemal,Auf dem Areal der ehemaligen Auer Anstalt begegnen sich nun Jugendliche im Münchner Salesianum.,0.2957402467727661
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,The order acquired the building complex in 1920 and converted it into a youth centre with training programmes.,"Die Ordnung erwarb den Gebäudekomplex im Jahr 1920 und wandelte ihn in ein Jugendzentrum mit Ausbildungsprogrammen um.
+
+The translation provided is accurate and conveys the meaning of the original English text. Here's a breakdown of the",Der Orden erwarb den Gebäudekomplex 1920 und wandelte ihn in ein Jugendheim mit Ausbildungsbetrieben um.,0.5620555877685547
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"To the west lies the football pitch of TSV München Ost, and to the east, residential houses from the 1980s.","Im Herzen der Stadt steht das alte Bibliothek als Leuchtfeuer des Wissens, seine Wände hallen mit den Flüst","Westlich liegt der Fußballplatz des TSV München Ost, östlich Wohnhäuser aus den 1980er Jahren.",0.31979474425315857
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"In 2015, the ""Casa Don Bosco"" nursery was built – in the architectural style of the original mental asylum building, which had been destroyed in the Second World War in bomb attacks.","Translate the following text from en to de: The ""Casa Don Bosco""","2015 errichtete man das Kinder-Haus ""Casa Don Bosco"" - in architektonischer Anlehnung an den Ursprungsbau der Irrenanstalt, der im Zweiten Weltkrieg bei Bombenangriffen zerstört worden war.",0.2702191472053528
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"Marienplatz was recorded as the ""main square"" in around 1856, and Kaufingerstraße was called ""Kaufinger Gasse"".","Der Platz wurde nach der Jungfrau Maria benannt, und die Straße nach der","Der Marienplatz war um 1856 als ""Haupt Platz"" verzeichnet, die Kaufingerstraße hieß ""Kaufinger Gasse"".",0.4732345640659332
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,The Second World War also brought a decisive change to the heart of Munich.,"Der Zweite Weltkrieg brachte auch in der Herzen Münchens eine entscheidende Veränderung mit sich.
+
+In this translation:
+
+- ""The Second World War"" is translated to ""Der Zweite Weltkrieg"".
+- ""also brought"" is translated to ""brachte auch"".
+- ""a decisive change"" is translated to ""eine entscheidende Veränderung"".
+- ""to the heart of Munich"" is translated to ""in der Herzen Münchens"".
+- ""with itself"" is translated to ""mit sich"".
+
+The structure of the sentence remains the same in German, with the subject (""Der Zweite Weltkrieg"") followed by the verb (""brachte auch"") and",Eine entscheidende Veränderung brachte der Zweite Weltkrieg auch im Herzen Münchens.,0.3396036624908447
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,The bombs of the Allies tore many holes in the city centre in December 1944.,"Die Bomben der Alliierten zerrissen viele Löcher in der Stadtmitte im Dezember 1944.
+
+In this translation:
+
+- ""The bombs of the Allies"" is translated to ""Die Bomben der Alliierten""
+- ""tore"" is translated to ""zerrissen""
+- ""many holes"" is translated to ""viele Löcher""
+- ""in the city centre"" is translated to ""in der Stadtmitte""
+- ""in December 1944"" is translated to ""im Dezember 1944""
+
+The sentence structure and grammar are also preserved in the translation.",Die Bomben der Alliierten rissen im Dezember 1944 viele Löcher in die Innenstadt.,0.3238469362258911
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,One big one remains up to this day – at the Marienhof.,"Ein großer bleibt bis heute am Marienhof – es ist noch eines.
+
+The translation provided is accurate and conveys the meaning of the original English sentence in German. Here's a breakdown of the translation:
+
+- ""One big one"" translates to ""Ein großer"" in German, where ""ein"" is the indefinite article for masculine nouns, and ""großer"" is the comparative form of ""groß"" (big).
+- ""remains"" translates to ""bleibt"" in German, which is the third person singular present tense form of the verb ""bleiben"" (to remain).
+- ""up to this day"" translates to ""bis heute"" in German, where ""bis"" means ""until"" or ""up to,"" and """,Ein großes blieb bis heute - am Marienhof.,0.3260594606399536
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,"The English Institute, small commercial premises and a crypt chapel from the Middle Ages once stood in the Marienhof, where these days, preparations for the second S-Bahn main line are underway, with first digging to follow on 5th April 2017.","Das englische Institut, kleine gewerbliche Räume und eine mittelalterliche Krypta standen einst im Marienhof, wo heute die Vorbereitungen für die zweite Hauptstrecke der S-Bahn laufen, mit ersten Ausschachtungen am 5. April 2017.
+
+In this translation:
+
+- ""The English Institute"" is translated to ""Das englische Institut"".
+- ""small commercial premises"" is translated to ""kleine gewerbliche Räume"".
+- ""and a crypt chapel from the Middle Ages"" is translated to ""und eine mittelalterliche Krypta"".
+- ""once stood"" is translated to ""standen einst"".
+- ""in the Marienhof"" is translated to ""im Marienhof"".
+- ""where","Das Englische Institut, kleine Geschäftshäuser und eine Gruftkapelle aus dem Mittelalter standen einst am Marienhof, wo dieser Tage die Vorarbeiten und am 5. April 2017 der Spatenstich für die zweite S-Bahn-Stammstrecke erfolgen.",0.3775140345096588
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,You can use the slider control to compare the old Munich map with the aerial view from today – and to fill in the hole at the Marienhof.,"Sie können die Schiebe-Steuerung verwenden, um die alte München-Karte mit dem heutigen Luftbild zu vergleichen – und das Loch am Marienhof zu füllen.
+
+In this translation:
+
+- ""You can use"" is translated to ""Sie können verwenden""
+- ""the slider control"" is translated to ""die Schiebe-Steuerung""
+- ""to compare"" is translated to ""um zu vergleichen""
+- ""the old Munich map"" is translated to ""der alten München-Karte""
+- ""with"" is translated to ""mit""
+- ""the aerial view from today"" is translated to ""dem heutigen Luftbild""
+- ""and to fill in"" is translated to ""und das Loch zu füllen""
+- ""the hole at the Marienhof"" is translated to ""das Loch am Marienhof""
+
+The sentence structure and grammar are also preserved in",Mit dem Schieberegler lässt sich die alte München-Karte mit dem Luftbild von heute vergleichen - und das Loch am Marienhof auffüllen.,0.36785754561424255
+translations_Phi-3.5-mini-instruct_de-en_reverse.csv,Phi-3.5-mini-instruct,de-en,de,en,reverse,Civil rights group issues travel warning for Missouri,"Bürgerrechtsgruppe gibt für Missouri Reisewarnung heraus
+
+Here is the translation process:
+
+1. Identify the key phrases and words in the original English text:
+ - Civil rights group
+ - issues
+ - travel warning
+ - for Missouri
+
+2. Translate each key phrase and word into German:
+ - Civil rights group: Bürgerrechtsgruppe
+ - issues: gibt heraus
+ - travel warning: Reisewarnung
+ - for Missouri: für Missouri
+
+3. Arrange the translated phrases and words in a grammatically correct sentence structure in German:
+ Bürgerrechtsgruppe gibt für Missouri Reisewarnung heraus
+
+The final translated sentence is: Bürgerrechtsgruppe gibt für Missouri Reisewarnung heraus.",Bürgerrechtsgruppe veröffentlicht Reisewarnung für Missouri,0.3874398171901703

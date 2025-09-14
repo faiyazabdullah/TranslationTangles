@@ -1,0 +1,522 @@
+﻿file,model,lang_pair,src_lang,tgt_lang,direction,source,translation,reference,COMET
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Elections européennes: Objectifs, financement...","Europawahlen: Ziele, Finanzierung...
+
+Hier ist eine mögliche Übersetzung des restlichen Textes:
+
+- ""Elections européennes"" könnte auch als ""Europawahlen"" übersetzt werden.
+- ""Objectifs"" könnte auch als ""Ziele"" übersetzt werden.
+- ""financement"" könnte auch als ""Finanzierung"" übersetzt werden.
+
+Wenn Sie mir den restlichen Text geben, kann ich Ihnen eine vollständige Übersetzung anbieten.","Europawahlen: Ziele, Finanzierung...",0.4602857232093811
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Quatre questions autour de la candidature de la liste «gilets jaunes».,"Vier Fragen zur Kandidatur der Liste ""Gelbe Westen"".
+
+Wenn Sie möchten, dass ich die restlichen Fragen übersetze, bitte ich um die Fortsetzung des Textes.","Vier Fragen zur Listenaufstellung der ""Gelbwesten"".",0.5064519047737122
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Des « gilets jaunes » ont annoncé mercredi qu’ils se lançaient pour les élections européennes.,"Die ""Gelbwesten"" haben sich am Mittwoch bekannt gegeben, dass sie sich für die Europawahlen stellen werden.
+
+Hinweis: ""Gilets jaunes"" ist eine französische Bewegung, die sich durch ihre gelben Westen auszeichnet. In Deutschland wird diese Bewegung oft als ""Gelbwesten"" bezeichnet.","Die ""Gelbwesten"" haben am Mittwoch ihre Teilnahme an den Europawahlen bekanntgegeben.",0.6547588109970093
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"La liste n’est aujourd’hui composée que de 10 noms, sur les 79 prévus.","Die Liste besteht heute nur aus 10 Namen, von den ursprünglich vorgesehenen 79.
+
+Hinweis: Die Übersetzung ist wörtlich und kann je nach Kontext und Nuance leicht angepasst werden.",Bis jetzt stehen nur 10 der 79 vorgesehenen Kandidaten fest.,0.6076205372810364
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Contrairement à ce qu’ils ont annoncé, les candidats ne devraient pas pouvoir se financer par crowdfunding.","Im Gegensatz zu dem, was sie angekündigt haben, sollten die Kandidaten nicht in der Lage sein, sich durch Crowdfunding zu finanzieren.
+
+Hinweis: ""Crowdfunding"" ist ein englischer Begriff, der in vielen Sprachen verwendet wird. In Deutschland wird oft ""Crowdfunding"" oder ""Crowd-Financing"" verwendet, in Österreich und der Schweiz ""Crowdfunding"" oder ""Crowdfunding-Plattformen"".","Entgegen erster Ankündigungen ist es den Kandidaten wahrscheinlich nicht möglich, sich durch Crowdfunding selbst zu finanzieren.",0.525175929069519
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Ingrid Levavasseur devrait mener la liste «gilets jaunes» aux européennes.,"Die Übersetzung des französischen Textes in Deutsch lautet:
+
+Ingrid Levavasseur sollte die Liste ""Gilets Jaunes"" bei den Europawahlen anführen.
+
+Hinweis: ""Gilets Jaunes"" ist ein Begriff, der in Deutschland nicht direkt übersetzt werden kann. Es handelt sich um eine Bewegung, die sich für soziale Gerechtigkeit und gegen die Ungleichheit einsetzt. Der Name ""Gilets Jaunes"" bezieht sich auf die gelben Sicherheitswesten, die die Demonstranten trugen. In Deutschland wird die Bewegung oft als ""Gelbe Westen"" oder ""Gelbe Jacken"" bezeichnet.","Ingrid Levavasseur soll die Liste der ""Gelbwesten"" für die Europa-Wahl anführen.",0.6257584095001221
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,De la rue aux urnes.,"Die Straße in die Wahlurne.
+
+(Note: This is a common French expression, often used to describe the transition from the streets (where protests or demonstrations take place) to the ballot boxes, where people exercise their right to vote.)",Von der Straße zu den Urnen.,0.4482487440109253
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Des «gilets jaunes» ont annoncé mercredi qu’ils se lançaient pour les élections européennes.,"Die ""Gelbwesten"" haben sich am Mittwoch bekannt gegeben, dass sie sich für die Europawahlen stellen werden.","Die ""Gelbwesten"" haben am Mittwoch ihre Teilnahme an den Europawahlen angekündigt.",0.741924524307251
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Dans un communiqué, le « ralliement d’initiative citoyenne » (RIC) diffuse un embryon de liste comprenant dix noms.","Übersetzung:
+
+In einer Erklärung verbreitet der ""Bürgerinitiativ-Bündnis"" (RIC) einen embryonalen Kandidatenliste mit zehn Namen.
+
+Hinweis: ""Ralliement d'initiative citoyenne"" ist ein französischer Begriff, der nicht direkt übersetzt werden kann. Ein möglicher Ansatz wäre ""Bürgerinitiativ-Bündnis"" oder ""Bürgerinitiative-Allianz"".","In einer Erklärung stellt die ""Ralliement d’initiative citoyenne"" (RIC) einen ersten Listenentwurf mit zehn Namen vor.",0.6360482573509216
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"A leur tête: Ingrid Levavasseur, une aide-soignante normande de 31 ans, qui est l’une des figures du mouvement.","Über ihnen: Ingrid Levavasseur, eine 31-jährige Pflegehelferin aus Normandie, die eine der Figuren des Bewegungs ist.
+
+Hinweis: ""A leur tête"" bedeutet wörtlich ""auf ihrem Kopf"", aber in diesem Kontext bedeutet es ""an der Spitze"" oder ""an der Führung"". Die Übersetzung ""Über ihnen"" ist eine mögliche Alternative, aber ""An der Spitze"" oder ""An der Führung"" wäre eine genauere Übersetzung.","An ihrer Spitze: Ingrid Levavasseur, eine 31-jährige Krankenpflegehelferin aus der Normandie und eine der Hauptfiguren der Bewegung.",0.473482221364975
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,20 Minutes revient sur les questions que pose cette candidature.,"20 Minuten geht auf die Fragen ein, die diese Kandidatur aufwirft.
+
+Hinweis: ""20 Minutes"" ist ein Schweizer Nachrichtenmagazin und wird in Deutschland als ""20 Minuten"" bezeichnet, während es in Frankreich als ""20 Minutes"" bezeichnet wird.","20 Minuten wendet sich den Fragen zu, die sich durch diese Kandidatur stellen.",0.5445522665977478
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Pourquoi se lancer aux européennes?,"Warum sich den Europawahlen stellen?
+
+Hinweis: ""Europawahlen"" ist die deutsche Übersetzung für ""européennes"".",Warum sollte man an der Europa-Wahl teilnehmen?,0.49531033635139465
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Dans son communiqué, le RIC, qui reprend l’acronyme du « référendum d’initiative citoyen » défendu par certains « gilets jaunes », se présente comme « une coordination issue de différentes initiatives » du mouvement de contestation.","Hier ist die Übersetzung ins Deutsche:
+
+In seinem Kommuniqué stellt sich der RIC, der den Akronym des ""Bürgerbezugsreferendum"" übernimmt, das von einigen ""Gelbwesten"" verteidigt wird, als ""eine Koordination aus verschiedenen Initiativen"" des Protestbewegung dar.
+
+Hinweis: ""Gelbwesten"" ist eine direkte Übersetzung von ""gilets jaunes"", die sich auf die Protestbewegung in Frankreich bezieht, bei der Demonstranten Gelbwesten trugen.","Der RIC , der auch von einigen Gelbwesten unterstützt wird, firmiert unter der Bezeichnung ""Référendum d'initiative citoyen"" und stellt sich selbst als ""ein Zusammenschluss verschiedener Initiativen"" der Protestbewegung dar.",0.6269245147705078
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Pourquoi ces manifestants se lancent-ils en politique? Le mouvement fait « apparaître la nécessité de transformer la colère en un projet politique humain, capable d’apporter des réponses aux Français qui soutiennent le mouvement des ""gilets jaunes"" depuis des mois », disent-ils.","Warum werfen sich diese Demonstranten in die Politik? Der Bewegung zufolge ""zeigt sich die Notwendigkeit, die Wut in ein menschliches politisches Projekt zu verwandeln, das in der Lage ist, Antworten auf die Franzosen zu geben, die den ""Gelbwesten""-Bewegung seit Monaten unterstützen"", sagen sie.
+
+Hinweis: ""Gilets jaunes"" wird in der deutschen Übersetzung oft als ""Gelbwesten"" bezeichnet, da ""Gilet jaune"" wörtlich ""gelbe Weste"" bedeutet.","Warum wollen diese Demonstranten in die Politik? Sie sagen, ihre Bewegung habe gezeigt, dass es notwendig ist, die Wut in eine Politik für die Menschen umzuwandeln, die jenen Franzosen, welche die Gelbwesten seit Monaten unterstützen, Antworten geben kann.",0.6188538670539856
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Nous, citoyens français, ne voulons plus subir les décisions des instances européennes et les diktats des castes de financiers et de technocrates, qui ont oublié le principal: l’humain, la solidarité et la planète », écrit le RIC, affirmant que ses éventuels eurodéputés auront « avant tout, la mission de porte-parole des citoyens qui seront consultés tout au long du mandat ».","""Wir, französische Bürger, wollen nicht mehr den Entscheidungen der europäischen Institutionen und den Diktaten der Finanz- und Technokratencasten ausgesetzt sein, die das Wichtigste vergessen haben: den Menschen, die Solidarität und die Erde"", schreibt der RIC, behauptend, dass seine möglichen EU-Abgeordneten ""vor allem die Mission haben, die Stimmen der Bürger zu vertreten, die während der gesamten Amtszeit konsultiert werden"".
+
+Oder in einer anderen Übersetzung:
+
+""Wir, französische Bürger, wollen nicht länger den Entscheidungen der europäischen Institutionen und den Diktaten der Finanz- und Technokratencasten ausgesetzt sein, die das Wichtigste vergessen haben: den Menschen, die Solidarität und die Erde"", schreibt der RIC, betont, dass seine möglichen EU-Abgeordneten ""vor allem die Aufgabe haben, die Stimmen der Bürger zu vertreten, die während der gesamten Amtszeit konsultiert werden"".","""Wir als französische Bürger wollen nicht länger die Entscheidungen der europäischen Behörden und die Diktate der Finanz-Elite und der Bürokraten hinnehmen, die das Wichtigste vergessen haben: Den Menschen, die Solidarität und unseren Planeten"", schreibt der RIC. Mögliche Abgeordnete sollten ""vor allem ein Sprachrohr der Bürger sein, an die sich die Wähler während der gesamten Wahlperiode wenden können"".",0.7256981730461121
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Qui pour composer la liste? Seuls 10 noms ont pour le moment été dévoilés.,"Übersetzung:
+
+Wer wird die Liste zusammenstellen? Bislang sind nur 10 Namen bekannt.
+
+Hinweis: Die Übersetzung ist sehr direkt und könnte je nach Kontext und Stil leicht angepasst werden.",Wer soll die Liste aufstellen? Bis jetzt wurden nur 10 Namen bekannt gegeben.,0.6855776309967041
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Les candidats ont entre 29 et 53 ans, avec des professions variées (chef de petite entreprise, cariste, juriste, mère au foyer ou encore fonctionnaire).","Die Kandidaten haben zwischen 29 und 53 Jahren, mit verschiedenen Berufen (Unternehmer, Künstler, Jurist, Hausfrau oder noch Beamter).
+
+Hinweis: 
+- ""mère au foyer"" wird in der Übersetzung als ""Hausfrau"" wiedergegeben, da ""Hausfrau"" in diesem Kontext eine passende Übersetzung ist. 
+- ""fournisseur"" wird in der Übersetzung als ""Beamter"" wiedergegeben, da ""Beamter"" in diesem Kontext eine passende Übersetzung ist.","Die Kandidaten sind zwischen 29 und 53 Jahre alt und kommen aus verschiedenen Berufsgruppen (Kleinunternehmer, Busfahrer, Juristen, Hausfrauen oder Beamte).",0.5021792650222778
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Reste à trouver les 69 autres candidats pour compléter la liste.,"Es bleibt noch zu finden, die 69 anderen Kandidaten, um die Liste zu vervollständigen.
+
+Alternativ:
+Es müssen noch 69 weitere Kandidaten gefunden werden, um die Liste zu vervollständigen.
+
+Beide Übersetzungen sind korrekt, aber die erste Option ist vielleicht ein bisschen direkter und einfacher.","Um die Liste zu vervollständigen, müssen noch 69 weitere Kandidaten gefunden werden.",0.5910053849220276
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« On pourrait très bien avoir 79 candidats dès aujourd’hui, mais on a choisi d’ouvrir au participatif. Il y aura une votation interne entre les candidats actuels pour désigner les autres places », a assuré à l’AFP Hayk Shahinyan.","""Man könnte sehr gut bereits heute 79 Kandidaten haben, aber wir haben beschlossen, das Teilnahmefähige zu öffnen. Es wird eine interne Abstimmung zwischen den aktuellen Kandidaten geben, um die anderen Plätze zu besetzen"", sagte Hayk Shahinyan der AFP.
+
+Hinweis: Ich habe versucht, den Text so genau wie möglich zu übersetzen. Es ist jedoch möglich, dass es kleine Nuancen gibt, die bei einer direkten Übersetzung verloren gehen.","""Wir könnten schon heute 79 Kandidaten haben, aber wir haben beschlossen, unsere Mitglieder darüber abstimmen zu lassen. Es wird eine interne Abstimmung unter den derzeitigen Kandidaten geben, um die verbleibenden Listenplätze zu besetzen "", versicherte AFP-ler Hayk Shahinyan.",0.6700888276100159
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Cet appel à candidatures doit être ouvert « à tous les citoyens ».,"Die Stellenausschreibung muss offen für ""alle Bürger"" sein.
+
+Hinweis: Eine bessere Übersetzung wäre:
+Die Stellenausschreibung muss offen für ""alle Staatsbürger"" sein.
+
+""Alle Bürger"" ist eine etwas ungenaue Übersetzung, da ""bürgerlich"" in Deutschland oft mit ""bürgerlich"" im Sinne von ""bürgerlich"" (im Gegensatz zu ""aristokratisch"") übersetzt wird. In diesem Kontext ist jedoch ""Staatsbürger"" die richtige Übersetzung.","Dieser Bewerbungsaufruf soll ""für alle Bürger"" offen sein.",0.5006235241889954
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Comment cette liste a-t-elle été accueillie?,"Die Übersetzung des französischen Textes lautet:
+
+ Wie wurde diese Liste aufgenommen?",Wie wurde diese Liste angenommen?,0.5927367806434631
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Le porte-parole du gouvernement, Benjamin Griveaux, a estimé ce jeudi qu’il s’agissait d’un « processus intéressant ».","Der Regierungssprecher, Benjamin Griveaux, hat am Donnerstag angegeben, dass es sich um einen ""interessanten Prozess"" handelte.
+
+Hinweis: 
+- ""Le porte-parole du gouvernement"" wird mit ""Der Regierungssprecher"" übersetzt.
+- ""Benjamin Griveaux"" bleibt im Original, da es sich um einen Namen handelt.
+- ""ce jeudi"" wird mit ""am Donnerstag"" übersetzt.
+- ""estimé"" wird mit ""angegeben"" übersetzt.
+- ""qu'il s'agissait d'un"" wird mit ""dass es sich um einen"" übersetzt.
+- ""processus intéressant"" wird mit ""interessanten Prozess"" übersetzt.","Regierungssprecher Benjamin Griveaux erklärte am Donnerstag, das sei ein ""interessanter Vorgang"".",0.398739755153656
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Les chefs de file des sénateurs et députés LR, Bruno Retailleau et Christian Jacob, ont aussi salué « une bonne initiative ».","Die Vorsitzenden der Senatoren und Abgeordneten der LR, Bruno Retailleau und Christian Jacob, haben auch eine ""gute Initiative"" gelobt.
+
+Hinweis: 
+- LR ist die Abkürzung für Les Républicains, eine französische politische Partei.
+- Eine bessere Übersetzung wäre ""Die Vorsitzenden der Senatoren und Abgeordneten der Républicains, Bruno Retailleau und Christian Jacob, haben auch eine 'gute Initiative' gelobt.""","Die Fraktionsvorsitzenden der Republikaner im Senat und in der Abgeordnetenkammer, Bruno Retailleau und Christian Jacob, begrüßten ""die gute Initiative"" ebenfalls.",0.6835442185401917
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Moins d’enthousiasme pour Marine Le Pen, qui a mis en garde sur Cnews contre une éventuelle récupération, évoquant le passage de Hayk Shahinyan au MJS socialiste il y a huit ans.","Mehrere Enthusiasmus für Marine Le Pen, die sich auf Cnews vor einer möglichen Annäherung gewarnt hat, indem sie sich auf den Wechsel von Hayk Shahinyan zum sozialistischen MJS acht Jahre zurück verwies.
+
+Hinweis: Die Übersetzung ist möglich, aber die ursprüngliche Übersetzung ist nicht ganz korrekt. Die korrekte Übersetzung lautet:
+
+ Weniger Enthusiasmus für Marine Le Pen, die sich auf Cnews vor einer möglichen Annäherung gewarnt hat, indem sie sich auf den Wechsel von Hayk Shahinyan zum sozialistischen MJS acht Jahre zurück verwies.
+
+Die korrekte Übersetzung von ""Moins d'enthousiasme"" ist ""weniger Enthusiasmus"".","Weniger Begeisterung zeigte Marine Le Pen, die auf Cnews an den Übertritt von Hayk Shahinyan zur Sozialistischen Jugend (MJS) vor acht Jahren erinnerte und vor einer möglichen Instrumentalisierung von außen warnte.",0.5020897388458252
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Sur BFMTV, Nicolas Dupont-Aignan s’est lui interrogé sur un possible « coup politique avec Bernard Tapie », qui avait prêté début janvier les locaux du journal La Provence à des « gilets jaunes », dont Ingrid Levavasseur.","Über BFMTV, hat sich Nicolas Dupont-Aignan über einen möglichen ""politischen Coup mit Bernard Tapie"" geäußert, der Anfang Januar die Räumlichkeiten des Journals La Provence an die ""Gelbwesten"" verliehen hatte, darunter Ingrid Levavasseur.","Auf BFMT hat Nicolas Dupont-Aignan einen ""politischen Zusammenschluss mit Bernard Tapie"" in den Raum gestellt, der Anfang Januar den ""Geldwesten"" die Räumlichkeiten der Zeitung La Provence zur Verfügung stellte, darunter Ingrid Lavavasseur.",0.7178923487663269
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"La liste a également été très critiquée par certains «gilets jaunes», comme Maxime Nicolle ou Eric Drouet.","Die Liste wurde auch von einigen ""Gelbwesten"" stark kritisiert, wie Maxime Nicolle oder Eric Drouet.
+
+Hinweis: ""Gelbwesten"" ist die deutsche Übersetzung für ""gilets jaunes"", die sich auf die Gelbwesten der Demonstranten bezieht, die während der Gelbwesten-Proteste in Frankreich 2018/2019 getragen wurden.","Die Liste wurde ebenfalls sehr kritisiert von gewissen ""Gelbwesten"" wie Maxime Nicolle oder Eric Drouet.",0.5755426287651062
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Voter Gilets jaunes, c’est voter Macron », prévient dans un communiqué « La France en colère!!! ».",""" 'Gilets jaunes wählen, ist Macron wählen', warnt 'La France en colère!!!' in einer Erklärung.""
+
+Hinweis: Die Übersetzung ist wörtlich und kann je nach Kontext und Nuance leicht abgeändert werden. 
+
+Eine mögliche alternative Übersetzung wäre:
+
+"" Wer für die 'Gilets jaunes' stimmt, stimmt für Macron, warnt 'La France en colère!!!' in einer Erklärung.""
+
+Diese Übersetzung ist ein bisschen freier und bringt den Inhalt besser zum Ausdruck.","Gelbwesten wählen heißt Macron wählen"", wird in der Mittteilung ""La France en colère!!!"" gewarnt. ».",0.5940569043159485
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Sur Facebook, plusieurs internautes dénoncent l’utilisation du terme « gilets jaunes » ou ciblent le profil des candidats, comme celui de Marc Doyer, ancien soutien d’En Marche.","Über Facebook kritisieren mehrere Internetnutzer die Verwendung des Begriffs ""Gelbwesten"" oder zielen auf die Profilbilder der Kandidaten, wie das von Marc Doyer, einem ehemaligen Unterstützer von En Marche.
+
+Hinweis: ""Gilets jaunes"" wird in der deutschen Übersetzung oft als ""Gelbwesten"" bezeichnet, da ""Gelbwestenbewegung"" oder ""Gelbwestenprotest"" bereits in der deutschen Sprache bekannt ist.","Auf Facebook kritisieren einige Nutzer die Verwendung des Begriffs ""Gelbwesten"" oder kritisieren das Profil des Kandidaten, wie dem von Marc Doyer, ein ehemaliger Unterstützer von En Marche.",0.6944257616996765
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Comment comptent-ils financer leur campagne ?,"Die Übersetzung des französischen Textes lautet:
+
+ Wie planen sie ihre Kampagne zu finanzieren?",Womit wollen sie ihre Kampagne finanzieren?,0.7887738943099976
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Faire campagne n’est pas gratuit.,"Die Wahlkampagne ist nicht kostenlos.
+
+Hinweis: ""Faire campagne"" ist ein französischer Ausdruck, der ""Wahlkampagne"" oder ""Politik"" bedeutet. In diesem Kontext ist die Übersetzung ""Wahlkampagne"" am passendsten.",Wahlkampf machen kostet Geld.,0.5491193532943726
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Les candidats doivent notamment imprimer leur bulletin pour approvisionner le maximum de bureaux de vote.,"Die Kandidaten müssen insbesondere ihren Stimmzettel drucken, um die meisten Wahllokale zu versorgen.
+
+Hinweis: 
+- ""Les candidats"" wird in diesem Kontext wahrscheinlich ""Die Kandidaten"" oder ""Die Bewerber"" bedeuten, da ""candidats"" im Französischen ""Bewerber"" oder ""Kandidaten"" bedeutet.
+- ""leur bulletin"" wird als ""ihren Stimmzettel"" übersetzt, da ""bulletin"" im Französischen ""Stimmzettel"" bedeutet.
+- ""approvisionner"" wird als ""zu versorgen"" übersetzt, da ""approvisionner"" im Französischen ""zu versorgen"" oder ""zurücklegen"" bedeutet.
+- ""le maximum"" wird als ""die meisten"" übersetzt, da ""le maximum"" im Französischen ""das Maximum"" oder ""die meisten"" bedeutet.
+- ""bureaux de vote"" wird als ""Wahllokale"" übersetzt, da ""bureaux de vote"" im Französischen ""Wahllokale"" bedeutet.",Die Kandidaten müssen insbesondere ihre Zettel ausdrucken um die Wahlbüros mit einem Maximum davon auszustatten.,0.3761517405509949
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"D’après le Figaro, le mouvement est toujours à la recherche de fonds, d’un minimum de 700.000 à 800.000 euros.","Nach Figaro sucht der Verein weiterhin nach Spenden, in Höhe von mindestens 700.000 bis 800.000 Euro.
+
+Hinweis: ""le mouvement"" kann auch ""der Verein"" oder ""die Bewegung"" übersetzt werden, je nach Kontext. Ich habe mich für ""der Verein"" entschieden, da es sich um eine Organisation handelt, die nach Geldern sucht.","Dem Figaro zufolge sucht die Bewegung immer noch Finanzierungsquellen, mindestens 700.000 bis 800.000 Euro.",0.5840715169906616
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Nous avons pour l’instant à peu près 10 % de cette somme. Nous allons lancer un appel aux dons et peut-être une campagne de crowdfunding », assure au quotidien Hayc Shahinyan, le directeur de campagne.","""Wir haben derzeit etwa 10 % dieses Betrags. Wir werden einen Spendenaufruf und möglicherweise eine Crowdfunding-Kampagne starten"", versichert Hayc Shahinyan, der Kampagnenleiter, dem Tagesblatt.
+
+Hinweis: Ich habe versucht, den Text so genau wie möglich zu übersetzen. Es ist jedoch wichtig zu beachten, dass die Übersetzung von Zeitungen und Medien oft von der Sprachrichtigkeit und dem Stil abhängt.","""Momentan haben wir etwa 10 Prozent dieser Summe. Wir werden einen Appell starten zu einer Crowdfunding-Kampagne"", versichert Hayc Shahinyan, der Leiter der Kampagne, in der Sendung Quotidien.",0.6921618580818176
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Problème: les dons privés, qui ne peuvent excéder 4.600 euros par personne, doivent être versés au compte d’un mandataire, intermédiaire obligatoire entre les candidats et les tiers.","Übersetzung:
+
+Problem: Die privaten Spenden, die nicht mehr als 4.600 Euro pro Person betragen dürfen, müssen auf ein Konto eines Bevollmächtigten überwiesen werden, der Zwischenhändler ist und zwischen den Kandidaten und Dritten obligatorisch ist.
+
+Hinweis: Die Übersetzung ist wörtlich und kann je nach Kontext und Kontextualisierung angepasst werden.","Das Problem: die privaten Spenden, 4600 Euro pro Person nicht überschreiten dürfen, müssen auf ein Konto eines Dritten gehen, der zwischen den Kandidaten und dem Spendenden steht.",0.5951416492462158
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Ceci exclut tout financement utilisant une cagnotte Internet.,"Dies ausschließt jeden Finanzierungsvorschlag, der eine Internet-Sperrkasse verwendet.
+
+Alternativ:
+Dies schließt alle Finanzierungen aus, die eine Internet-Sperrkasse verwenden.
+
+Oder:
+Dies schließt alle Finanzierungen mit Internet-Sperrkassen aus.",Und somit scheidet die Finanzierung in Form eines Online-Spendentopfs aus.,0.4858570694923401
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« En l’état des textes et dans la mesure où les fonds sont recueillis par un intermédiaire autre que le mandataire financier ou l’association de financement, la pratique du financement participatif (« crowdfunding ») n’est pas conforme à la législation », indique la Commission nationale des comptes de campagne.","""Da die Texte so stehen und soweit die Gelder durch einen Dritten gesammelt werden, der nicht der Finanzvermittler oder die Finanzierungsgesellschaft ist, ist die Praxis des Crowdfunding nicht mit der Gesetzgebung vereinbar"", so die nationale Wahlkampfkontrollkommission.
+
+Hinweis: Die Übersetzung ist wörtlich und kann je nach Kontext und Nuance leicht angepasst werden.","""Nach dem Gesetz ist die Vergabe von Finanzmitteln an jemand anderen als die Mittelsperson zwischen Spendenden und Kandidaten verboten, darunter fällt auch eine kollektive Finanzierung in Form einer partizipativen Kampagne (""crowdfunding"")"", so die Nationale Kommission für Wahlkampffinanzierung.",0.6702930331230164
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,L’Etat rembourse les frais de campagne pour toute liste obtenant au moins 3 % des suffrages exprimés.,"Die Regierung erstattet die Wahlkampfkosten für jede Liste, die mindestens 3 % der abgegebenen Stimmen erhält.
+
+Hinweis: ""L'Etat"" wird in der deutschen Übersetzung mit ""Die Regierung"" wiedergegeben, da ""L'Etat"" im französischen Kontext oft die Regierung oder den Staat meint, während ""Die Regierung"" im deutschen Kontext eine genauere Übersetzung ist.","Der Staat erstattet die Wahlkampfkosten für Parteien, die mindestens 3 Prozent der Stimmen erhalten haben.",0.4532751441001892
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Selon un sondage Elabe pour BFMTV publié mercredi et réalisé avant l’annonce, «une liste gilets jaunes» arriverait en troisième position avec 13 % des voix. Elections européennes de 2019: Pourquoi Macron veut-il changer le scrutin?","Hier ist die Übersetzung des französischen Textes ins Deutsche:
+
+Laut einer Umfrage von Elabe für BFMTV, die am Mittwoch veröffentlicht wurde und vor der Ankündigung durchgeführt wurde, würde ""eine Liste der Gelbwesten"" auf dem dritten Platz landen mit 13 % der Stimmen. Europawahlen 2019: Warum will Macron das Wahlsystem ändern?
+
+Hinweis: Die Übersetzung ist eine direkte Übersetzung des Textes. Die Übersetzung von ""une liste gilets jaunes"" ist nicht ganz präzise, da ""Gelbwesten"" in Deutschland nicht so bekannt ist wie in Frankreich. Eine mögliche bessere Übersetzung wäre ""eine Liste der Gelbwestenbewegung"" oder ""eine Liste der Gelbwesten-Partei"".","Laut einer Umfrage von Elabe für BFMTV, veröffentlicht am Mittwoch vor der Ankündigung, würde eine ""Liste der Gelbwesten"", mit etwa 13 Prozent der Stimmen die drittstärkste Partei werden. Europawahlen 2019: Warum will Macron die Wahl verändern?",0.6229989528656006
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Depuis 2004, la France est divisée en huit circonscriptions pour les élections européennes.","Seit 2004 ist Frankreich in acht Wahlkreise für die Europawahlen aufgeteilt.
+
+Hinweis: Die Übersetzung ist korrekt, aber es ist zu beachten, dass die Europawahlen in Deutschland und Frankreich unterschiedliche Bezeichnungen haben. In Deutschland werden sie als Europawahlen bezeichnet, während in Frankreich die Bezeichnung ""élections européennes"" verwendet wird.",Seit 2004 ist Frankreich für die Europawahlen in acht Wahlkreise aufgeteilt.,0.7226196527481079
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Le président souhaite revenir à un scrutin avec des listes nationales et il consulte les partis politiques sur cette réforme.,"Der Präsident möchte zurückkehren zu einem Wahlverfahren mit nationalen Listen und er konsultiert die politischen Parteien über diese Reform.
+
+Hinweis: 
+- ""scrutin"" wird hier mit ""Wahlverfahren"" übersetzt, da ""scrutin"" im Kontext von Wahlen verwendet wird.
+- ""listes nationales"" wird mit ""nationalen Listen"" übersetzt, da ""listes"" im Kontext von Wahlen verwendet wird.
+- ""partis politiques"" wird mit ""politischen Parteien"" übersetzt, da ""partis"" im Kontext von Politik verwendet wird.",Der Präsident würde gerne zu einer Wahl zurückfinden mit nationalen Listen und sucht dazu bei den Parteien das Gespräch.,0.43748894333839417
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Ce scrutin, première élection intermédiaire de son mandat, constitue un enjeu très important pour le président de la République, dont le parti LREM a encore peu d'ancrage territorial.","Übersetzung:
+
+Dieser Wahltag, die erste Zwischenwahl während seines Amtsjahres, ist für den Präsidenten der Republik ein sehr wichtiger Punkt, da sein Partei LREM noch wenig territoriale Verankerung hat.
+
+Hinweis: LREM ist die französische Partei ""La République En Marche!"" (Die Republik geht voran!). Die Übersetzung ist daher ""Die Republik geht voran!"" oder ""La République En Marche!"".
+
+Alternativ kann man auch ""LREM"" als ""LREM - Die Republik geht voran!"" oder ""LREM - La République En Marche!"" übersetzen, um die französische Partei genauer zu beschreiben.","Diese Wahl ist die erste seiner Amtszeit und stellt eine besondere Herausforderung dar für den Präsident der Republik, dessen Partei LREM immer noch eher regional verankert ist.",0.4665815234184265
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Depuis 2004, la France est divisée en huit circonscriptions pour les élections européennes.","Seit 2004 ist Frankreich in acht Wahlkreise für die Europawahlen aufgeteilt.
+
+Hinweis: Die Übersetzung ist korrekt, aber es gibt auch eine alternative Übersetzung, die ""Wahlbezirke"" verwendet, anstatt ""Wahlkreise"". Beide Begriffe sind in Deutschland gebräuchlich, aber ""Wahlbezirke"" ist in Frankreich und anderen Ländern häufiger verwendet.
+
+Alternative Übersetzung:
+Seit 2004 ist Frankreich in acht Wahlbezirke für die Europawahlen aufgeteilt.",Seit 2004 ist Frankreich für die Europawahlen in acht Wahlkreise aufgeteilt.,0.644873321056366
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Le président souhaite revenir à un scrutin avec des listes nationales et il consulte les partis politiques sur cette réforme.,"Der Präsident möchte zurückkehren zu einem Wahlverfahren mit nationalen Listen und er konsultiert die politischen Parteien über diese Reform.
+
+Hinweis: Die Übersetzung ist wörtlich und kann je nach Kontext und Nuance leicht angepasst werden.",Der Präsident würde gerne zu einer Wahl zurückfinden mit nationalen Listen und sucht dazu bei den Parteien das Gespräch.,0.6513577103614807
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Ce scrutin, première élection intermédiaire de son mandat, constitue un enjeu très important pour le président de la République, dont le parti LREM a encore peu d'ancrage territorial.","Übersetzung:
+
+Dieser Wahltag, die erste Zwischenwahl während seines Amtsjahres, stellt für den Präsidenten der Republik ein sehr wichtiges Thema dar, bei dem die Partei LREM noch wenig territoriale Verankerung hat.
+
+Hinweis: LREM ist die französische Partei ""La République En Marche!"" (Die Republik geht voran!). Die Übersetzung ist daher ""Die Republik geht voran!"" oder ""Die Republik voran!"".
+
+Alternativ kann man auch ""LREM"" als ""Die Bewegung der Republik"" übersetzen, was eine bessere Übersetzung ist, da ""En Marche!"" nicht direkt übersetzt werden kann.
+
+Die endgültige Übersetzung wäre also:
+
+Dieser Wahltag, die erste Zwischenwahl während seines Amtsjahres, stellt für den Präsidenten der Republik ein sehr wichtiges Thema dar, bei dem die Partei ""Die Republik geht voran!"" noch wenig territoriale Verankerung hat.","Diese Wahl ist die erste seiner Amtszeit und stellt eine besondere Herausforderung dar für den Präsident der Republik, dessen Partei LREM immer noch eher regional verankert ist.",0.5455002784729004
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Le sujet peut sembler technique et l’échéance lointaine.,"Die Sache kann sich technisch anmuten und die Frist ist fern.
+
+Hier ist eine mögliche Übersetzung mit mehr Kontext:
+
+- ""Le sujet"" kann auch als ""die Sache"" oder ""das Thema"" übersetzt werden.
+- ""peut sembler"" bedeutet ""kann sich anmuten"" oder ""kann sich so anhören"".
+- ""technique"" bedeutet ""technisch"".
+- ""l'échéance"" bedeutet ""die Frist"" oder ""die Deadline"".
+- ""lointaine"" bedeutet ""fern"" oder ""weit entfernt"".
+
+Es ist auch möglich, die Übersetzung wie folgt zu formulieren:
+
+- ""Die Sache kann sich technisch anmuten und die Frist ist weit entfernt.""
+- ""Das Thema kann sich technisch anmuten und die Deadline ist fern.""",Das Thema erscheint eher theoretisch und weit weg.,0.4065002501010895
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Pourtant les modalités des élections européennes de 2019 sont au cœur de l’agenda d’Emmanuel Macron, qui a reçu lundi et ce mardi les différents dirigeants politiques français.","Trotzdem stehen die Modalitäten der Europawahlen 2019 im Mittelpunkt des Agendas von Emmanuel Macron, der am Montag und an diesem Dienstag die verschiedenen französischen politischen Führer empfangen hat.
+
+Hinweis: 
+
+- ""lundi"" und ""ce mardi"" sind französische Ausdrücke, die sich auf den Montag und Dienstag beziehen. In der deutschen Übersetzung wurden sie durch ""am Montag"" und ""an diesem Dienstag"" ersetzt, um die Übersetzung klarer und verständlicher zu machen.
+- ""dirigeants politiques"" wurde durch ""politischen Führer"" übersetzt, um die Bedeutung des Ausdrucks besser zu verdeutlichen.
+- ""agenda"" wurde durch ""Agenda"" übersetzt, da es sich um ein englischsprachiges Lehnwort handelt, das in beiden Sprachen verwendet wird.","Dennoch sind die Rahmenbedingungen der Europawahlen 2019 ganz oben auf der Prioritätsliste von Emmanuel Macron, der am Montag und Dienstag verschiedene führende Politiker Frankreichs empfangen hat.",0.5031326413154602
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Il les a notamment consultés sur un retour à des listes nationales.,"Die Übersetzung lautet:
+
+Er hat sie insbesondere über einen Rückkehr zu nationalen Listen konsultiert.
+
+Oder auch:
+
+Er hat sie insbesondere über eine Rückkehr zu nationalen Listen konsultiert.
+
+Beide Übersetzungen sind korrekt, aber die erste Variante ist vielleicht ein bisschen direkter und einfacher.",Er hat sie hauptsächlich wegen seines Anliegens zu einer Rückkehr zu den nationalen Listen empfangen.,0.45127561688423157
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Pourquoi le président est-il tenté de « macroniser » ce scrutin qui constituera la première élection intermédiaire de son mandat?,"Übersetzung:
+
+Warum ist der Präsident versucht, dieses Urnengang zu ""macronisieren"", der die erste Zwischenwahl seiner Amtszeit sein wird?
+
+Hinweis: ""Macroniser"" ist ein französischer Begriff, der sich auf die Wahlkampagne von Emmanuel Macron bezieht. Es bedeutet, dass der Präsident versucht, die Wahl in eine ähnliche Form wie Macrons Wahlkampf zu gestalten. Eine direkte Übersetzung in Deutsch ist nicht möglich, daher habe ich mich für eine freie Übersetzung entschieden.","Warum versucht der Präsident, diese Wahl zu ""macronisieren"", diese erste Wahl während seiner Amtszeit?",0.5576879978179932
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Installer un « match » national entre eurosceptiques et pro-UE.,"Die Übersetzung des französischen Textes in Deutsch lautet:
+
+Ein ""National-Team"" zwischen Euroskeptikern und EU-Verfechtern aufstellen.
+
+Alternativ könnte man auch sagen:
+
+Ein ""National-Team"" zwischen EU-Gegnern und EU-Befürwortern aufstellen.
+
+""Match"" wird hier im Sinne von ""Team"" oder ""Gruppe"" verwendet, um die Konfrontation zwischen zwei Gruppen darzustellen.",Das Rennen eröffnen zwischen euroskeptischen und pro-europäischen Parteien.,0.5330532193183899
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Depuis 2004, la France est découpée pour les élections européennes en huit circonscriptions, des « eurorégions » créées par le gouvernement Raffarin.","Seit 2004 ist Frankreich für die Europawahlen in acht Wahlkreise aufgeteilt, die sogenannten ""Eurorégions"", die vom Raffarin-Regierung geschaffen wurden.
+
+Hinweis: Die Übersetzung ist korrekt, aber es ist zu beachten, dass die Bezeichnung ""Eurorégions"" nicht direkt übersetzt werden muss. In Deutschland und Österreich werden diese Wahlkreise als ""Europawahlkreise"" oder ""Wahlkreise für die Europawahlen"" bezeichnet. Die Bezeichnung ""Eurorégions"" ist eher spezifisch für Frankreich.","Seit 2004 ist Frankreich für die Europawahlen in acht Wahlkreise aufgeteilt, diese ""Euroregionen"" entstanden unter der Raffarin-Regierung.",0.6659639477729797
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"La réforme territoriale de 2014 et le passage de 22 à 13 régions ouvre la voie à une nouvelle carte des circonscriptions et à un retour à une circonscription unique nationale, en vigueur entre 1979 et 2004.","Die territoriale Reform von 2014 und der Wechsel von 22 auf 13 Regionen öffnet den Weg für eine neue Karte der Wahlkreise und einen Rückkehr zu einer einheitlichen nationalen Wahlkreis, in Kraft zwischen 1979 und 2004.
+
+Hinweis: Die deutsche Übersetzung ist korrekt, aber es ist zu beachten, dass die deutsche Übersetzung von ""circonscription"" mit ""Wahlkreis"" übersetzt wird. Es gibt jedoch auch die Möglichkeit, ""Wahlkreis"" durch ""Wahlbezirk"" oder ""Wahlkreisgebiet"" zu ersetzen, je nach Kontext.","Die Gebietsreform von 2014 und die Umstellung von 22 auf 13 Regionen öffnet ein neues Kapitel der Wahlkreiszusammensetzung und bedeutet die radikale Abkehr eines einzigen nationalen Wahlkreises, wie es zwischen 1979 und 2004 der Fall war.",0.5567796230316162
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Ce n’est pas une réforme technique, c’est très politique », estime Emmanuelle Reungoat, maître de conférences en sciences politiques à l’université de Montpellier.","""Das ist keine technische Reform, sondern sehr politisch"", schätzt Emmanuelle Reungoat, Professorin für Politikwissenschaften an der Universität Montpellier.
+
+Hinweis: Ich habe ""maître de conférences"" mit ""Professorin"" übersetzt, da ""maître de conférences"" in Frankreich eine akademische Position ist, die einem Professor entspricht, aber nicht unbedingt die gleiche Hierarchie hat. Wenn Sie eine genaue Übersetzung benötigen, wäre ""Dozentin"" oder ""Lektörin"" eine bessere Wahl.","""Das ist keine technische Reform, das ist sehr politisch"", schätzt Emmanuelle Reungoat, Politikwissenschaftlerin an der Universität von Montpellier.",0.5668930411338806
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Faire campagne dans huit circonscriptions demande plus de moyens, un ancrage local. C’est peu adapté aux partis qui n’ont qu’un ou deux leaders forts mais peu de seconds couteaux, qui manquent de ressources militantes ou qui ont peu de ressources financières », souligne-t-elle.","""Kampagne in acht Wahlkreisen zu führen erfordert mehr Mittel, ein lokales Anker. Das ist für Parteien, die nur einen oder zwei starke Führer haben, aber wenige zweite Führer, mangelnde militante Ressourcen oder wenige finanzielle Ressourcen haben, wenig geeignet"", betont sie.
+
+Hinweis: Ich habe versucht, den Originaltext so genau wie möglich zu übersetzen, aber es ist möglich, dass es noch bessere Übersetzungen gibt.","""Wahlkampf zu machen in acht verschiedenen Wahlkreisen braucht mehr Mittel, eine lokale Verankerung. Dieses System ist wenig angepasst an Parteien, die nur ein oder zwei starke Köpfe haben, ihnen aber politisch Aktive oder sie nur wenig finanzielle Mittel haben"", unterstreicht sie.",0.6801034808158875
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Avec un parti jeune, dont l’ancrage territorial est encore en construction, et qui peine à faire émerger des têtes d’affiche, La République en marche (LREM) pourrait donc bénéficier d’un scrutin à listes nationales.","Mit einem jungen Partei, deren territoriale Verankerung noch im Aufbau ist und die Schwierigkeiten hat, Prominente aufzubauen, könnte La République en marche (LREM) von einem Landeslistenwahlvorschlag profitieren.
+
+Hinweis: 
+- ""Avec un parti jeune"" wurde mit ""Mit einem jungen Partei"" übersetzt, da ""parti"" in diesem Kontext ""Partei"" bedeutet.
+- ""dont l'ancrage territorial est encore en construction"" wurde mit ""dorten territoriale Verankerung noch im Aufbau ist"" übersetzt, da ""ancrage"" ""Verankerung"" und ""territorial"" ""territorial"" bedeutet.
+- ""qui peine à faire émerger des têtes d'affiche"" wurde mit ""die Schwierigkeiten hat, Prominente aufzubauen"" übersetzt, da ""qui peine"" ""die Schwierigkeiten hat"" und ""faire émerger"" ""aufzubauen"" bedeutet.
+- ""La République en marche (LREM)"" wurde mit ""La République en marche (LREM)"" übersetzt, da es sich um einen Namen handelt.
+- ""bénéficier d'un scrutin à listes nationales"" wurde mit ""von einem Landeslistenwahlvorschlag profitieren"" übersetzt, da ""bénéficier"" ""profitieren"" und ""scrutin"" ""Wahlvorschlag"" bedeutet.","Als junge Partei, deren lokale Verankerung immer noch im Entstehen ist, und die es gerade so schafft, ihre Spitzenkandidaten sichtbar zu machen, würde La République en marche (LREM) dementsprechend von einer nationalen Wahlliste profitieren.",0.39559516310691833
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"L’autre avantage pour Emmanuel Macron, qui a fait campagne sur la « refondation de l’Europe », serait de « rendre les choses lisibles, simples », selon un de ses proches cité par Le Parisien.","Ein anderer Vorteil für Emmanuel Macron, der während seiner Wahlkampagne auf die ""Neugründung Europas"" hingewiesen hat, wäre es, ""Dinge verständlich, einfach zu machen"", wie ein enger Vertrauter zitiert von Le Parisien sagt.
+
+Hinweis: ""refondation de l'Europe"" wird mit ""Neugründung Europas"" übersetzt, da ""refondation"" eine Wiederbelebung oder Neugründung impliziert.","Ein weiterer Vorteil für Emmanuel Macron, der Wahlkampf macht für eine ""Neugründung Europas"", wäre ""die Dinge lesbar, einfach"" machen zu können, zitiert der Parisien eine Person aus dem Umfeld des Präsidenten.",0.6556370258331299
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Les macronistes souhaitent que le scrutin de 2019 soit l’occasion d’un affrontement entre pro-européens et eurosceptiques.,"Die Macronisten möchten, dass die Wahl von 2019 die Gelegenheit für einen Konflikt zwischen Euro-Begeistern und Euro-Skeptikern ist.
+
+Hinweis: 
+- ""Les macronistes"" ist eine Übersetzung von ""Macronisten"", die Anhänger von Emmanuel Macron sind.
+- ""pro-européens"" ist eine direkte Übersetzung von ""Euro-Begeistern"".
+- ""eurosceptiques"" ist eine direkte Übersetzung von ""Euro-Skeptikern"".","Die Anhänger von Macron hätten gerne, dass die Wahl 2019 eine Konfrontation ermöglicht zwischen Pro-Europäern und Euroskeptikern.",0.587633490562439
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Ce qui m’intéresse aujourd’hui est de savoir où en sont Les Républicains. La formation va-t-elle s’élargir ? Défendre un vrai projet européen ? Ce qui m’importe, c’est le contenu, et son incarnation par des hommes et des femmes qui ne soient pas issus d’un ""même moule"". C’est au vu de tout cela que j’arrêterai ma position », développe-t-il. Européennes: Avec Place Publique, Raphaël Glucksmann se donne «deux mois» pour unir la gauche.","""Was mich heute interessiert, ist, wo die Républicains stehen. Wird sich die Partei erweitern? Ein echtes europäisches Projekt verteidigen? Was mich angeht, ist der Inhalt und seine Inkarnation durch Männer und Frauen, die nicht aus dem gleichen Muster stammen. Das ist alles, was mich dazu bringt, meine Position zu ändern"", entwickelt er. Europäische: Mit Place Publique gibt Raphaël Glucksmann sich ""zwei Monate"" Zeit, die Linke zu vereinen.
+
+Hinweis: Ich habe versucht, den Text so genau wie möglich zu übersetzen. Es ist jedoch wichtig zu beachten, dass eine Übersetzung nicht immer wörtlich ist und manchmal Anpassungen vorgenommen werden müssen, um den Kontext und die Nuance des Originaltextes zu bewahren.","« Ce qui m’intéresse aujourd’hui est de savoir où en sont Les Républicains. La formation va-t-elle s’élargir ? Défendre un vrai projet européen ? Ce qui m’importe, c’est le contenu, et son incarnation par des hommes et des femmes qui ne soient pas issus d’un ""même moule"". Vor diesem Hintergrund werde ich meine Position aufgeben "", folgerte er. Mit der Partei ""Place Publique"", gibt sich Raphaël Glucksmann ""zwei Monate"", um die Linke zu vereinen.",0.545597493648529
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Ils se donnent « deux mois » pour ressusciter la gauche.,"Sie geben sich ""zwei Monate"" Zeit, die Linke wiederzubeleben.
+
+Hinweis: ""Ressusciter"" ist ein sehr spezifischer Ausdruck, der normalerweise in einem religiösen Kontext verwendet wird (z.B. Jesus Christus wird von den Toten auferweckt). In diesem Fall könnte man auch ""wiederbeleben"" oder ""erneuern"" verwenden, um den Kontext besser zu erfassen.
+
+Eine alternative Übersetzung könnte auch lauten:
+
+Sie geben sich ""zwei Monate"" Zeit, die Linke zu revitalisieren oder zu stärken.
+
+Diese Übersetzung ist ein bisschen neutraler und passt besser zum Kontext einer politischen Partei, die versucht, ihre Popularität wiederzuerlangen.","Sie geben sich ""zwei Monate"", um die Linke wieder zu beleben.",0.6613926887512207
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Raphaël Glucksmann et d'autres intellectuels ont fondé le mouvement Place publique, pour organiser la gauche en vue des Européennes, annonce l’essayiste dans une interview publiée dimanche sur le site du Parisien. L’appel s’adresse à toutes les formations politiques, sauf la France insoumise.","Raphaël Glucksmann und andere Intellektuelle haben den Bewegung ""Place publique"" gegründet, um die Linke für die Europawahlen zu organisieren, kündigt der Essayist in einer am Sonntag auf der Website des Parisien veröffentlichten Interview an. Der Aufruf richtet sich an alle politischen Formationen, mit Ausnahme der ""France insoumise"".
+
+Hinweis: ""Place publique"" ist ein Begriff, der sich auf einen öffentlichen Raum bezieht, aber in diesem Kontext wahrscheinlich auf eine politische Bewegung hinweist. Eine genaue Übersetzung wäre also ""Öffentlicher Raum"" oder ""Bürgerraum"", aber ""Bewegung"" ist eine gute Annäherung.","Raphaël Glucksmann und andere Intellektuelle haben die sogenannte ""Place publique""-Bewegung gegründet um die Linke auf europäischer Ebene stark zu machen. Das kündigt der Autor in einem Interview an, das am Sonntag auf der Webseite des Parisien veröffentlicht wurde. Der Aufruf richtet sich an alle politischen Parteien, mit Ausnahme der Partei ""La France insoumise"".",0.6769442558288574
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,« Les militants de tous ces partis veulent l’union.,"Die Aktivisten aller dieser Parteien wollen die Einigung.
+
+Hinweis: ""militants"" kann auch als ""Aktivisten"" oder ""Aktivisten"" übersetzt werden, je nach Kontext. In diesem Fall passt ""Aktivisten"" am besten, da es sich um politische Aktivisten handelt.",Die Aktivisten all dieser Parteien wollen die Union.,0.5440121293067932
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Ils veulent proposer une alternative crédible à Macron.,"Die Übersetzung lautet:
+
+Sie wollen eine glaubwürdige Alternative zu Macron anbieten.
+
+Hinweis: ""crédible"" wird im Deutschen mit ""glaubwürdig"" übersetzt.",Sie möchten eine echte Alternative zu Macron finden.,0.5768378973007202
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Ils veulent se battre contre Le Pen, pas contre Hamon, Faure ou Jadot (...) Nous avons deux mois pour réussir », explique-t-il.","""Sie wollen sich gegen Le Pen kämpfen, nicht gegen Hamon, Faure oder Jadot (...). Wir haben zwei Monate, um zu gelingen"", erklärt er.
+
+Hinweis: Le Pen ist ein französischer Politiker, der für die rechtspopulistische Partei Front National bekannt ist. Hamon, Faure und Jadot sind französische Politiker, die für die sozialdemokratische Partei La France Insoumise, die Parti Socialiste bzw. die Libéral-Demokratische Partei kandidieren.","Sie wollen gegen Le Pen kämpfen, nicht gegen Hamon, Faure oder Jadot (...) Wir haben zwei Monate, um es zu schaffen"", erklärte er.",0.6221176981925964
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Place publique, qui a « rencontré tout le monde », a identifié dix « combats communs à la gauche pro-européenne et aux écologistes ».","Öffentliche Stätte, die ""jeder zu treffen"" hat, hat zehn ""gemeinsame Kämpfe der pro-europäischen Linken und der Ökologen"" identifiziert.
+
+Hinweis: Die Übersetzung von ""Place publique"" ist nicht direkt, da ""Place publique"" eine öffentliche Stätte beschreibt, aber nicht unbedingt einen spezifischen Ort. Eine mögliche Alternative wäre ""Öffentliche Stätte"" oder ""Öffentliches Forum"".","Place publique, die ""mit jedem Gespräche führt"", hat ""zehn gemeinsame Streitthemen pro-europäischer Linker und Umweltaktivisten herausgestellt"".",0.4178538918495178
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"L’austérité, l’ISF, l’écologie... au programme.","Die Austerität, die ISF, die Ökologie... auf dem Programm.
+
+Hier ist eine Erklärung der einzelnen Begriffe:
+
+- Austerität: In diesem Kontext wahrscheinlich ""Austeritätspolitik"" oder ""Sparsamkeit"" (wörtlich ""Kargheit"")
+- ISF: Im Originaltext ist nicht klar, was ISF bedeutet. Es könnte sich um eine Abkürzung handeln, die in einem bestimmten Kontext verwendet wird. Eine mögliche Übersetzung ist ""Einkommenssteuer"" (im Französischen ""Impôt sur la Fortune"" oder ""Impôt sur la Succession""), aber ohne weitere Kontextinformationen ist dies nur eine Vermutung.
+- Ökologie: Dieser Begriff ist leicht zu übersetzen und bedeutet ""Umwelt"" oder ""Ökologie"" in deutscher Sprache.","Sparprogramme, Vermögenssteuer, Ökologie ... im Programm.",0.542580246925354
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Pour Raphaël Glucksmann, « plus d’excuse pour ne pas mener ces combats ensemble! Le PS, EELV, Générations et les autres doivent désormais expliquer avec quoi ils sont en désaccord.","Hier ist die Übersetzung ins Deutsche:
+
+Für Raphaël Glucksmann ist ""nichts mehr ein Grund, diese Kämpfe nicht gemeinsam zu führen! Die PS, EELV, Générations und die anderen müssen nun erklären, mit welchen Argumenten sie sich widersprechen.
+
+Hinweis: PS steht für Parti Socialiste (Sozialistische Partei), EELV steht für Europe Écologie Les Verts (Europa Ökologie Die Grünen). Générations ist eine französische politische Bewegung.","Für Raphael Glucksmann gibt es ""keine Ausrede, diese Kämpfe nicht gemeinsam zu kämpfen!"" Die französischen Linksparteien ""Parti Socialiste"" und Générations, die französische grüne Partei ""Europe Écologie - les Verts"" und andere müssen ab jetzt erklären, womit sie nicht übereinstimmen.",0.7179991602897644
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Et s’ils sont d’accord, alors bon courage pour expliquer pourquoi ils présentent trois listes au lieu d’une! »","Die Übersetzung lautet:
+
+""Und wenn sie einverstanden sind, dann viel Glück, um zu erklären, warum sie drei Listen anstatt eine vorlegen!""
+
+Oder in einer etwas lockereren Formulierung:
+
+""Und wenn sie einverstanden sind, dann viel Glück, um zu erklären, warum sie drei Listen anstatt eine vorlegen sollen!""
+
+Die Übersetzung ist jedoch abhängig vom Kontext und der Art der Kommunikation. Die erste Formulierung ist eher formal und direkter, während die zweite Formulierung lockerer und humorvoller ist.","Und wenn sie sich dann einig sind, heißt es viel Spaß beim Erklären, warum sie drei Listen statt einer präsentieren! »",0.5913194417953491
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Place publique a détaillé dans un communiqué dimanche ces dix combats: « Pour faire passer l’écologie avant l’austérité », « Pour suspendre le CETA [traité commercial euro-canadien] et les nouveaux traités de libre-échange », « Pour une solidarité européenne dans l’accueil des exilés », « Pour un ISF européen », « Contre les grandes coalitions avec la droite au Parlement européen », notamment.","Hier veröffentlichte die öffentliche Plattform in einer Pressemitteilung diese zehn Forderungen: 
+- ""Um Ökologie über Sparmaßnahmen zu stellen"",
+- ""Um den CETA-Vertrag [europäisch-kanadischer Handelsvertrag] und neue Freihandelsabkommen auszusetzen"",
+- ""Für eine europäische Solidarität bei der Aufnahme von Flüchtlingen"",
+- ""Für einen europäischen Vermögenssteuer"",
+- ""Gegen große Koalitionen mit der Rechten im Europaparlament"", u. a.
+
+Hinweis: CETA steht für Comprehensive Economic and Trade Agreement, was sich auf den umfassenden Wirtschafts- und Handelsvertrag zwischen der Europäischen Union und Kanada bezieht.","Die Partei ""Place publique"" hat in einer Erklärung am Sonntag ihre zehn Kampflinien aufgeführt: ""Um die Ökologie vor die Sparpolitik zu stellen"", ""Um CETA [das euro-kanadische Freihandelsabkommen] und die neuen Freihandelspakte auszusetzen"", ""Für eine Europäische Solidarität bei der Aufnahme von Flüchtlinge"","" Für eine europäische Verlögenssteuer"", und vor allem ""Gegen große Koalitionen mit den Rechten im Europäischen Parlament"".",0.724998414516449
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Seul le PS semble intéressé,"Die einzige Partei, die interessiert scheint, ist die PS.
+
+Hier ist eine mögliche Erklärung:
+- PS steht für Parti Socialiste, also die sozialistische Partei.","Nur die Linkspartei ""Parti Socialiste"" scheint interessiert zu sein.",0.7502298355102539
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Débats autour de la liste.,"Debatten um die Liste.
+
+Hier ist eine mögliche Erklärung:
+
+- ""Débats"" bedeutet ""Debatten"" im Deutschen.
+- ""autour de"" bedeutet ""um"" im Deutschen.
+- ""la liste"" bedeutet ""die Liste"" im Deutschen.
+
+Daher lautet die Übersetzung: ""Debatten um die Liste"".","Vier Fragen zur Listenaufstellung der ""Gelbwesten"".",0.30931204557418823
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,élections européennes du 26 mai.,"Europawahlen vom 26. Mai.
+
+Hinweis: Die Europawahlen finden in der Europäischen Union alle fünf Jahre statt. Die genaue Terminierung variiert je nach Land.","Die ""Gelbwesten"" haben am Mittwoch ihre Teilnahme an den Europawahlen angekündigt.",0.5816197395324707
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Il est conservateur, ce n’est pas une maladie ».","Die Übersetzung des französischen Textes lautet:
+
+""Er ist konservativ, das ist keine Krankheit.""
+
+Oder in einer anderen Formulierung:
+
+""Konservativ zu sein, ist nicht krank.""
+
+Die Übersetzung ist jedoch am ehesten wörtlich:
+
+""Er ist konservativ, das ist keine Krankheit.""
+
+Dieser Satz ist ein Zitat von Jean-Paul Sartre, der damit die Idee vertritt, dass Konservatismus nicht als eine Art von Krankheit oder Mangel angesehen werden sollte.","Er ist konservativ, das ist keine Krankheit "", verteidigt Abgeordneter Philippe Gosselin (LR, Valerie Pécresse nahestehend), der ihn als "" einen guten und glaubwürdigen Menschen "" lobt.",0.5811981558799744
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Le choix de François-Xavier Bellamy, défendu notamment par Laurent Wauquiez, patron du parti, et le sénateur Bruno Retailleau, ne fait toutefois pas que des heureux à droite.","Die Wahl von François-Xavier Bellamy, die insbesondere von Laurent Wauquiez, dem Parteichef, und dem Senator Bruno Retailleau verteidigt wird, macht jedoch nicht alle Rechten glücklich.
+
+Hinweis: Die Übersetzung ist wörtlich und kann je nach Kontext und Nuance leicht angepasst werden. 
+
+Eine alternative Übersetzung könnte lauten:
+
+Die Wahl von François-Xavier Bellamy, die von Parteichef Laurent Wauquiez und Senator Bruno Retailleau unterstützt wird, stößt jedoch bei einigen Rechten auf Kritik.
+
+Diese Übersetzung ist ein bisschen freier und passt sich besser an den Kontext an.","Die Wahl von François-Xavier Bellamy, insbesondere verteidigt von Parteichef Laurent Wauquiez und Senator Bruno Retailleau, ruft bei den rechten Parteien jedoch nicht nur positive Reaktionen hervor.",0.6531447172164917
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"En cause, ses positions jugées conservatrices, même si l’intéressé rejette cette étiquette dans son dernier livre, Demeure.","Die Kritik richtet sich gegen seine in konservativen Positionen, obwohl der Betroffene diese Etikette in seinem letzten Buch ""Demeure"" zurückweist.
+
+Hinweis: ""Demeure"" ist ein französischer Titel, der möglicherweise nicht direkt übersetzt werden kann. Ein möglicher Titel in deutscher Sprache könnte ""Bleibstätte"" oder ""Zu Hause"" sein, aber das hängt von der Bedeutung des Buches ab.","Auch wenn der Interessent die Vorwürfe, eine konservative Position zu vertreten, in seinem Buch Demeure ablehnt, bleibt es dies fraglich.",0.5810749530792236
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Proche de la Manif pour tous, il s’est opposé au mariage gay et a participé à la création de Sens Commun, émanation politique du mouvement au sein de LR.","Nähe zur Manif pour tous hat er sich dem Homo-Ehe-Verbot widersetzt und hat an der Gründung von Sens Commun teilgenommen, einer politischen Ausprägung des Bewegungs innerhalb von LR.
+
+Hinweis: 
+- Manif pour tous ist eine französische Bewegung gegen die Homo-Ehe.
+- LR steht für Les Républicains, eine französische politische Partei.
+- Sens Commun ist eine politische Gruppierung innerhalb von LR, die sich für konservative Werte einsetzt.","Aus dem Umfeld der ""Demo für alle"" (La Manif pour tous), widersetzte er sich der gleichgeschlechtlichen Ehe und beteiligte sich an der Schaffung von Common Sense, des politischen Ableger der Bewegung innerhalb von LR.",0.6766466498374939
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Il y a une vraie nuance entre conservateurs et réactionnaires. Il est conservateur, ce n’est pas une maladie », défend le député Philippe Gosselin (LR, proche de Valérie Pécresse) qui loue « quelqu’un de bien et de crédible ».","""Es gibt eine wahre Nuance zwischen Konservativen und Reaktionären. Er ist konservativ, das ist keine Krankheit"", verteidigt der Abgeordnete Philippe Gosselin (LR, nahe bei Valérie Pécresse), der ""jemanden Guten und Glaubwürdigen"" lobt.
+
+Hinweis: 
+- LR steht für Les Républicains, eine französische politische Partei.
+- ""Proche de"" bedeutet ""nahe bei"" oder ""verbunden mit"".
+- ""Quelqu'un de bien et de crédible"" bedeutet ""jemanden Guten und Glaubwürdigen"".","""Es gibt einen eindeutigen Unterschied zwischen Konservativen und Reaktionären. Er ist konservativ, das ist keine Krankheit "", verteidigt Abgeordneter Philippe Gosselin (LR, Valerie Pécresse nahestehend), der ihn als "" einen guten und glaubwürdigen Menschen "" lobt.",0.6008206009864807
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Il a des convictions, c’est courageux, et dès lors qu’il ne les impose pas sans débat au parti cela ne pose pas de problème », poursuit l’élu.","""Er hat Überzeugungen, das ist mutig, und sobald er sie dem Partei nicht ohne Diskussion aufzwingt, stellt das kein Problem dar"", fährt der Abgeordnete fort.
+
+Hinweis: Die Übersetzung ist wörtlich und kann je nach Kontext und Nuance leicht angepasst werden.","""Er hat Überzeugungen, das ist mutig, und da er sie der Partei nicht ohne Diskussion auferlegt, stellt dies kein Problem dar. "", fährt der Abgeordnete fort.",0.7418436408042908
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Proche de La Manif pour tous, il a récemment réaffirmé sa position sur l’avortement qu’il considère comme un « drame ».","Überzeugt von La Manif pour tous, hat er kürzlich seine Position zu Abtreibung wiederholt, die er als einen ""Drama"" betrachtet.
+
+Hinweis: ""La Manif pour tous"" ist ein französischer Bürgerinitiativverband, der sich gegen die Legalisierung der Abtreibung ausspricht. Die Übersetzung ist daher so gewählt, dass sie die politische Position des Verfassers widerspiegelt.","Aus dem Umfeld der ""Demo für alle"" (La Manif pour tous), widersetzte er sich der gleichgeschlechtlichen Ehe und beteiligte sich an der Schaffung von Common Sense, des politischen Ableger der Bewegung innerhalb von LR.",0.5356765389442444
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Il faut être à la hauteur de l’époque. Ça sert à quoi d’avoir plusieurs listes qui vont faire entre 1 % et 10 % et dont le résultat va causer un choc chez les électeurs de gauche ? », demande-t-il.","""Man muss sich der Zeit anpassen. Was nützt es, wenn man mehrere Listen hat, die zwischen 1 % und 10 % ergeben und deren Ergebnis bei den Wählern der Linken einen Schock auslöst?"", fragt er.
+
+Hinweis: ""à la hauteur de l'époque"" bedeutet ""sich der Zeit anpassen"" und ""causer un choc"" bedeutet ""einen Schock auslösen"".","« Il faut être à la hauteur de l’époque. Ça sert à quoi d’avoir plusieurs listes qui vont faire entre 1 % et 10 % et dont le résultat va causer un choc chez les électeurs de gauche ? Wir haben zwei Monate, um es zu schaffen"", erklärte er.",0.5797476768493652
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Inspiré de la régulation française.,"Übertragen aus der französischen Regulierung.
+
+Oder alternativ:
+
+Basierend auf der französischen Regulierung.
+
+Oder alternativ:
+
+In Anlehnung an die französische Regulierung.",Von der Straße zu den Urnen.,0.27617964148521423
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Ingrid Levavasseur, l’une des figures du mouvement et future tête de liste, rejette les critiques l’accusant de trahir l’aspect « apolitique » du mouvement.","Ingrid Levavasseur, eine der Figuren des Bewegungs und zukünftige Spitzenkandidatin, wendet sich gegen die Kritik, die sie beschuldigt, das ""apolitische"" Element der Bewegung zu verraten.
+
+Oder in einer anderen Übersetzung:
+
+Ingrid Levavasseur, eine der prominenten Persönlichkeiten der Bewegung und zukünftige Spitzenkandidatin, weist die Kritik zurück, die sie beschuldigt, das apolitische Prinzip der Bewegung zu verlassen.
+
+Hinweis: Die Übersetzung kann je nach Kontext und Nuance variieren. Die obigen Übersetzungen sind jedoch die am häufigsten verwendeten.","An der Spitze: Ingrid Levavasseur, eine 31-jährige Krankenschwester aus der Normandie und eine der Hauptfiguren der Bewegung.",0.5387052893638611
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Pour l’instant, l’espoir est encore de mise. Un Brexit repoussé ? Le casse-tête institutionnel avant les élections européennes.","Übersetzung:
+
+Zurzeit ist noch Hoffnung. Ein verschobener Brexit? Das institutionelle Rätsel vor den Europawahlen.
+
+Hinweis: Die Übersetzung ist wörtlich und kann je nach Kontext und Nuance leicht angepasst werden.
+
+Wenn man jedoch eine freiere Übersetzung anstrebt, könnte es lauten:
+
+Zurzeit ist noch Hoffnung auf einen Brexit. Aber die Frage ist, ob er überhaupt noch stattfinden wird, bevor die Europawahlen stattfinden.","Pour l’instant, l’espoir est encore de mise. Un Brexit repoussé ? Die ""Gelbwesten"" haben am Mittwoch ihre Teilnahme an den Europawahlen angekündigt.",0.5173588395118713
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Dans ce cas de figure, chaque Etat membre garderait son nombre de députés actuel, et le Royaume-Uni aurait des sièges... inoccupés.","Übersetzung:
+
+In diesem Fall würde jeder Mitgliedsstaat seinen aktuellen Anzahl von Abgeordneten behalten und das Vereinigte Königreich hätte... unbesetzte Sitze.
+
+Hinweis: Die Übersetzung ist korrekt, aber es ist zu beachten, dass ""inoccupés"" im Deutschen nicht direkt übersetzt werden kann. Die Übersetzung ""unbesetzte Sitze"" ist eine Annäherung und kann je nach Kontext variieren. Eine genauere Übersetzung wäre ""leer bleiben"" oder ""unbesetzt bleiben"", aber diese Optionen klingen nicht so natürlich wie ""unbesetzte Sitze"".",In diesem Fall würde jeder Mitgliedsstaat die aktuelle Anzahl an Sitzen beibehalten und Groß-Britannien hätte Sitze... die leer bleiben würden.,0.580436110496521
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,On se retrouverait avec un Parlement de 678 députés.,"Man würde sich mit einem Parlament von 678 Abgeordneten wiederfinden.
+
+Hier ist eine mögliche Erklärung:
+
+- ""On se retrouverait"" bedeutet ""Man würde sich wiederfinden"" oder ""Man würde sich mit etwas wiederfinden"".
+- ""un Parlement"" bedeutet ""ein Parlament"".
+- ""de 678 députés"" bedeutet ""mit 678 Abgeordneten"".",Das Parlament hätte dann 678 Abgeordnete.,0.39232930541038513
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"De ce fait, plus question de répartir une partie des sièges britanniques.","Überhaupt keine Frage mehr, die britischen Sitze zu teilen.
+
+Hier ist eine mögliche Übersetzung im Kontext:
+
+""De ce fait, plus question de répartir une partie des sièges britanniques."" 
+Übersetzung: ""Deshalb ist es überhaupt keine Frage mehr, die britischen Sitze zu teilen.""","Folglich kann keine Rede mehr davon sein, einen Teil der Sitze Groß-Britannien zuzuteilen.",0.4905078113079071
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Prolonger avec une dérogation.,"Die Übersetzung des französischen Textes lautet:
+
+ Mit einer Ausnahme verlängern.
+
+Oder alternativ:
+
+ Auf Ausnahmegrund verlängern.
+
+Die beiden Übersetzungen sind möglich, je nachdem, wie man den Kontext versteht.",Verschieben mit einer Ausnahmeregelung.,0.5151066184043884
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Au lieu d’ajouter des sièges avant une élection pour ensuite les redistribuer entre les Etats membres, ne serait-il pas envisageable d’attribuer temporairement des sièges au Royaume-Uni, en passant de la même manière par une mesure dérogatoire « au nombre maximal de sièges prévu à l’article 14, paragraphe 2, premier alinéa », ces sièges se retrouvant vacants le jour du départ effectif du Royaume-Uni ?Elections européennes : à 82 ans, Silvio Berlusconi repart en campagne.","Stattdessen, anstatt vor einer Wahl Sitzplätze hinzuzufügen und sie dann unter den Mitgliedsstaaten zu verteilen, wäre es nicht denkbar, dem Vereinigten Königreich vorübergehend Sitzplätze zuzuweisen, indem man auf eine außergewöhnliche Maßnahme zurückgreift, ""auf die Höchstzahl der Sitzplätze gemäß Artikel 14, Absatz 2, erster Satz"", wobei diese Sitzplätze am Tag des tatsächlichen Austritts des Vereinigten Königreichs vakant wären? 
+
+Europawahlen: Silvio Berlusconi startet mit 82 Jahren wieder in die Kampagne.","Au lieu d’ajouter des sièges avant une élection pour ensuite les redistribuer entre les Etats membres, ne serait-il pas envisageable d’attribuer temporairement des sièges au Royaume-Uni, en passant de la même manière par une mesure dérogatoire « au nombre maximal de sièges prévu à l’article 14, paragraphe 2, premier alinéa », ces sièges se retrouvant vacants le jour du départ effectif du Royaume-Uni ?Europa-Wahlen: im Alter von 82 Jahren startet Berlusconi wieder eine Kampagne.",0.6131843328475952
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"C’est la première fois que le Cavaliere brigue un poste électif depuis sa condamnation pour fraude fiscale en 2013, qui l’avait rendu inéligible.","Hier ist es die erste Zeit, dass der Cavaliere sich um einen Amt bewirbt, seit er 2013 wegen Steuerbetrugs verurteilt wurde, was ihn untauglich machte.
+
+Hinweis: Eine direkte Übersetzung des Originals wäre:
+
+Es ist das erste Mal, dass der Cavaliere sich um ein Amt bewirbt, seit er 2013 wegen Steuerbetrugs verurteilt wurde, was ihn untauglich machte.
+
+Ich habe die Übersetzung leicht angepasst, um sie besser lesbar zu machen.","Es ist erste Mal, dass er wieder ein Amt anstrebt, nachdem er 2013 wegen Steuerhinterziehung verurteilt wurde und keine politischen Ämter mehr bekleiden durfte.",0.6262264847755432
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Sa peine d’inéligibilité terminée, le Cavaliere se remet en selle.","Die Pein der Unwählbarkeit beendet, steigt der Ritter wieder auf.
+
+Hinweis: Eine direkte Übersetzung von ""Cavaliere"" ist ""Ritter"", aber in modernen Kontexten kann es auch als ""Herr"" oder ""Graf"" verwendet werden. Die Übersetzung ""Herr"" oder ""Graf"" passt jedoch nicht so gut zum Kontext, daher habe ich mich für ""Ritter"" entschieden.","Nachdem das Verbot des Bekleidens politischer Ämter nicht mehr gilt, schwingt sich Berlusconi wieder in den Sattel.",0.36083656549453735
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Eternel revenant de la politique italienne depuis vingt-cinq ans, Silvio Berlusconi a annoncé, jeudi 17 janvier, que, malgré ses 82 ans et sa baisse de popularité dans les sondages, il serait candidat aux élections européennes en mai.","Ewig wiederkehrender Figur der italienischen Politik seit 25 Jahren, Silvio Berlusconi hat am Donnerstag, dem 17. Januar, bekannt gegeben, dass er, trotz seines 82. Lebensjahres und seiner sinkenden Popularität in den Umfragen, Kandidat für die Europawahlen im Mai sein wird.
+
+Hinweis: ""Eternel revenant"" ist ein französischer Ausdruck, der sich auf jemanden bezieht, der wiederholt in einer bestimmten Situation oder Rolle erscheint. Eine direkte Übersetzung in Deutsch ist nicht möglich, daher wurde ""Ewig wiederkehrender Figur"" verwendet, um den Sinn des Originaltextes zu wiedergeben.","Der seit 25 Jahren ewig wiederkehrende italienische Politiker hat am Donnerstag, den 17. Januar bekanntgegeben, dass er sich bei den Europawahlen im Mai als Kandidat aufstellen lassen wird. Und dies trotz seiner 82 Jahre und nachlassender Popularität in den Umfragen.",0.678618311882019
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"C’est la première fois qu’il brigue un poste électif depuis sa condamnation pour fraude fiscale en 2013, qui lui avait fait perdre son siège de sénateur et l’avait rendu inéligible.","Hier ist es die erste Zeit, dass er sich um einen Amt bewirbt, seit er 2013 wegen Steuerhinterziehung verurteilt wurde, was ihm seinen Sitz im Senat und seine Wählbarkeit kostete.
+
+Hinweis: Eine direkte Übersetzung des Originaltextes lautet:
+
+Das ist das erste Mal, dass er sich um ein Amt bewirbt, seit er 2013 wegen Steuerhinterziehung verurteilt wurde, was ihm seinen Sitz im Senat und seine Wählbarkeit gekostet hat.
+
+Beide Übersetzungen sind korrekt, aber die erste Version ist ein bisschen weniger natürlich.","Es ist erste Mal, dass er wieder ein Amt anstrebt, nachdem er 2013 wegen Steuerhinterziehung verurteilt wurde, aus dem Senat ausgeschlossen wurde und keine politischen Ämter mehr bekleiden durfte.",0.6903546452522278
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"En mai 2018, un tribunal a finalement levé l’interdiction qui le frappait d’exercer un mandat public.","Die Übersetzung lautet:
+
+Im Mai 2018 hob ein Gericht schließlich die Verbotsanordnung auf, die es ihm untersagt hatte, ein öffentliches Amt auszuüben.
+
+Oder in einer anderen Formulierung:
+
+Im Mai 2018 hob ein Gericht die Verbotsanordnung auf, die es ihm untersagt hatte, ein öffentliches Amt auszuüben.
+
+Beide Übersetzungen sind korrekt, aber die erste Formulierung ist vielleicht ein bisschen eleganter.",Im Mai 2018 hob ein Gericht schließlich das Verbot des Bekleidens politischer Ämter auf.,0.5803818702697754
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Au bel âge qui est le mien, j’ai décidé, par sens des responsabilités, d’aller en Europe, où il manque une pensée profonde sur l’avenir du monde », a déclaré l’ancien chef du gouvernement lors d’une réunion de campagne de son parti, Forza Italia (FI, droite), pour des élections régionales en Sardaigne.","""Bei meinem schönen Alter habe ich mich entschieden, aus Pflichtgefühl, nach Europa zu gehen, wo eine tiefe Gedanken über die Zukunft der Welt fehlt"", sagte der ehemalige Regierungschef bei einer Wahlkampfveranstaltung seines Parteis, Forza Italia (FI, rechts), für Regionalwahlen auf Sardinien.
+
+Hinweis: Die Übersetzung ist wörtlich und kann je nach Kontext und Nuance leicht angepasst werden.","""Im besten Alter, in dem ich bin, habe ich beschlossen, nach Europa zu gehen, wo eine tiefgreifende Zukunftsvision fehlt"", erklärte der ehemalige Staatschef während eines Treffens seiner Partei ""Forza Italia"" (FI, rechtsgerichtet), in dem es um die Kampagne für die Regionalwahlen in Sardinien ging.",0.6411066055297852
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,« Valeurs occidentales ».,"""Westliche Werte"".","""Westliche Werte"".",0.9884732365608215
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Le magnat des médias avait déjà mené la campagne de FI pour les élections législatives de mars dernier en Italie.,"Die Medienmogule hatte bereits die Kampagne von FI für die italienischen Parlamentswahlen im letzten März geleitet.
+
+Hinweis: 
+- ""Le magnat des médias"" wird mit ""Die Medienmogule"" übersetzt, da ""magnat"" in diesem Kontext eher ""Mogul"" oder ""Medienmogul"" bedeutet.
+- ""FI"" ist wahrscheinlich die Abkürzung für ""Forza Italia"", eine italienische politische Partei. 
+- ""élections législatives"" wird mit ""Parlamentswahlen"" übersetzt.
+- ""march dernier"" wird mit ""im letzten März"" übersetzt.",Der Medienmogul hatte bereits die Kampagne für Forza Italia bei den italienischen Parlamentswahlen im letzten März geleitet.,0.4991430938243866
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,Il n’avait pu lui-même y participer en raison de sa peine d’inéligibilité.,"Die Übersetzung lautet:
+
+Er konnte selbst nicht teilnehmen, da er wegen seiner Unwählbarkeit verhindert war.
+
+Alternativ:
+
+Er selbst konnte nicht teilnehmen, da er wegen seiner Unwählbarkeit verhindert war.
+
+Beide Übersetzungen sind korrekt, aber die erste Variante ist etwas direkter und einfacher.",Er selbst hatte wegen der verhängten Strafe des Ämterausschlusses nicht teilnehmen dürfen.,0.4561923146247864
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"M. Berlusconi s’était alors fait éclipser par son jeune allié d’alors, Matteo Salvini, patron de la Ligue (extrême droite), qui l’a dépassé au sein de la coalition (17 % contre 14 % pour FI) lors du scrutin et s’est ensuite allié avec le Mouvement 5 étoiles (M5S, antisystème), pour gouverner.","Hier übersetzt:
+
+Herr Berlusconi wurde dann von seinem jungen Verbündeten Matteo Salvini, dem Chef der Lega (extreme Rechte), überschattet, der ihn innerhalb der Koalition (17 % gegenüber 14 % für FI) bei der Wahl überholte und sich dann mit dem Movimento 5 Stelle (M5S, Antisystempartei) verbündete, um zu regieren.
+
+Hinweis: Die Übersetzung ist möglich, aber es ist zu beachten, dass die politische Landschaft in Italien komplex ist und die Übersetzung möglicherweise nicht vollständig genau ist.","Berlusconi war von seinem damaligen jungen Verbündeten, Matteo Salvini, überschattet worden, dem Parteivorsitzenden der italienischen extrem rechtsgerichteten Partei Liga. Salvini hatte Berlusconi bei der Wahl innerhalb der Koalition überflügelt (17% zu 14% für die FI) und sich anschließend mit der Fünf-Sterne-Bewegung (Anti-System-Partei) verbündet, um zu regieren.",0.7130516767501831
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Le choix de Matteo Salvini a payé : depuis des mois, la Ligue dépasse les 30 % d’intentions de vote dans les sondages, tandis que FI est passé sous la barre des 10 %.","Die Wahl von Matteo Salvini hat sich ausgezahlt: seit Monaten übersteigt die Lega die 30-Prozent-Marke bei den Umfragen, während FI unter der 10-Prozent-Marke liegt.
+
+Hinweis: 
+- ""La Ligue"" wird in der deutschen Übersetzung mit ""die Lega"" wiedergegeben, da ""Lega"" der Name der italienischen Partei ist und ""Ligue"" in Deutschland eher für eine andere politische Gruppierung verwendet wird.
+- ""FI"" ist die Abkürzung für Forza Italia, die italienische Partei von Silvio Berlusconi. In der Übersetzung wird sie beibehalten, da sie ein bekanntes Akronym ist.","Die Entscheidung Salvinis hat sich ausgezahlt: seit Monaten liegt die Liga in Umfragen bei über 30% der Wählerstimmen, während Forza Italia unter 10% gerutscht ist.",0.621974527835846
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Mais cela ne semble pas avoir découragé le milliardaire, qui a subi une opération à cœur ouvert en 2017 et qui fait toujours l’objet de plusieurs procès pour subornation de témoins après ses soirées libertines, appelées « bunga bunga ».","Aber das scheint den Milliardär nicht zu haben entmutigen, der 2017 eine Herzoperation durchgemacht hat und immer noch mehrere Prozesse wegen Bestechung von Zeugen nach seinen ""Bunga Bunga""-Partys zu absolvieren hat.
+
+Hinweis: ""Bunga Bunga"" ist ein Begriff, der ursprünglich aus Italien stammt und sich auf eine Art von Partys bezieht, bei denen es zu sexuellen Kontakten zwischen dem Gastgeber und den Gästen kommt. Es ist möglich, dass der Übersetzer den Begriff nicht kennt oder ihn nicht verwenden möchte, aber in diesem Fall ist er notwendig, um die Originalbedeutung zu wiedergeben.","Doch das scheint den Milliardär nicht entmutigt zu haben, der im Jahr 2017 am offenen Herzen operiert wurde und immer noch in mehrere Prozesse wegen Zeugenbestechung nach seinen Bunga-Bunga-Partys verwickelt ist.",0.6507856845855713
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"« Avec ma connaissance, mes expériences et ma capacité à convaincre, je pense pouvoir jouer un rôle important et faire comprendre aux citoyens européens que nous risquons de nous éloigner des valeurs occidentales » et d’être « dominés par un empire chinois dont les convictions et les valeurs sont opposées aux nôtres », a-t-il assuré.","""Mit meiner Kenntnis, meiner Erfahrung und meiner Fähigkeit, zu überzeugen, denke ich, dass ich einen wichtigen Beitrag leisten und den europäischen Bürgern vermitteln kann, dass wir uns von den westlichen Werten entfernen könnten"" und von einem ""chinesischen Imperium dominiert werden, dessen Überzeugungen und Werte unseren entgegengesetzt sind"", hat er versichert.
+
+Hinweis: Die Übersetzung ist wörtlich und kann je nach Kontext und Nuance leicht angepasst werden.","Er versicherte: ""Ich glaube, dass ich mit all dem Wissen, der Erfahrung und der Überzeugungskraft, die ich besitze, eine wichtige Rolle spielen kann. Ich denke, dass ich den Bürgen von Europa verständlich machen kann, dass wir Gefahr laufen, uns von unseren westlichen Werten zu entfernen"" und ""von einem chinesischen Imperium dominiert zu werden, das Überzeugungen und Werte hat, die gegenläufig zu unseren sind"".",0.7688607573509216
+translations_llama-3.1-8b-instant_fr-de.csv,llama-3.1-8b-instant,fr-de,fr,de,unspecified,"Le Caïman, qui a été quatre fois à la tête du gouvernement italien, ne devrait avoir aucun mal à se faire élire sur la liste de son parti.","Die Krokodile, die viermal an der Spitze des italienischen Regierung stand, sollten es ohne Probleme schaffen, auf der Liste ihrer Partei gewählt zu werden.
+
+Hinweis: Die Übersetzung ist nicht ganz korrekt, da ""Le Caïman"" im Kontext wahrscheinlich auf Silvio Berlusconi verweist, der viermal italienischer Ministerpräsident war. In diesem Fall wäre eine genauere Übersetzung:
+
+Silvio Berlusconi, der viermal italienischer Ministerpräsident war, sollte es ohne Probleme schaffen, auf der Liste seiner Partei gewählt zu werden.
+
+""Die Krokodile"" ist eine ungenaue Übersetzung, da es sich um eine Metapher handelt, die auf Berlusconi verweist.","Als Urgestein der italienischen Politik, und nach vier Legislaturperioden an der Spitze der italienischen Regierung, dürfte Berlusconi keinerlei Probleme haben, in die Liste der Partei gewählt zu werden.",0.4842780530452728
