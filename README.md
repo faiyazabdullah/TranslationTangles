@@ -38,16 +38,16 @@ Fig: Our framework comprises two key components: **(a)** LLM Benchmarking, where
 
 ## 📏 Evaluation Metrics
 
-| Metric       | Description                                         | Direction |
-|--------------|-----------------------------------------------------|-----------|
-| **BLEU**     | N-gram overlap with reference                       | ↑  |
-| **chrF**     | Character-level F-score                             | ↑  |
-| **TER**      | Translation Edit Rate                               | ↓  |
-| **BERTScore**| Semantic similarity using BERT embeddings           | ↑  |
-| **WER**      | Word Error Rate                                     | ↓  |
-| **CER**      | Character Error Rate                                | ↓  |
-| **ROUGE**    | Overlapping n-grams: ROUGE-1, ROUGE-2, ROUGE-L      | ↑  |
-
+| Metric        | Description                                           | Direction |
+|---------------|-------------------------------------------------------|-----------|
+| **BLEU**      | N-gram overlap with reference                         | ↑  |
+| **chrF**      | Character-level F-score                               | ↑  |
+| **TER**       | Translation Edit Rate                                 | ↓  |
+| **BERTScore** | Semantic similarity using BERT embeddings             | ↑  |
+| **COMET**     | Neural-based metric trained on human judgments (adequacy & fluency) | ↑  |
+| **WER**       | Word Error Rate                                       | ↓  |
+| **CER**       | Character Error Rate                                  | ↓  |
+| **ROUGE**     | Overlapping n-grams: ROUGE-1, ROUGE-2, ROUGE-L        | ↑  |
 
 <p><strong>Legend:</strong> ↑ Higher is better, ↓ Lower is better</p>
 
