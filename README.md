@@ -1,5 +1,7 @@
 # _Ready to Translate, Not to Represent?_ Bias and Performance Gaps in Multilingual LLMs Across Language Families and Domains
 
+📄 [**[paper]**](https://arxiv.org/abs/2510.07877)
+
 _**Abstract:** The rise of Large Language Models (LLMs) has redefined Machine Translation (MT), enabling context-aware and fluent translations across hundreds of languages and textual domains. Despite their remarkable capabilities, LLMs often exhibit uneven performance across language families and specialized domains. Moreover, recent evidence reveals that these models can encode and amplify different biases present in their training data, posing serious concerns for fairness, especially in low-resource languages. To address these gaps, we introduce Translation Tangles, a unified framework and dataset for evaluating the translation quality and fairness of open-source LLMs. Our approach benchmarks 24 bidirectional language pairs across multiple domains using different metrics. We further propose a hybrid bias detection pipeline that integrates rule-based heuristics, semantic similarity filtering, and LLM-based validation. We also introduce a high-quality, bias-annotated dataset based on human evaluations of 1,439 translation-reference pairs._
 
 <p align="center">
@@ -89,3 +91,20 @@ To strengthen the evaluation beyond automated metrics, we conducted structured h
 These examples are stratified into: (i) 294 undetected bias cases where no system flagged bias, (ii) 294 disagreement cases where only the heuristic flagged bias, and (iii) 851 agreement cases where both systems confirmed bias. This dataset provides a robust resource for bias-aware translation benchmarking, model comparison, and interpretability research in multilingual NLP.
 
 📂 [Download Human-Annotated Dataset](dataset/translation_tangles_dataset.csv)
+
+<!-- ## Cite
+<pre>
+@ARTICLE{11036671,
+  author={Sayeedi, Md. Faiyaz Abdullah and Bin Hossain, Maaz and Hassan, Md. Kamrul and Afrin, Sabrina and Hossain, Molla Md. Sabit and Hossain, Md. Shohrab},
+  journal={IEEE Access}, 
+  title={JailbreakTracer: Explainable Detection of Jailbreaking Prompts in LLMs Using Synthetic Data Generation}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={123708-123723},
+  keywords={Ethics;Cognition;Synthetic data;Natural language processing;Artificial intelligence;Adaptation models;Security;Robustness;Prevention and mitigation;Passwords;Natural language processing;large language models;jailbreaking;text classification;synthetic data;generative AI;explainable AI},
+  doi={10.1109/ACCESS.2025.3579996}}
+</pre> -->
+
+## Contact
+For any queries, please contact us at msayeedi212049@bscse.uiu.ac.bd
