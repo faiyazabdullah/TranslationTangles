@@ -1,6 +1,8 @@
 # _Ready to Translate, Not to Represent?_ Bias and Performance Gaps in Multilingual LLMs Across Language Families and Domains
 
-📄 [**[paper]**](https://arxiv.org/abs/2510.07877)
+[![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2510.07877)
+
+> 🌍 **TL;DR**: Translation Tangles benchmark multilingual LLM translations and introduce a two-stage bias detection framework, along with an LLM-as-a-judge verifier and human-annotated dataset for evaluating translation quality and representational fairness.
 
 _**Abstract:** The rise of Large Language Models (LLMs) has redefined Machine Translation (MT), enabling context-aware and fluent translations across hundreds of languages and textual domains. Despite their remarkable capabilities, LLMs often exhibit uneven performance across language families and specialized domains. Moreover, recent evidence reveals that these models can encode and amplify different biases present in their training data, posing serious concerns for fairness, especially in low-resource languages. To address these gaps, we introduce Translation Tangles, a unified framework and dataset for evaluating the translation quality and fairness of open-source LLMs. Our approach benchmarks 24 bidirectional language pairs across multiple domains using different metrics. We further propose a hybrid bias detection pipeline that integrates rule-based heuristics, semantic similarity filtering, and LLM-based validation. We also introduce a high-quality, bias-annotated dataset based on human evaluations of 1,439 translation-reference pairs._
 
