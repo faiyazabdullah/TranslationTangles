@@ -94,19 +94,15 @@ These examples are stratified into: (i) 294 undetected bias cases where no syste
 
 📂 [Download Human-Annotated Dataset](dataset/translation_tangles_dataset.csv)
 
-<!-- ## Cite
+## Cite
 <pre>
-@ARTICLE{11036671,
-  author={Sayeedi, Md. Faiyaz Abdullah and Bin Hossain, Maaz and Hassan, Md. Kamrul and Afrin, Sabrina and Hossain, Molla Md. Sabit and Hossain, Md. Shohrab},
-  journal={IEEE Access}, 
-  title={JailbreakTracer: Explainable Detection of Jailbreaking Prompts in LLMs Using Synthetic Data Generation}, 
-  year={2025},
-  volume={13},
-  number={},
-  pages={123708-123723},
-  keywords={Ethics;Cognition;Synthetic data;Natural language processing;Artificial intelligence;Adaptation models;Security;Robustness;Prevention and mitigation;Passwords;Natural language processing;large language models;jailbreaking;text classification;synthetic data;generative AI;explainable AI},
-  doi={10.1109/ACCESS.2025.3579996}}
-</pre> -->
+@article{sayeedi2025ready,
+  title={Ready to Translate, Not to Represent? Bias and Performance Gaps in Multilingual LLMs Across Language Families and Domains},
+  author={Sayeedi, Md Faiyaz Abdullah and Alam, Md Mahbub and Rahman, Subhey Sadi and Islam, Md Adnanul and Deepti, Jannatul Ferdous and Mohiuddin, Tasnim and Islam, Md Mofijul and Shatabda, Swakkhar},
+  journal={arXiv preprint arXiv:2510.07877},
+  year={2025}
+}
+</pre>
 
 ## Contact
 For any queries, please contact us at msayeedi212049@bscse.uiu.ac.bd
