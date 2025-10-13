@@ -55,7 +55,7 @@ Fig: Our framework comprises two key components: **(a)** LLM Benchmarking, where
 
 <p><strong>Legend:</strong> ↑ Higher is better, ↓ Lower is better</p>
 
-## 📚 Translation Performance Evaluation Datasets
+## Translation Performance Evaluation Datasets
 
 We use a combination of general-purpose and domain-specific multilingual benchmark datasets to evaluate translation quality across diverse linguistic and contextual settings:
 
