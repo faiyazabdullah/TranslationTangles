@@ -12,7 +12,7 @@ _**Abstract:** The rise of Large Language Models (LLMs) has redefined Machine Tr
 
 Fig: Our framework comprises two key components: **(a)** LLM Benchmarking, where _T_ are evaluated against _R_ using LLMs across diverse language families and domains; and **(b)** Uncovering Bias Pattern with LLM-as-a-Judge Evaluation, where potential biases are flagged using linguistic heuristics and semantic analysis, and then verified through LLMs and human annotators. Here, _S_ = Source, _R_ = Reference, _T_ = Translation.
 
-## 🧠 Models
+## Models
 
 <table>
 <thead>
@@ -40,7 +40,7 @@ Fig: Our framework comprises two key components: **(a)** LLM Benchmarking, where
 </tbody>
 </table>
 
-## 📏 Evaluation Metrics
+## Evaluation Metrics
 
 | Metric        | Description                                           | Direction |
 |---------------|-------------------------------------------------------|-----------|
@@ -69,7 +69,7 @@ We use a combination of general-purpose and domain-specific multilingual benchma
 | [**WMT-18**](https://huggingface.co/datasets/wmt/wmt18)          | Multilingual            | 100M–1B      | General      | `source_text`, `target_text`, `X_lang`, `y_lang`                       | Train, Val, Test                       |
 
 
-## 🌐 Language Pairs
+## Language Pairs
 
 | Code Pair     | Language Names            |
 |---------------|---------------------------|
@@ -86,7 +86,7 @@ We use a combination of general-purpose and domain-specific multilingual benchma
 | tr-en / en-tr | Turkish ↔ English          |
 | bn-en / en-bn | Bangla ↔ English           |
 
-## 🧪 Human Evaluation and Our Dataset Contribution
+## Human Evaluation and Our Dataset Contribution
 
 To strengthen the evaluation beyond automated metrics, we conducted structured human annotation of 1,439 translation-reference pairs. Each instance was annotated along three axes: (i) bias flags from our heuristic-semantic framework, (ii) bias assessments by an LLM-as-a-Judge module, and (iii) gold-standard decisions by independent human reviewers. Each record includes the source sentence, reference translation, model output, and categorical bias labels (gender, cultural, sociocultural, racial, religious), along with common translation issues such as grammatical inconsistencies, pronoun shifts, semantic distortions, and hallucinated biases.
 
