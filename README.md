@@ -1,6 +1,6 @@
 # _Ready to Translate, Not to Represent?_ Bias and Performance Gaps in Multilingual LLMs Across Language Families and Domains
 
-[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2510.07877)
+## ACL 2026 (Findings)
 
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2510.07877)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](dataset/translation_tangles_dataset.csv)
